@@ -3300,6 +3300,30 @@
       "news": [],
       "age_days": 76,
       "age_measured": true
+    },
+    "cancer sponge test": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:58:54+00:00",
+      "game_name": "",
+      "slug": "cancer-sponge-test",
+      "confidence": 0.99,
+      "reason": "Medical/NHS cancer test news, not a video game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "scratch": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:58:54+00:00",
+      "game_name": "",
+      "slug": "scratch",
+      "confidence": 0.85,
+      "reason": "Ambiguous/evergreen term; not a specific newly viral game.",
+      "traffic": "+50%",
+      "sources": [
+        "rising:io games"
+      ]
     }
   },
   "domains": {
