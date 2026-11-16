@@ -2,14 +2,12 @@ import logging
 
 import requests
 
-from . import aliyun_dns
 from .config import env
 
 log = logging.getLogger(__name__)
 
 API = "https://api.vercel.com"
-CNAME_TARGET = "cname.vercel-dns.com"
-APEX_IP = "76.76.21.21"
+NAMESERVERS = ["ns1.vercel-dns.com", "ns2.vercel-dns.com"]
 
 
 def _request(method, path, **kwargs):
@@ -17,41 +15,33 @@ def _request(method, path, **kwargs):
     team = env("VERCEL_ORG_ID")
     if team and team.startswith("team_"):
         params["teamId"] = team
-    resp = requests.request(
+    return requests.request(
         method, f"{API}{path}",
         headers={"Authorization": f"Bearer {env('VERCEL_TOKEN', required=True)}"},
         params=params, timeout=30, **kwargs,
     )
-    return resp
 
 
-def add_domain(hostname, base_domain):
-    """把 hostname 绑定到 Vercel 项目，并在阿里云 DNS 上加好解析记录和所需的验证 TXT。"""
+def ensure_domains(base_domain):
+    """把主域名、www 和 *.主域名 绑定到 Vercel 项目。
+
+    通配符域名要求主域名的 DNS 服务器指向 Vercel（NAMESERVERS），
+    这样之后任何 <slug>.主域名 都直接生效，不需要再逐个配置解析。
+    """
     project = env("VERCEL_PROJECT_ID", required=True)
-    if hostname == base_domain:
-        aliyun_dns.upsert_record(base_domain, "@", "A", APEX_IP)
-    else:
-        aliyun_dns.upsert_record(base_domain, hostname[: -len(base_domain) - 1], "CNAME", CNAME_TARGET)
-
-    resp = _request("POST", f"/v10/projects/{project}/domains", json={"name": hostname})
-    if resp.status_code == 409:
-        resp = _request("GET", f"/v9/projects/{project}/domains/{hostname}")
-    if resp.status_code >= 400:
-        raise RuntimeError(f"Vercel 绑定域名失败 {hostname}: {resp.status_code} {resp.text}")
-
-    info = resp.json()
-    if info.get("verified", True):
-        log.info("Vercel 已绑定 %s", hostname)
-        return True
-
-    for item in info.get("verification", []):
-        if item.get("type") == "TXT":
-            txt_rr = item["domain"][: -len(base_domain) - 1]
-            aliyun_dns.upsert_record(base_domain, txt_rr, "TXT", item["value"])
-    verify = _request("POST", f"/v9/projects/{project}/domains/{hostname}/verify")
-    if verify.status_code >= 400:
-        log.warning("%s 已加验证记录，Vercel 暂未验证通过（DNS 生效后下次运行会重试）: %s",
-                    hostname, verify.text)
-        return False
-    log.info("Vercel 已绑定并验证 %s", hostname)
-    return True
+    all_ok = True
+    for name in (base_domain, f"www.{base_domain}", f"*.{base_domain}"):
+        resp = _request("POST", f"/v10/projects/{project}/domains", json={"name": name})
+        if resp.status_code == 409:
+            resp = _request("GET", f"/v9/projects/{project}/domains/{name}")
+        if resp.status_code >= 400:
+            log.error("Vercel 绑定 %s 失败: %s %s", name, resp.status_code, resp.text)
+            all_ok = False
+            continue
+        if not resp.json().get("verified", True):
+            log.warning("%s 还没验证通过，请确认 %s 的 DNS 服务器已改为 %s",
+                        name, base_domain, " / ".join(NAMESERVERS))
+            all_ok = False
+        else:
+            log.info("Vercel 已绑定 %s", name)
+    return all_ok

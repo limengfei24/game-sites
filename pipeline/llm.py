@@ -7,12 +7,12 @@ from .config import env
 
 
 def chat_json(system, user, temperature=0.3):
-    base_url = env("LLM_BASE_URL", "https://dashscope.aliyuncs.com/compatible-mode/v1").rstrip("/")
+    base_url = env("LLM_BASE_URL", "https://api.deepseek.com/v1").rstrip("/")
     resp = requests.post(
         f"{base_url}/chat/completions",
         headers={"Authorization": f"Bearer {env('LLM_API_KEY', required=True)}"},
         json={
-            "model": env("LLM_MODEL", "qwen-plus"),
+            "model": env("LLM_MODEL", "deepseek-chat"),
             "temperature": temperature,
             "response_format": {"type": "json_object"},
             "messages": [

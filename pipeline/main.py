@@ -5,7 +5,7 @@ from datetime import datetime, timezone
 
 import requests
 
-from . import aliyun_dns, builder, classify, content, serp, trends, vercel_api
+from . import builder, classify, content, serp, trends, vercel_api
 from .config import env, load_config
 from .state import load_games, load_state, now_iso, save_game, save_state
 
@@ -97,31 +97,21 @@ def build_new_sites(cfg, state):
 
 def provision(cfg, state):
     base = cfg["base_domain"]
-    pending = [rec for rec in state["keywords"].values() if rec["status"] == "built"]
-    hub = state.setdefault("hub", {})
-    if not pending and hub.get("live"):
-        return []
-
-    aliyun_dns.check_domain(base)
-    if not hub.get("live"):
-        try:
-            hub["live"] = vercel_api.add_domain(base, base) and vercel_api.add_domain(f"www.{base}", base)
-        except Exception as exc:
-            log.error("绑定主域名失败: %s", exc)
+    domains = state.setdefault("domains", {})
+    if not domains.get("ready"):
+        domains["ready"] = vercel_api.ensure_domains(base)
+        if not domains["ready"]:
+            return []
 
     live = []
-    for rec in pending:
-        host = f"{rec['slug']}.{base}"
-        try:
-            ok = vercel_api.add_domain(host, base)
-        except Exception as exc:
-            log.error("配置 %s 失败，下次重试: %s", host, exc)
+    for rec in state["keywords"].values():
+        if rec["status"] != "built":
             continue
-        if ok:
-            rec["status"] = "live"
-            rec["url"] = f"https://{host}/"
-            rec["live_at"] = now_iso()
-            live.append(host)
+        host = f"{rec['slug']}.{base}"
+        rec["status"] = "live"
+        rec["url"] = f"https://{host}/"
+        rec["live_at"] = now_iso()
+        live.append(host)
     return live
 
 
@@ -159,9 +149,10 @@ def write_summary(found, built, live):
 
 def main():
     parser = argparse.ArgumentParser(description="谷歌趋势游戏新词 -> 自动建站")
-    parser.add_argument("command", nargs="?", default="run", choices=["run", "build", "ping"],
-                        help="run: 完整流程；build: 只根据已有数据重新生成 dist；ping: 部署后通知搜索引擎")
-    parser.add_argument("--dry-run", action="store_true", help="不改阿里云 DNS、不绑定 Vercel 域名")
+    parser.add_argument("command", nargs="?", default="run", choices=["run", "build", "ping", "domains"],
+                        help="run: 完整流程；build: 只根据已有数据重新生成 dist；"
+                             "ping: 部署后通知搜索引擎；domains: 把主域名和通配符子域名绑定到 Vercel")
+    parser.add_argument("--dry-run", action="store_true", help="不绑定 Vercel 域名")
     args = parser.parse_args()
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 
@@ -170,6 +161,9 @@ def main():
     try:
         if args.command == "ping":
             ping(cfg, state)
+            return
+        if args.command == "domains":
+            state.setdefault("domains", {})["ready"] = vercel_api.ensure_domains(cfg["base_domain"])
             return
         if args.command == "run":
             found = discover(cfg, state)
