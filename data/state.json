@@ -1,5 +1,496 @@
 {
-  "keywords": {},
+  "keywords": {
+    "mason rudolph": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "mason-rudolph",
+      "confidence": 0.99,
+      "reason": "NFL athlete, not a game.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "donald trump iran war": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "donald-trump-iran-war",
+      "confidence": 0.99,
+      "reason": "Politics/news, not a game.",
+      "traffic": "5000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "oklahoma city thunder vs sacramento kings match player stats": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "oklahoma-city-thunder-vs-sacramento-kings-match-player-stats",
+      "confidence": 0.99,
+      "reason": "NBA match/stats, not a game.",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "oscars": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "oscars",
+      "confidence": 0.99,
+      "reason": "Awards event, not a game.",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "gta 6 physical copy code flaw": {
+      "status": "live",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "Grand Theft Auto VI",
+      "slug": "gta-6",
+      "confidence": 0.86,
+      "reason": "Viral GTA 6-specific physical copy flaw news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US",
+        "daily:GB"
+      ],
+      "news": [
+        {
+          "title": "GTA 6 PS5 Codes Potentially Being Stolen from Physical Copies Using Flashlight Trick",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-codes-potentially-being-stolen-from-physical-copies-using-flashlight-trick",
+          "source": "Push Square"
+        },
+        {
+          "title": "GTA VI Map Leaks As Collector’s Box Sold Early",
+          "url": "https://rockstarintel.com/gta-vi-map-leaks-as-collectors-box-sold-early/",
+          "source": "RockstarINTEL"
+        },
+        {
+          "title": "\"Physical\" GTA 6 Copies Might Be Vulnerable To A Very Stupid But Serious Trick",
+          "url": "https://www.gamespot.com/articles/physical-gta-6-copies-might-be-vulnerable-to-a-very-stupid-but-serious-trick/",
+          "source": "GameSpot"
+        },
+        {
+          "title": "The ‘GTA 6’ Physical Edition Is Missing More Than Just Its Disc",
+          "url": "https://www.forbes.com/sites/mattgardner1/2026/11/12/the-gta-6-physical-edition-is-missing-more-than-just-its-disc/",
+          "source": "Forbes"
+        },
+        {
+          "title": "GTA 6 PS5 Codes Potentially Being Stolen from Physical Copies Using Flashlight Trick",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-codes-potentially-being-stolen-from-physical-copies-using-flashlight-trick",
+          "source": "Push Square"
+        }
+      ],
+      "age_days": 0,
+      "competitors": null,
+      "built_at": "2026-11-16T04:24:26+00:00",
+      "url": "https://gta-6.many.pw/",
+      "live_at": "2026-11-16T04:24:26+00:00"
+    },
+    "kasparas jakučionis": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "kasparas-jakucionis",
+      "confidence": 0.99,
+      "reason": "Basketball athlete, not a game.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "tyler herro": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "tyler-herro",
+      "confidence": 0.99,
+      "reason": "NBA athlete, not a game.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US",
+        "daily:AU"
+      ]
+    },
+    "golden knights": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "golden-knights",
+      "confidence": 0.98,
+      "reason": "NHL team, not a game.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "vegas golden knights": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "vegas-golden-knights",
+      "confidence": 0.99,
+      "reason": "NHL team, not a game.",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "liga mx femenil": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "liga-mx-femenil",
+      "confidence": 0.99,
+      "reason": "Soccer league, not a game.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "microsoft xbox helix console details": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "microsoft-xbox-helix-console-details",
+      "confidence": 0.95,
+      "reason": "Xbox console hardware, not a specific game.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "bucks vs hawks": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "bucks-vs-hawks",
+      "confidence": 0.99,
+      "reason": "NBA matchup, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "steelers": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "steelers",
+      "confidence": 0.99,
+      "reason": "NFL team, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "bengals vs steelers": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "bengals-vs-steelers",
+      "confidence": 0.99,
+      "reason": "NFL matchup, not a game.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "bengals": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "bengals",
+      "confidence": 0.99,
+      "reason": "NFL team, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "wizards vs rockets": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "wizards-vs-rockets",
+      "confidence": 0.99,
+      "reason": "NBA matchup, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "hm": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "hm",
+      "confidence": 0.99,
+      "reason": "Retailer H&M, not a game.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "russian border": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "russian-border",
+      "confidence": 0.99,
+      "reason": "Geopolitical news, not a game.",
+      "traffic": "5000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "devin booker": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "devin-booker",
+      "confidence": 0.99,
+      "reason": "NBA athlete, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "samaje perine": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "samaje-perine",
+      "confidence": 0.99,
+      "reason": "NFL athlete, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "shai gilgeous-alexander": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "shai-gilgeous-alexander",
+      "confidence": 0.99,
+      "reason": "NBA athlete, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "carter hart": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "carter-hart",
+      "confidence": 0.99,
+      "reason": "NHL goalie, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "artificial intelligence": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "artificial-intelligence",
+      "confidence": 0.99,
+      "reason": "Generic technology topic, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "intel": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "intel",
+      "confidence": 0.99,
+      "reason": "Chip company, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "ivar stenberg": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "ivar-stenberg",
+      "confidence": 0.99,
+      "reason": "Hockey athlete, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "dexter lawrence": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "dexter-lawrence",
+      "confidence": 0.99,
+      "reason": "NFL athlete, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "filip chytil": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "filip-chytil",
+      "confidence": 0.99,
+      "reason": "NHL athlete, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "howie mandel": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "howie-mandel",
+      "confidence": 0.99,
+      "reason": "Celebrity, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "edmonton oilers": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "edmonton-oilers",
+      "confidence": 0.99,
+      "reason": "NHL team, not a game.",
+      "traffic": "2000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "ja'marr chase": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "ja-marr-chase",
+      "confidence": 0.99,
+      "reason": "NFL athlete, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "richard sterban": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "richard-sterban",
+      "confidence": 0.99,
+      "reason": "Musician/celebrity, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "katy perry": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "katy-perry",
+      "confidence": 0.99,
+      "reason": "Celebrity, not a game.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "dp world tour 2027 exemptions": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "dp-world-tour-2027-exemptions",
+      "confidence": 0.99,
+      "reason": "Golf tour, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "canberra": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "canberra",
+      "confidence": 0.99,
+      "reason": "Place/news, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "australia property auction clearance rates": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "australia-property-auction-clearance-rates",
+      "confidence": 0.99,
+      "reason": "Real estate topic, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "so you are horse": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "so-you-are-horse",
+      "confidence": 0.99,
+      "reason": "Racehorse news, not a game.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "victoria vs western australia": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "victoria-vs-western-australia",
+      "confidence": 0.98,
+      "reason": "Cricket matchup, not a game.",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "prince harry king charles christmas snub": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:24:07+00:00",
+      "game_name": "",
+      "slug": "prince-harry-king-charles-christmas-snub",
+      "confidence": 0.99,
+      "reason": "Royal family news, not a game.",
+      "traffic": "2000+",
+      "sources": [
+        "daily:AU"
+      ]
+    }
+  },
   "domains": {
     "ready": true
   }
