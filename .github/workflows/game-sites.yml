@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  models: read
 
 concurrency:
   group: game-sites
@@ -18,7 +19,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 45
     env:
-      LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+      # 不配 LLM_API_KEY 时用 GitHub 自带令牌调用免费的 GitHub Models
+      LLM_API_KEY: ${{ secrets.LLM_API_KEY || github.token }}
       LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
       LLM_MODEL: ${{ secrets.LLM_MODEL }}
       VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}

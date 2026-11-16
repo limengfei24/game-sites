@@ -34,7 +34,16 @@ def generate(candidate, rec, cfg):
     store_pages = [s for s in (sources.steam(game_name), sources.roblox(game_name), sources.wikipedia(game_name)) if s]
 
     videos = sources.find_videos(f"{game_name} gameplay", ccfg["youtube_videos"])
-    transcripts, budget = [], ccfg["max_transcript_chars"]
+    material = {
+        "game_name": game_name,
+        "search_keyword": candidate["keyword"],
+        "store_pages": store_pages,
+        "news_headlines": [n["title"] for n in candidate.get("news", [])][:10],
+        "youtube_video_titles": [v["title"] for v in videos],
+    }
+    # 免费模型（GitHub Models 等）单次输入有上限，字幕只能用剩下的额度
+    room = ccfg.get("max_input_chars", 24000) - len(json.dumps(material, ensure_ascii=False))
+    transcripts, budget = [], min(ccfg["max_transcript_chars"], room)
     for video in videos:
         if budget <= 0:
             break
@@ -48,14 +57,7 @@ def generate(candidate, rec, cfg):
     if not store_pages and not transcripts and not candidate.get("news"):
         raise RuntimeError("找不到任何可靠资料，跳过以免 AI 编造内容")
 
-    material = {
-        "game_name": game_name,
-        "search_keyword": candidate["keyword"],
-        "store_pages": store_pages,
-        "news_headlines": [n["title"] for n in candidate.get("news", [])][:10],
-        "youtube_video_titles": [v["title"] for v in videos],
-        "youtube_transcripts": transcripts,
-    }
+    material["youtube_transcripts"] = transcripts
     page = chat_json(
         SYSTEM.format(language=cfg["site"]["language"]),
         json.dumps(material, ensure_ascii=False),

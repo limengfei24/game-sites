@@ -28,3 +28,4 @@ rules:
 content:
   youtube_videos: 4            # 每个游戏抓几个 YouTube 视频的字幕作为素材
   max_transcript_chars: 15000  # 喂给 AI 的字幕总长度上限
+  max_input_chars: 24000       # 单次喂给 AI 的资料总长度上限（GitHub Models 免费档约 8000 token）
