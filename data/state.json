@@ -49,12 +49,12 @@
       ]
     },
     "gta 6 physical copy code flaw": {
-      "status": "live",
+      "status": "abandoned",
       "first_seen": "2026-11-16T04:24:07+00:00",
       "game_name": "Grand Theft Auto VI",
       "slug": "gta-6",
       "confidence": 0.86,
-      "reason": "Viral GTA 6-specific physical copy flaw news.",
+      "reason": "AAA 大作新闻词，大媒体占满搜索结果，不符合新词新站思路",
       "traffic": "200+",
       "sources": [
         "daily:US",
@@ -90,7 +90,6 @@
       "age_days": 0,
       "competitors": null,
       "built_at": "2026-11-16T04:24:26+00:00",
-      "url": "https://gta-6.many.pw/",
       "live_at": "2026-11-16T04:24:26+00:00"
     },
     "kasparas jakučionis": {
@@ -527,7 +526,8 @@
       ],
       "news": [],
       "age_days": 2,
-      "competitors": null
+      "competitors": null,
+      "age_measured": true
     },
     "trib game": {
       "status": "candidate",
@@ -542,7 +542,8 @@
       ],
       "news": [],
       "age_days": 2,
-      "competitors": null
+      "competitors": null,
+      "age_measured": true
     },
     "trib meaning": {
       "status": "rejected",
@@ -653,7 +654,8 @@
       ],
       "news": [],
       "age_days": 18,
-      "competitors": null
+      "competitors": null,
+      "age_measured": true
     },
     "othello game": {
       "status": "rejected",
@@ -912,7 +914,8 @@
       "competitors": null,
       "built_at": "2026-11-16T04:33:30+00:00",
       "url": "https://exterminauts.many.pw/",
-      "live_at": "2026-11-16T04:35:21+00:00"
+      "live_at": "2026-11-16T04:35:21+00:00",
+      "age_measured": true
     },
     "new gta game": {
       "status": "rejected",
@@ -986,22 +989,24 @@
         "rising:roblox"
       ],
       "news": [],
-      "age_days": 52
+      "age_days": 52,
+      "age_measured": true
     },
     "stand out codes": {
-      "status": "duplicate",
+      "status": "abandoned",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Stand Out",
       "slug": "stand-out",
       "confidence": 0.86,
-      "reason": "Codes for Roblox game Stand Out",
+      "reason": "同一游戏的其他说法已火了 52 天，超过 30 天",
       "traffic": "+9900%",
       "sources": [
         "rising:roblox"
       ],
       "news": [],
       "age_days": 2,
-      "competitors": null
+      "competitors": null,
+      "age_measured": true
     },
     "dollar general roblox gift card sale": {
       "status": "rejected",
@@ -1028,19 +1033,20 @@
       ]
     },
     "stand out roblox": {
-      "status": "duplicate",
+      "status": "abandoned",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Stand Out",
       "slug": "stand-out",
       "confidence": 0.9,
-      "reason": "Specific Roblox game",
+      "reason": "同一游戏的其他说法已火了 52 天，超过 30 天",
       "traffic": "+1050%",
       "sources": [
         "rising:roblox"
       ],
       "news": [],
       "age_days": 30,
-      "competitors": null
+      "competitors": null,
+      "age_measured": true
     },
     "beyond nen codes": {
       "status": "candidate",
@@ -1055,7 +1061,8 @@
       ],
       "news": [],
       "age_days": 9,
-      "competitors": null
+      "competitors": null,
+      "age_measured": true
     },
     "do not stop roblox codes": {
       "status": "live",
@@ -1073,7 +1080,8 @@
       "competitors": null,
       "built_at": "2026-11-16T04:43:20+00:00",
       "url": "https://do-not-stop.many.pw/",
-      "live_at": "2026-11-16T04:44:23+00:00"
+      "live_at": "2026-11-16T04:44:23+00:00",
+      "age_measured": true
     },
     "survive a psycho roblox codes": {
       "status": "abandoned",
@@ -1087,7 +1095,8 @@
         "rising:roblox"
       ],
       "news": [],
-      "age_days": 35
+      "age_days": 35,
+      "age_measured": true
     },
     "ro bass fishing roblox codes": {
       "status": "abandoned",
@@ -1102,7 +1111,8 @@
       ],
       "news": [],
       "age_days": 72,
-      "competitors": null
+      "competitors": null,
+      "age_measured": true
     },
     "codes for king legacy roblox": {
       "status": "live",
@@ -1120,7 +1130,8 @@
       "competitors": null,
       "built_at": "2026-11-16T04:34:38+00:00",
       "url": "https://king-legacy.many.pw/",
-      "live_at": "2026-11-16T04:35:21+00:00"
+      "live_at": "2026-11-16T04:35:21+00:00",
+      "age_measured": true
     },
     "a bizarre run codes": {
       "status": "candidate",
@@ -1135,7 +1146,8 @@
       ],
       "news": [],
       "age_days": 9,
-      "competitors": null
+      "competitors": null,
+      "age_measured": true
     },
     "the forge roblox": {
       "status": "abandoned",
@@ -1149,7 +1161,8 @@
         "rising:roblox"
       ],
       "news": [],
-      "age_days": 43
+      "age_days": 43,
+      "age_measured": true
     },
     "ragdoll mma roblox codes": {
       "status": "abandoned",
@@ -1163,7 +1176,8 @@
         "rising:roblox"
       ],
       "news": [],
-      "age_days": 52
+      "age_days": 52,
+      "age_measured": true
     },
     "shibuya codes roblox": {
       "status": "candidate",
@@ -1178,7 +1192,8 @@
       ],
       "news": [],
       "age_days": 14,
-      "competitors": null
+      "competitors": null,
+      "age_measured": true
     },
     "shibuya codes": {
       "status": "candidate",
@@ -1193,7 +1208,8 @@
       ],
       "news": [],
       "age_days": 16,
-      "competitors": null
+      "competitors": null,
+      "age_measured": true
     },
     "roblox gift card": {
       "status": "rejected",
@@ -1220,15 +1236,16 @@
       ],
       "news": [],
       "age_days": 49,
-      "competitors": null
+      "competitors": null,
+      "age_measured": true
     },
     "the forge roblox codes": {
-      "status": "live",
+      "status": "abandoned",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "The Forge",
       "slug": "the-forge",
       "confidence": 0.78,
-      "reason": "Codes for Roblox game The Forge",
+      "reason": "同一游戏的其他说法已火了 43 天，超过 30 天",
       "traffic": "+40%",
       "sources": [
         "rising:roblox"
@@ -1237,8 +1254,8 @@
       "age_days": 14,
       "competitors": null,
       "built_at": "2026-11-16T04:35:21+00:00",
-      "url": "https://the-forge.many.pw/",
-      "live_at": "2026-11-16T04:35:21+00:00"
+      "live_at": "2026-11-16T04:35:21+00:00",
+      "age_measured": true
     },
     "roblox server status": {
       "status": "rejected",
@@ -1264,7 +1281,8 @@
         "rising:roblox"
       ],
       "news": [],
-      "age_days": 46
+      "age_days": 46,
+      "age_measured": true
     },
     "foundation galactic frontier steam release": {
       "status": "live",
@@ -1296,7 +1314,8 @@
         "rising:steam"
       ],
       "news": [],
-      "age_days": 92
+      "age_days": 92,
+      "age_measured": true
     },
     "mistfall hunter steam charts": {
       "status": "live",
@@ -1314,7 +1333,8 @@
       "competitors": null,
       "built_at": "2026-11-16T04:39:25+00:00",
       "url": "https://mistfall-hunter.many.pw/",
-      "live_at": "2026-11-16T04:39:25+00:00"
+      "live_at": "2026-11-16T04:39:25+00:00",
+      "age_measured": true
     },
     "rob run steam charts": {
       "status": "live",
@@ -1332,7 +1352,8 @@
       "competitors": null,
       "built_at": "2026-11-16T04:43:56+00:00",
       "url": "https://rob-run.many.pw/",
-      "live_at": "2026-11-16T04:44:23+00:00"
+      "live_at": "2026-11-16T04:44:23+00:00",
+      "age_measured": true
     },
     "bodycam steam": {
       "status": "abandoned",
@@ -1346,7 +1367,8 @@
         "rising:steam"
       ],
       "news": [],
-      "age_days": 90
+      "age_days": 90,
+      "age_measured": true
     },
     "is gta 6 on steam": {
       "status": "rejected",
@@ -1396,7 +1418,8 @@
         "rising:steam"
       ],
       "news": [],
-      "age_days": 67
+      "age_days": 67,
+      "age_measured": true
     },
     "gta 6 steam": {
       "status": "rejected",
@@ -1460,7 +1483,8 @@
         "rising:steam"
       ],
       "news": [],
-      "age_days": 68
+      "age_days": 68,
+      "age_measured": true
     },
     "gta 6 steam release date": {
       "status": "rejected",
@@ -1546,7 +1570,8 @@
         "rising:io games"
       ],
       "news": [],
-      "age_days": 91
+      "age_days": 91,
+      "age_measured": true
     },
     "shell shockers": {
       "status": "abandoned",
@@ -1560,7 +1585,8 @@
         "rising:io games"
       ],
       "news": [],
-      "age_days": 91
+      "age_days": 91,
+      "age_measured": true
     },
     "eaglercraft": {
       "status": "abandoned",
@@ -1574,7 +1600,8 @@
         "rising:io games"
       ],
       "news": [],
-      "age_days": 91
+      "age_days": 91,
+      "age_measured": true
     },
     "freezenova": {
       "status": "rejected",
@@ -1616,7 +1643,8 @@
       "competitors": null,
       "built_at": "2026-11-16T04:44:23+00:00",
       "url": "https://surviv-io.many.pw/",
-      "live_at": "2026-11-16T04:44:23+00:00"
+      "live_at": "2026-11-16T04:44:23+00:00",
+      "age_measured": true
     },
     "hexanaut io": {
       "status": "candidate",
@@ -1830,12 +1858,12 @@
       ]
     },
     "roblox stand out codes": {
-      "status": "live",
+      "status": "abandoned",
       "first_seen": "2026-11-16T04:37:31+00:00",
       "game_name": "Stand Out",
       "slug": "stand-out",
       "confidence": 0.75,
-      "reason": "Codes for a specific Roblox game",
+      "reason": "同一游戏的其他说法已火了 52 天，超过 30 天",
       "traffic": "+10650%",
       "sources": [
         "rising:roblox"
@@ -1844,16 +1872,16 @@
       "age_days": 2,
       "competitors": null,
       "built_at": "2026-11-16T04:37:56+00:00",
-      "url": "https://stand-out.many.pw/",
-      "live_at": "2026-11-16T04:39:25+00:00"
+      "live_at": "2026-11-16T04:39:25+00:00",
+      "age_measured": true
     },
     "the forge codes roblox": {
-      "status": "duplicate",
+      "status": "abandoned",
       "first_seen": "2026-11-16T04:37:31+00:00",
       "game_name": "The Forge",
       "slug": "the-forge",
       "confidence": 0.7,
-      "reason": "Codes for a specific Roblox game",
+      "reason": "同一游戏的其他说法已火了 43 天，超过 30 天",
       "traffic": "+50%",
       "sources": [
         "rising:roblox"
@@ -1884,7 +1912,8 @@
         "rising:unblocked games"
       ],
       "news": [],
-      "age_days": 91
+      "age_days": 91,
+      "age_measured": true
     },
     "neal fun": {
       "status": "rejected",
@@ -1923,7 +1952,8 @@
         "rising:io games"
       ],
       "news": [],
-      "age_days": 87
+      "age_days": 87,
+      "age_measured": true
     },
     "subway surfers": {
       "status": "rejected",
@@ -1961,7 +1991,8 @@
         "rising:io games"
       ],
       "news": [],
-      "age_days": 87
+      "age_days": 87,
+      "age_measured": true
     },
     "zap games io": {
       "status": "rejected",

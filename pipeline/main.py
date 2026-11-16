@@ -1,6 +1,7 @@
 import argparse
 import logging
 import os
+import time
 from datetime import datetime, timezone
 
 import requests
@@ -50,6 +51,21 @@ def discover(cfg, state):
     return found
 
 
+def game_age_days(keyword, rec, keywords):
+    """同一个游戏的所有说法里火得最久的那个算游戏的年龄；查不到任何曲线时返回 None。"""
+    siblings = [r for r in keywords.values() if r.get("slug") == rec["slug"]]
+    ages = [r["age_days"] for r in siblings if r.get("age_measured") and r.get("age_days") is not None]
+    platform = next((p for p in ("roblox", "steam") if p in keyword), "")
+    for term in dict.fromkeys(t for t in (keyword, f"{rec['game_name']} {platform}".strip().lower()) if t):
+        time.sleep(4)
+        age = trends.keyword_age_days(term)
+        if age is not None:
+            ages.append(age)
+    if not ages:
+        return None
+    return max(ages + [days_since(r["first_seen"]) for r in siblings])
+
+
 def build_new_sites(cfg, state):
     rules = cfg["rules"]
     existing = {g["slug"] for g in load_games()}
@@ -65,8 +81,15 @@ def build_new_sites(cfg, state):
             rec["status"] = "duplicate"
             continue
 
-        age = trends.keyword_age_days(keyword)
-        rec["age_days"] = age if age is not None else days_since(rec["first_seen"])
+        age = game_age_days(keyword, rec, state["keywords"])
+        if age is None:
+            if days_since(rec["first_seen"]) > rules["max_keyword_age_days"]:
+                rec["status"] = "abandoned"
+                rec["reason"] = f"超过 {rules['max_keyword_age_days']} 天都查不到搜索曲线"
+            else:
+                log.info("暂时查不到 %s 的搜索曲线，下次再判断", keyword)
+            continue
+        rec["age_days"], rec["age_measured"] = age, True
         if rec["age_days"] > rules["max_keyword_age_days"]:
             rec["status"] = "abandoned"
             rec["reason"] = f"已经火了 {rec['age_days']} 天，超过 {rules['max_keyword_age_days']} 天"
