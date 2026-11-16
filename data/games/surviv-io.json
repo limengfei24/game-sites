@@ -1,0 +1,116 @@
+{
+  "slug": "surviv-io",
+  "game_name": "Surviv.io",
+  "keyword": "surviv io",
+  "created_at": "2026-11-16T04:44:23+00:00",
+  "links": [
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Surviv.io"
+    }
+  ],
+  "image": null,
+  "videos": [
+    {
+      "id": "B1GEiQapeww",
+      "title": "Surviv.io - 27 Kill Solo Squad Game (Dual SV and Lucky Spawn)",
+      "channel": "desmos"
+    },
+    {
+      "id": "6Z1wXZgtdt0",
+      "title": "1 Hour of Pro Surviv.io Gameplay",
+      "channel": "BANGARANG"
+    },
+    {
+      "id": "OYfjZQw7Iak",
+      "title": "21 KILLS IN SOLO SQUADS NEW PERSONAL RECORD ! | SURVIV.IO",
+      "channel": "GAMERIO"
+    }
+  ],
+  "news": [],
+  "page": {
+    "title": "Surviv.io: Browser Battle Royale Guide",
+    "meta_description": "Surviv.io is a browser-based 2D battle royale by Justin Kim and Nick Clark, developed by Kongregate. Platforms, release history, and gameplay.",
+    "tagline": "A top-down 2D battle royale where you loot, fight, and stay out of the shrinking Red Zone.",
+    "overview": [
+      "Surviv.io is a browser-based multiplayer online 2D battle royale game. It was created by Justin Kim and Nick Clark and developed by Kongregate. Players battle on a large map from a top-down perspective, represented by circular figures on a 2D grid-like field.",
+      "Matches center on scavenging. Players start with only their fists and search the map for supplies and weapons. A circular Red Zone closes in as the game progresses; anyone inside loses health every second, and the damage increases over time. Surviv.io also supported two- or four-player team modes and could be played in mobile browsers.",
+      "Surviv.io launched on its website for desktop browsers in October 2017, followed by iOS in October 2018 and Android in November 2018. It came to Steam in September 2020. Kongregate acquired the game in December 2019, sunset it on March 2, 2023, and relaunched it on Kongregate's website on March 20, 2026."
+    ],
+    "facts": [
+      {
+        "label": "Developer",
+        "value": "Created by Justin Kim and Nick Clark; developed by Kongregate"
+      },
+      {
+        "label": "Genre",
+        "value": "Browser-based multiplayer online 2D battle royale"
+      },
+      {
+        "label": "Platforms",
+        "value": "Desktop browsers, mobile browsers, iOS, Android, Steam"
+      },
+      {
+        "label": "Release",
+        "value": "October 2017 (desktop browser); October 2018 (iOS); November 2018 (Android); September 2020 (Steam)"
+      },
+      {
+        "label": "Relaunch",
+        "value": "March 20, 2026 on Kongregate's website"
+      },
+      {
+        "label": "Status",
+        "value": "Sunset March 2, 2023; relaunched March 20, 2026"
+      },
+      {
+        "label": "Owner",
+        "value": "Acquired by Kongregate in December 2019"
+      }
+    ],
+    "how_to_play": [
+      "Launch Surviv.io on a supported platform: desktop browser, mobile browser, iOS, Android, or Steam.",
+      "Enter a match. Team modes support two or four players.",
+      "Start with only your fists, then scavenge the map for weapons and supplies.",
+      "Watch the circular Red Zone as it shrinks. Players inside lose health every second.",
+      "Damage inside the Red Zone increases as the match progresses, so keep moving toward safer ground.",
+      "Battle other players from the top-down 2D perspective until the match ends."
+    ],
+    "controls": [],
+    "tips": [
+      "Loot early: you begin with only fists, so weapons and supplies are your first priority.",
+      "Treat the Red Zone as a timer. It damages every second, and the damage rate climbs as the game goes on.",
+      "If you queue with friends, use the supported two- or four-player team modes.",
+      "Use the top-down view to keep track of the shrinking circle and nearby players."
+    ],
+    "faq": [
+      {
+        "q": "What is Surviv.io?",
+        "a": "Surviv.io is a browser-based multiplayer online 2D battle royale game created by Justin Kim and Nick Clark and developed by Kongregate."
+      },
+      {
+        "q": "What platforms is Surviv.io on?",
+        "a": "Surviv.io was released for desktop browsers, mobile browsers, iOS, Android, and Steam."
+      },
+      {
+        "q": "When was Surviv.io released?",
+        "a": "It launched on its website for desktop browsers in October 2017, on iOS in October 2018, on Android in November 2018, and on Steam in September 2020."
+      },
+      {
+        "q": "Is Surviv.io still available?",
+        "a": "Kongregate sunset Surviv.io on March 2, 2023, and relaunched it on Kongregate's website on March 20, 2026."
+      },
+      {
+        "q": "Does Surviv.io have team modes?",
+        "a": "Yes. Surviv.io supported two- or four-player team modes."
+      },
+      {
+        "q": "What is the Red Zone in Surviv.io?",
+        "a": "The Red Zone is a circular zone that shrinks as the game progresses. Players inside lose health every second, and the health loss increases over time."
+      },
+      {
+        "q": "Who owns Surviv.io?",
+        "a": "Surviv.io was acquired by Kongregate in December 2019. It was created by Justin Kim and Nick Clark and developed by Kongregate."
+      }
+    ]
+  }
+}

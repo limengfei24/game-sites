@@ -1,0 +1,122 @@
+{
+  "slug": "rob-run",
+  "game_name": "Rob Run",
+  "keyword": "rob run steam charts",
+  "created_at": "2026-11-16T04:43:56+00:00",
+  "links": [
+    {
+      "label": "Steam store",
+      "url": "https://store.steampowered.com/app/4262460/"
+    }
+  ],
+  "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262460/db8e0cf43c9475b96fb9446b4908de79fcb9f619/header.jpg?t=1793811654",
+  "videos": [
+    {
+      "id": "z4S5pXA-_OM",
+      "title": "The ONLY Guide You Will Ever Need For ROB RUN",
+      "channel": "BradQuackson"
+    },
+    {
+      "id": "XUkHeaAgMyo",
+      "title": "How I Became The RICHEST SOLO PLAYER in ROB RUN!",
+      "channel": "BradQuackson"
+    },
+    {
+      "id": "6hc8jPWItWU",
+      "title": "FRESH OUT OF PRISON to $2,000,000 in 1 HOUR! SOLO PvP + LOOTING | ROB RUN",
+      "channel": "Domi - FPS"
+    }
+  ],
+  "news": [],
+  "page": {
+    "title": "ROB RUN: Free-to-Play Crime Sandbox Guide",
+    "meta_description": "ROB RUN is a free-to-play early access crime sandbox from Kefir. Team up in clans, build a hideout, and fight thousands of real players on Windows.",
+    "tagline": "Every cop and criminal is a real player in this brutal crime sandbox.",
+    "overview": [
+      "ROB RUN is a free-to-play, early access crime sandbox from developer and publisher Kefir. The Steam page describes a brutal world where every cop and every criminal is a real player, with 5,000 players around you and situations that can quickly spiral out of control.",
+      "You can survive alone, but the description says you only thrive by working together. Create or join a clan, assign roles, organize raids, take territories, wage gang wars, and negotiate truces. Every minute you risk losing everything, so planning, quick decisions, and timing matter.",
+      "Your hideout is your castle: build and upgrade a base, store loot and vehicles, and place workbenches and safes. The more lavish your refuge, the more intruders you attract. The page also notes server wipes, so even a week-long rise from thug to boss can reset and start again."
+    ],
+    "facts": [
+      {
+        "label": "Developer",
+        "value": "Kefir"
+      },
+      {
+        "label": "Publisher",
+        "value": "Kefir"
+      },
+      {
+        "label": "Platforms",
+        "value": "Windows"
+      },
+      {
+        "label": "Release",
+        "value": "4 Nov, 2026 (Steam listing)"
+      },
+      {
+        "label": "Genre",
+        "value": "Action, Massively Multiplayer, RPG, Simulation, Free To Play, Early Access"
+      },
+      {
+        "label": "Price",
+        "value": "Free to play"
+      },
+      {
+        "label": "Players per server",
+        "value": "5,000 (per Steam description)"
+      }
+    ],
+    "how_to_play": [
+      "Start from the bottom as a regular thug in a player-driven crime sandbox.",
+      "Decide whether to survive solo or join/create a clan for raids, territory control, and gang wars.",
+      "Plan your moves and stay ready to lose everything—someone can take what's yours at any minute.",
+      "Build and upgrade a hideout to store loot and vehicles, but expect more intruders if it looks lavish.",
+      "Take part in robberies, hideout raids, police chases, and shootouts to gain resources and influence.",
+      "Prepare for server wipes; a week can take you from thug to boss, then reset with new experience and allies."
+    ],
+    "controls": [],
+    "tips": [
+      "Clans are the fastest route to power: the Steam page says solo players can survive, but thriving requires teamwork.",
+      "Betrayal is part of the sandbox—reliable allies are described as your most valuable asset.",
+      "Don't overbuild your hideout early; a lavish refuge attracts more intruders.",
+      "Plan and make quick decisions; the page stresses there's no room for error.",
+      "YouTube guides highlight solo PvP and looting as paths to big money, including a '$2,000,000 in 1 HOUR' run.",
+      "Expect server wipes and treat each one as a fresh start with new allies and a more ambitious plan."
+    ],
+    "faq": [
+      {
+        "q": "Is ROB RUN free to play?",
+        "a": "Yes. The Steam store lists it as free to play."
+      },
+      {
+        "q": "What platforms is ROB RUN on?",
+        "a": "Steam lists Windows."
+      },
+      {
+        "q": "When does ROB RUN release?",
+        "a": "The Steam page lists 4 Nov, 2026."
+      },
+      {
+        "q": "Who develops ROB RUN?",
+        "a": "Kefir is listed as both developer and publisher."
+      },
+      {
+        "q": "Is ROB RUN early access?",
+        "a": "Yes, Early Access is included in the Steam genres."
+      },
+      {
+        "q": "How many players are in a server?",
+        "a": "The Steam description says 5,000 players around you."
+      },
+      {
+        "q": "Can I play ROB RUN solo?",
+        "a": "The description says you can survive on your own, but you only thrive by working together. YouTube videos also show solo PvP and looting."
+      },
+      {
+        "q": "Does ROB RUN have server wipes?",
+        "a": "Yes. The Steam description mentions server wipes and a one-week rise from thug to boss."
+      }
+    ]
+  }
+}

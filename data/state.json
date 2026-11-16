@@ -1058,7 +1058,7 @@
       "competitors": null
     },
     "do not stop roblox codes": {
-      "status": "candidate",
+      "status": "live",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Do Not Stop",
       "slug": "do-not-stop",
@@ -1070,7 +1070,10 @@
       ],
       "news": [],
       "age_days": 8,
-      "competitors": null
+      "competitors": null,
+      "built_at": "2026-11-16T04:43:20+00:00",
+      "url": "https://do-not-stop.many.pw/",
+      "live_at": "2026-11-16T04:44:23+00:00"
     },
     "survive a psycho roblox codes": {
       "status": "abandoned",
@@ -1314,7 +1317,7 @@
       "live_at": "2026-11-16T04:39:25+00:00"
     },
     "rob run steam charts": {
-      "status": "candidate",
+      "status": "live",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Rob Run",
       "slug": "rob-run",
@@ -1324,20 +1327,26 @@
       "sources": [
         "rising:steam"
       ],
-      "news": []
+      "news": [],
+      "age_days": 11,
+      "competitors": null,
+      "built_at": "2026-11-16T04:43:56+00:00",
+      "url": "https://rob-run.many.pw/",
+      "live_at": "2026-11-16T04:44:23+00:00"
     },
     "bodycam steam": {
-      "status": "candidate",
+      "status": "abandoned",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Bodycam",
       "slug": "bodycam",
       "confidence": 0.86,
-      "reason": "Specific Steam game Bodycam",
+      "reason": "已经火了 90 天，超过 30 天",
       "traffic": "+190%",
       "sources": [
         "rising:steam"
       ],
-      "news": []
+      "news": [],
+      "age_days": 90
     },
     "is gta 6 on steam": {
       "status": "rejected",
@@ -1376,17 +1385,18 @@
       ]
     },
     "bodycam steam key": {
-      "status": "candidate",
+      "status": "abandoned",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Bodycam",
       "slug": "bodycam",
       "confidence": 0.8,
-      "reason": "Steam key search for specific game Bodycam",
+      "reason": "已经火了 67 天，超过 30 天",
       "traffic": "+140%",
       "sources": [
         "rising:steam"
       ],
-      "news": []
+      "news": [],
+      "age_days": 67
     },
     "gta 6 steam": {
       "status": "rejected",
@@ -1401,7 +1411,7 @@
       ]
     },
     "rob run steam": {
-      "status": "candidate",
+      "status": "duplicate",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Rob Run",
       "slug": "rob-run",
@@ -1426,7 +1436,7 @@
       ]
     },
     "rob run": {
-      "status": "candidate",
+      "status": "duplicate",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Rob Run",
       "slug": "rob-run",
@@ -1439,17 +1449,18 @@
       "news": []
     },
     "professor layton and the new world of steam": {
-      "status": "candidate",
+      "status": "abandoned",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Professor Layton and the New World of Steam",
       "slug": "professor-layton-and-the-new-world-of-steam",
       "confidence": 0.86,
-      "reason": "Specific upcoming game title",
+      "reason": "已经火了 68 天，超过 30 天",
       "traffic": "+120%",
       "sources": [
         "rising:steam"
       ],
-      "news": []
+      "news": [],
+      "age_days": 68
     },
     "gta 6 steam release date": {
       "status": "rejected",
@@ -1524,43 +1535,46 @@
       ]
     },
     "slope unblocked": {
-      "status": "candidate",
+      "status": "abandoned",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Slope",
       "slug": "slope",
       "confidence": 0.86,
-      "reason": "Specific viral web game Slope",
+      "reason": "已经火了 91 天，超过 30 天",
       "traffic": "+250%",
       "sources": [
         "rising:io games"
       ],
-      "news": []
+      "news": [],
+      "age_days": 91
     },
     "shell shockers": {
-      "status": "candidate",
+      "status": "abandoned",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Shell Shockers",
       "slug": "shell-shockers",
       "confidence": 0.85,
-      "reason": "Specific browser FPS web game",
+      "reason": "已经火了 91 天，超过 30 天",
       "traffic": "+180%",
       "sources": [
         "rising:io games"
       ],
-      "news": []
+      "news": [],
+      "age_days": 91
     },
     "eaglercraft": {
-      "status": "candidate",
+      "status": "abandoned",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Eaglercraft",
       "slug": "eaglercraft",
       "confidence": 0.8,
-      "reason": "Specific browser-based Minecraft client/game project",
+      "reason": "已经火了 91 天，超过 30 天",
       "traffic": "+160%",
       "sources": [
         "rising:io games"
       ],
-      "news": []
+      "news": [],
+      "age_days": 91
     },
     "freezenova": {
       "status": "rejected",
@@ -1587,7 +1601,7 @@
       ]
     },
     "surviv io": {
-      "status": "candidate",
+      "status": "live",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Surviv.io",
       "slug": "surviv-io",
@@ -1597,7 +1611,12 @@
       "sources": [
         "rising:io games"
       ],
-      "news": []
+      "news": [],
+      "age_days": 22,
+      "competitors": null,
+      "built_at": "2026-11-16T04:44:23+00:00",
+      "url": "https://surviv-io.many.pw/",
+      "live_at": "2026-11-16T04:44:23+00:00"
     },
     "hexanaut io": {
       "status": "candidate",
@@ -1966,6 +1985,42 @@
       "traffic": "+40%",
       "sources": [
         "rising:io games"
+      ]
+    },
+    "prince harry and meghan markle": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:42:42+00:00",
+      "game_name": "",
+      "slug": "prince-harry-and-meghan-markle",
+      "confidence": 0.99,
+      "reason": "Royal/celebrity news, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "mexique": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:42:42+00:00",
+      "game_name": "",
+      "slug": "mexique",
+      "confidence": 0.99,
+      "reason": "French term for Mexico; news about a drug lord, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "mottle": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:42:42+00:00",
+      "game_name": "Mottle",
+      "slug": "mottle",
+      "confidence": 0.55,
+      "reason": "Huge unexplained spike with no news, consistent with a small new viral game/puzzle named Mottle",
+      "traffic": "+151250%",
+      "sources": [
+        "rising:game"
       ]
     }
   },
