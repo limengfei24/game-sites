@@ -16,11 +16,20 @@ log = logging.getLogger(__name__)
 UA = {"User-Agent": "GameRadar/1.0 (+https://github.com)"}
 
 
-def _name_matches(a, b, threshold=0.8):
-    a, b = re.sub(r"[^a-z0-9]", "", a.lower()), re.sub(r"[^a-z0-9]", "", b.lower())
-    if not a or not b:
+def _tokens(name):
+    name = re.sub(r"\[[^\]]*\]|\([^)]*\)", " ", name.lower())
+    return re.findall(r"[a-z0-9]+", name)
+
+
+def _name_matches(a, b, threshold=0.9):
+    """按完整单词比较，避免 "GTA VI" 匹配到 "GTA: Vice City"、"GTA V" 或续作。"""
+    ta, tb = _tokens(a), _tokens(b)
+    if not ta or not tb:
         return False
-    return a in b or b in a or SequenceMatcher(None, a, b).ratio() >= threshold
+    if ta == tb:
+        return True
+    return (len(ta) == len(tb) and ta[-1] == tb[-1]
+            and SequenceMatcher(None, " ".join(ta), " ".join(tb)).ratio() >= threshold)
 
 
 def _strip_html(text):

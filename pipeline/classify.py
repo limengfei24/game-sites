@@ -11,7 +11,9 @@ Decide for each term whether people are searching for ONE specific, newly releas
 video game / web game / mobile game (or a specific new mode / update of a game that people would
 search as its own name). Reject: sports matches, athletes, celebrities, movies, TV, generic phrases
 ("free games", "games online"), big evergreen franchises with no new release (e.g. "minecraft"),
-and anything you are unsure is a game.
+news about huge AAA franchises (GTA, Call of Duty, Pokémon, Zelda, FIFA/EA FC...) because big gaming
+media own those searches and a small new site can't rank, and anything you are unsure is a game.
+Prefer small, indie, Roblox, Steam, mobile or web games that just went viral.
 
 Reply as JSON: {"results": [{"keyword": "<exact input term>", "is_game": true/false,
 "game_name": "<official game title>", "slug": "<short lowercase ascii-hyphen name for a subdomain>",
