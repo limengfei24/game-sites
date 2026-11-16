@@ -41,8 +41,8 @@ def generate(candidate, rec, cfg):
         "news_headlines": [n["title"] for n in candidate.get("news", [])][:10],
         "youtube_video_titles": [v["title"] for v in videos],
     }
-    # 免费模型（GitHub Models 等）单次输入有上限，字幕只能用剩下的额度
-    room = ccfg.get("max_input_chars", 24000) - len(json.dumps(material, ensure_ascii=False))
+    # 字幕只能用商店页、新闻等资料之外剩下的长度
+    room = ccfg.get("max_input_chars", 60000) - len(json.dumps(material, ensure_ascii=False))
     transcripts, budget = [], min(ccfg["max_transcript_chars"], room)
     for video in videos:
         if budget <= 0:

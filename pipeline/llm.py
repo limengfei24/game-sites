@@ -11,13 +11,13 @@ log = logging.getLogger(__name__)
 
 
 def chat_json(system, user, temperature=0.3):
-    base_url = env("LLM_BASE_URL", "https://models.github.ai/inference").rstrip("/")
+    base_url = env("LLM_BASE_URL", "https://api.deepseek.com/v1").rstrip("/")
     for attempt in range(4):
         resp = requests.post(
             f"{base_url}/chat/completions",
             headers={"Authorization": f"Bearer {env('LLM_API_KEY', required=True)}"},
             json={
-                "model": env("LLM_MODEL", "openai/gpt-4.1-mini"),
+                "model": env("LLM_MODEL", "deepseek-chat"),
                 "temperature": temperature,
                 "response_format": {"type": "json_object"},
                 "messages": [

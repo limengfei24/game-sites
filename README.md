@@ -21,8 +21,8 @@
 
 1. **Vercel**：新建一个空项目（Framework 选 Other），拿到 Project ID、Team/账号 ID，并创建 Token。项目里开启 Web Analytics 即可看访问量。
 2. **域名 DNS**：在域名注册商（阿里云）把 `many.pw` 的 DNS 服务器改为 `ns1.vercel-dns.com`、`ns2.vercel-dns.com`。只改这一次。
-3. **AI**：默认用免费的 GitHub Models（`openai/gpt-4.1-mini`），Actions 里自动使用仓库令牌，无需配置。想换其他 OpenAI 兼容接口，配置 `LLM_API_KEY` / `LLM_BASE_URL` / `LLM_MODEL` 即可。
-4. **GitHub**：把本目录推到一个仓库，在 Settings → Secrets and variables → Actions 里添加 `VERCEL_TOKEN`、`VERCEL_ORG_ID`、`VERCEL_PROJECT_ID`。
+3. **AI**：DeepSeek 开放平台创建 API Key（也可以换任何 OpenAI 兼容接口，改 `LLM_BASE_URL` / `LLM_MODEL`）。
+4. **GitHub**：把本目录推到一个仓库，在 Settings → Secrets and variables → Actions 里添加 `LLM_API_KEY`、`VERCEL_TOKEN`、`VERCEL_ORG_ID`、`VERCEL_PROJECT_ID`。
 5. Actions 页面手动点一次 `game-sites` → Run workflow 试跑。
 
 可选：`SERPER_API_KEY`（竞争检查）、`INDEXNOW_KEY`（Bing 快速收录）、`YOUTUBE_COOKIES`（抓 YouTube 字幕）。
