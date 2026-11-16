@@ -5,8 +5,6 @@ import os
 import re
 import tempfile
 import uuid
-from difflib import SequenceMatcher
-
 import requests
 
 from .config import env
@@ -21,15 +19,10 @@ def _tokens(name):
     return re.findall(r"[a-z0-9]+", name)
 
 
-def _name_matches(a, b, threshold=0.9):
-    """按完整单词比较，避免 "GTA VI" 匹配到 "GTA: Vice City"、"GTA V" 或续作。"""
-    ta, tb = _tokens(a), _tokens(b)
-    if not ta or not tb:
-        return False
-    if ta == tb:
-        return True
-    return (len(ta) == len(tb) and ta[-1] == tb[-1]
-            and SequenceMatcher(None, " ".join(ta), " ".join(tb)).ratio() >= threshold)
+def _name_matches(a, b):
+    """按完整单词比较，避免 "GTA VI" 匹配到 "GTA: Vice City"、"King Legacy" 匹配到 "Kings Legacy"。"""
+    ta = _tokens(a)
+    return bool(ta) and ta == _tokens(b)
 
 
 def _strip_html(text):
