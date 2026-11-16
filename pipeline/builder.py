@@ -74,7 +74,10 @@ def build(games, cfg):
     hub.mkdir(parents=True)
     (hub / "index.html").write_text(
         jinja.get_template("hub.html").render(games=games, url=hub_url, **common), encoding="utf-8")
-    _write_seo_files(hub, [hub_url], indexnow_key)
+    # 主站 sitemap 同时列出所有子域名站：Search Console 里 many.pw 是网域资源，覆盖全部子域名，
+    # 只提交这一个 sitemap，以后新建的站也会被 Google 自动发现。
+    site_urls = [f"https://{g['slug']}.{base_domain}/" for g in games]
+    _write_seo_files(hub, [hub_url, *site_urls], indexnow_key)
 
     (DIST_DIR / "vercel.json").write_text(
         json.dumps(_vercel_config(base_domain), indent=2), encoding="utf-8")
