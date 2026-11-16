@@ -489,6 +489,1206 @@
       "sources": [
         "daily:AU"
       ]
+    },
+    "kremlin meeting russian business elite": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "kremlin-meeting-russian-business-elite",
+      "confidence": 0.98,
+      "reason": "News/politics, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "daniel hall taxiride": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "daniel-hall-taxiride",
+      "confidence": 0.98,
+      "reason": "Music/celebrity news",
+      "traffic": "500+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "mottle game": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Mottle",
+      "slug": "mottle",
+      "confidence": 0.85,
+      "reason": "Specific viral game name",
+      "traffic": "+186450%",
+      "sources": [
+        "rising:game"
+      ],
+      "news": [],
+      "age_days": 2,
+      "competitors": null
+    },
+    "trib game": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Trib",
+      "slug": "trib",
+      "confidence": 0.78,
+      "reason": "Specific game name spike",
+      "traffic": "+145200%",
+      "sources": [
+        "rising:game"
+      ],
+      "news": [],
+      "age_days": 2,
+      "competitors": null
+    },
+    "trib meaning": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "trib-meaning",
+      "confidence": 0.95,
+      "reason": "Definition query",
+      "traffic": "+63100%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "trib definition": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "trib-definition",
+      "confidence": 0.95,
+      "reason": "Definition query",
+      "traffic": "+23650%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "mottle definition": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "mottle-definition",
+      "confidence": 0.95,
+      "reason": "Definition query",
+      "traffic": "+21050%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "is othello a game": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "is-othello-a-game",
+      "confidence": 0.9,
+      "reason": "Generic board-game question",
+      "traffic": "+12250%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "stratego game": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "stratego-game",
+      "confidence": 0.9,
+      "reason": "Evergreen board game, no new release",
+      "traffic": "+10000%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "xbox game pass 25th anniversary discount": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "xbox-game-pass-25th-anniversary-discount",
+      "confidence": 0.95,
+      "reason": "Subscription promo, not a specific game",
+      "traffic": "+8600%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "foremost definition": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "foremost-definition",
+      "confidence": 0.97,
+      "reason": "Definition query",
+      "traffic": "+8250%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "randy definition": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "randy-definition",
+      "confidence": 0.97,
+      "reason": "Definition query",
+      "traffic": "+7500%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "flowbound game": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Flowbound",
+      "slug": "flowbound",
+      "confidence": 0.78,
+      "reason": "Specific game name spike",
+      "traffic": "+7200%",
+      "sources": [
+        "rising:game"
+      ],
+      "news": [],
+      "age_days": 4,
+      "competitors": null
+    },
+    "othello game": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "othello-game",
+      "confidence": 0.9,
+      "reason": "Evergreen board game, no new release",
+      "traffic": "+5950%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "xbox game pass december 2026": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "xbox-game-pass-december-2026",
+      "confidence": 0.95,
+      "reason": "Subscription lineup query",
+      "traffic": "+5600%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "othello board game": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "othello-board-game",
+      "confidence": 0.9,
+      "reason": "Evergreen board game",
+      "traffic": "+5450%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "nintendo next zelda game remake": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "nintendo-next-zelda-game-remake",
+      "confidence": 0.95,
+      "reason": "Big Nintendo franchise speculation",
+      "traffic": "+5100%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "is battle a board game": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "is-battle-a-board-game",
+      "confidence": 0.92,
+      "reason": "Generic board-game question",
+      "traffic": "+3100%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "is go a board game": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "is-go-a-board-game",
+      "confidence": 0.92,
+      "reason": "Generic board-game question",
+      "traffic": "+2700%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "xbox game pass essential classic titles": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "xbox-game-pass-essential-classic-titles",
+      "confidence": 0.95,
+      "reason": "Subscription catalog query",
+      "traffic": "+2600%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "marriage game": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "marriage-game",
+      "confidence": 0.8,
+      "reason": "Generic/ambiguous phrase",
+      "traffic": "+2300%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "battle board game": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "battle-board-game",
+      "confidence": 0.9,
+      "reason": "Generic board-game phrase",
+      "traffic": "+900%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "go board game": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "go-board-game",
+      "confidence": 0.9,
+      "reason": "Evergreen board game",
+      "traffic": "+850%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "is go a game": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "is-go-a-game",
+      "confidence": 0.9,
+      "reason": "Generic game question",
+      "traffic": "+300%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "battle game": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "battle-game",
+      "confidence": 0.85,
+      "reason": "Generic phrase",
+      "traffic": "+190%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "battle": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "battle",
+      "confidence": 0.9,
+      "reason": "Generic word",
+      "traffic": "+170%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "go game": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "go-game",
+      "confidence": 0.9,
+      "reason": "Evergreen board game",
+      "traffic": "+140%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "new free steam pc games": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "new-free-steam-pc-games",
+      "confidence": 0.95,
+      "reason": "Generic discovery phrase",
+      "traffic": "+4750%",
+      "sources": [
+        "rising:games",
+        "rising:steam"
+      ]
+    },
+    "rockstar games stock": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "rockstar-games-stock",
+      "confidence": 0.98,
+      "reason": "Stock/market query",
+      "traffic": "+160%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "rockstar games gta vi": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "rockstar-games-gta-vi",
+      "confidence": 0.98,
+      "reason": "Huge AAA franchise",
+      "traffic": "+140%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "games like krillion": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "games-like-krillion",
+      "confidence": 0.7,
+      "reason": "List query; unclear specific game spike",
+      "traffic": "+50%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "rockstar games": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "rockstar-games",
+      "confidence": 0.98,
+      "reason": "Huge evergreen publisher/franchise",
+      "traffic": "+40%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "new xbox game pass titles": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "new-xbox-game-pass-titles",
+      "confidence": 0.95,
+      "reason": "Generic subscription lineup query",
+      "traffic": "+109850%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "behaviour interactive exterminauts new game": {
+      "status": "live",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Exterminauts",
+      "slug": "exterminauts",
+      "confidence": 0.68,
+      "reason": "Specific new game announcement query",
+      "traffic": "+1100%",
+      "sources": [
+        "rising:new game"
+      ],
+      "news": [],
+      "age_days": 7,
+      "competitors": null,
+      "built_at": "2026-11-16T04:33:30+00:00",
+      "url": "https://exterminauts.many.pw/",
+      "live_at": "2026-11-16T04:35:21+00:00"
+    },
+    "new gta game": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "new-gta-game",
+      "confidence": 0.98,
+      "reason": "Huge AAA franchise",
+      "traffic": "+110%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "oot remake new game plus": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "oot-remake-new-game-plus",
+      "confidence": 0.95,
+      "reason": "Zelda big franchise",
+      "traffic": "+100%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "blood of the dawnwalker new game plus": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "The Blood of Dawnwalker",
+      "slug": "blood-of-dawnwalker",
+      "confidence": 0.55,
+      "reason": "Specific upcoming game feature query",
+      "traffic": "+90%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "blood of dawnwalker new game plus": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "The Blood of Dawnwalker",
+      "slug": "blood-of-dawnwalker",
+      "confidence": 0.55,
+      "reason": "Specific upcoming game feature query",
+      "traffic": "+80%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "tomb raider new game": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "tomb-raider-new-game",
+      "confidence": 0.95,
+      "reason": "Huge AAA franchise",
+      "traffic": "+70%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "stand out codes roblox": {
+      "status": "abandoned",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Stand Out",
+      "slug": "stand-out",
+      "confidence": 0.8,
+      "reason": "已经火了 52 天，超过 30 天",
+      "traffic": "+12700%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 52
+    },
+    "stand out codes": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Stand Out",
+      "slug": "stand-out",
+      "confidence": 0.86,
+      "reason": "Codes for Roblox game Stand Out",
+      "traffic": "+9900%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 2,
+      "competitors": null
+    },
+    "dollar general roblox gift card sale": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "dollar-general-roblox-gift-card-sale",
+      "confidence": 0.95,
+      "reason": "Retail gift-card promo, not a game",
+      "traffic": "+3350%",
+      "sources": [
+        "rising:roblox"
+      ]
+    },
+    "dollar general roblox gift card": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "dollar-general-roblox-gift-card",
+      "confidence": 0.95,
+      "reason": "Retail gift-card promo, not a game",
+      "traffic": "+1900%",
+      "sources": [
+        "rising:roblox"
+      ]
+    },
+    "stand out roblox": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Stand Out",
+      "slug": "stand-out",
+      "confidence": 0.9,
+      "reason": "Specific Roblox game",
+      "traffic": "+1050%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 30,
+      "competitors": null
+    },
+    "beyond nen codes": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Beyond Nen",
+      "slug": "beyond-nen",
+      "confidence": 0.82,
+      "reason": "Codes for Roblox game Beyond Nen",
+      "traffic": "+400%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 9,
+      "competitors": null
+    },
+    "do not stop roblox codes": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Do Not Stop",
+      "slug": "do-not-stop",
+      "confidence": 0.84,
+      "reason": "Codes for Roblox game Do Not Stop",
+      "traffic": "+350%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 8,
+      "competitors": null
+    },
+    "survive a psycho roblox codes": {
+      "status": "abandoned",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Survive a Psycho",
+      "slug": "survive-a-psycho",
+      "confidence": 0.85,
+      "reason": "已经火了 35 天，超过 30 天",
+      "traffic": "+300%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 35
+    },
+    "ro bass fishing roblox codes": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Ro Bass Fishing",
+      "slug": "ro-bass-fishing",
+      "confidence": 0.78,
+      "reason": "Codes for specific Roblox fishing game",
+      "traffic": "+180%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 9,
+      "competitors": null
+    },
+    "codes for king legacy roblox": {
+      "status": "live",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "King Legacy",
+      "slug": "king-legacy",
+      "confidence": 0.65,
+      "reason": "Specific Roblox game codes; possibly update-driven",
+      "traffic": "+150%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 9,
+      "competitors": null,
+      "built_at": "2026-11-16T04:34:38+00:00",
+      "url": "https://king-legacy.many.pw/",
+      "live_at": "2026-11-16T04:35:21+00:00"
+    },
+    "a bizarre run codes": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "A Bizarre Run",
+      "slug": "a-bizarre-run",
+      "confidence": 0.8,
+      "reason": "Codes for Roblox game A Bizarre Run",
+      "traffic": "+110%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 10,
+      "competitors": null
+    },
+    "the forge roblox": {
+      "status": "abandoned",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "The Forge",
+      "slug": "the-forge",
+      "confidence": 0.72,
+      "reason": "已经火了 43 天，超过 30 天",
+      "traffic": "+60%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 43
+    },
+    "ragdoll mma roblox codes": {
+      "status": "abandoned",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Ragdoll MMA",
+      "slug": "ragdoll-mma",
+      "confidence": 0.84,
+      "reason": "已经火了 52 天，超过 30 天",
+      "traffic": "+50%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 52
+    },
+    "shibuya codes roblox": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Shibuya",
+      "slug": "shibuya",
+      "confidence": 0.8,
+      "reason": "Codes for Roblox game Shibuya",
+      "traffic": "+50%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 16,
+      "competitors": null
+    },
+    "shibuya codes": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Shibuya",
+      "slug": "shibuya",
+      "confidence": 0.8,
+      "reason": "Codes for Roblox game Shibuya",
+      "traffic": "+50%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 16,
+      "competitors": null
+    },
+    "roblox gift card": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "roblox-gift-card",
+      "confidence": 0.95,
+      "reason": "Generic gift-card product, not a game",
+      "traffic": "+50%",
+      "sources": [
+        "rising:roblox"
+      ]
+    },
+    "bey rivals codes roblox": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Bey Rivals",
+      "slug": "bey-rivals",
+      "confidence": 0.8,
+      "reason": "Codes for Roblox game Bey Rivals",
+      "traffic": "+50%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 14,
+      "competitors": null
+    },
+    "the forge roblox codes": {
+      "status": "live",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "The Forge",
+      "slug": "the-forge",
+      "confidence": 0.78,
+      "reason": "Codes for Roblox game The Forge",
+      "traffic": "+40%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 14,
+      "competitors": null,
+      "built_at": "2026-11-16T04:35:21+00:00",
+      "url": "https://the-forge.many.pw/",
+      "live_at": "2026-11-16T04:35:21+00:00"
+    },
+    "roblox server status": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "roblox-server-status",
+      "confidence": 0.95,
+      "reason": "Service status query, not a game",
+      "traffic": "+40%",
+      "sources": [
+        "rising:roblox"
+      ]
+    },
+    "ishin codes roblox": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Ishin",
+      "slug": "ishin",
+      "confidence": 0.72,
+      "reason": "Codes for Roblox game Ishin",
+      "traffic": "+40%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": []
+    },
+    "foundation galactic frontier steam release": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Foundation: Galactic Frontier",
+      "slug": "foundation-galactic-frontier",
+      "confidence": 0.86,
+      "reason": "Specific Steam game release query",
+      "traffic": "+19350%",
+      "sources": [
+        "rising:steam"
+      ],
+      "news": []
+    },
+    "big walk steam": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Big Walk",
+      "slug": "big-walk",
+      "confidence": 0.9,
+      "reason": "Specific indie game Big Walk on Steam",
+      "traffic": "+350%",
+      "sources": [
+        "rising:steam"
+      ],
+      "news": []
+    },
+    "mistfall hunter steam charts": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Mistfall Hunter",
+      "slug": "mistfall-hunter",
+      "confidence": 0.9,
+      "reason": "Specific Steam game Mistfall Hunter",
+      "traffic": "+250%",
+      "sources": [
+        "rising:steam"
+      ],
+      "news": []
+    },
+    "rob run steam charts": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Rob Run",
+      "slug": "rob-run",
+      "confidence": 0.7,
+      "reason": "Specific Steam game chart query",
+      "traffic": "+200%",
+      "sources": [
+        "rising:steam"
+      ],
+      "news": []
+    },
+    "bodycam steam": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Bodycam",
+      "slug": "bodycam",
+      "confidence": 0.86,
+      "reason": "Specific Steam game Bodycam",
+      "traffic": "+190%",
+      "sources": [
+        "rising:steam"
+      ],
+      "news": []
+    },
+    "is gta 6 on steam": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "is-gta-6-on-steam",
+      "confidence": 0.98,
+      "reason": "Huge AAA franchise GTA; reject",
+      "traffic": "+180%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "gta6 steam": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "gta6-steam",
+      "confidence": 0.98,
+      "reason": "Huge AAA franchise GTA; reject",
+      "traffic": "+160%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "gta 6 on steam": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "gta-6-on-steam",
+      "confidence": 0.98,
+      "reason": "Huge AAA franchise GTA; reject",
+      "traffic": "+160%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "bodycam steam key": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Bodycam",
+      "slug": "bodycam",
+      "confidence": 0.8,
+      "reason": "Steam key search for specific game Bodycam",
+      "traffic": "+140%",
+      "sources": [
+        "rising:steam"
+      ],
+      "news": []
+    },
+    "gta 6 steam": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "gta-6-steam",
+      "confidence": 0.98,
+      "reason": "Huge AAA franchise GTA; reject",
+      "traffic": "+140%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "rob run steam": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Rob Run",
+      "slug": "rob-run",
+      "confidence": 0.7,
+      "reason": "Specific Steam game Rob Run",
+      "traffic": "+130%",
+      "sources": [
+        "rising:steam"
+      ],
+      "news": []
+    },
+    "grand theft auto 6 steam": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "grand-theft-auto-6-steam",
+      "confidence": 0.98,
+      "reason": "Huge AAA franchise GTA; reject",
+      "traffic": "+130%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "rob run": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Rob Run",
+      "slug": "rob-run",
+      "confidence": 0.62,
+      "reason": "Likely specific Steam game; somewhat ambiguous",
+      "traffic": "+120%",
+      "sources": [
+        "rising:steam"
+      ],
+      "news": []
+    },
+    "professor layton and the new world of steam": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Professor Layton and the New World of Steam",
+      "slug": "professor-layton-and-the-new-world-of-steam",
+      "confidence": 0.86,
+      "reason": "Specific upcoming game title",
+      "traffic": "+120%",
+      "sources": [
+        "rising:steam"
+      ],
+      "news": []
+    },
+    "gta 6 steam release date": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "gta-6-steam-release-date",
+      "confidence": 0.98,
+      "reason": "Huge AAA franchise GTA; reject",
+      "traffic": "+110%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "rat game steam": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "rat-game-steam",
+      "confidence": 0.75,
+      "reason": "Vague generic query, not a specific title",
+      "traffic": "+110%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "steam ceo": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "steam-ceo",
+      "confidence": 0.95,
+      "reason": "Person/company query, not a game",
+      "traffic": "+70%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "steam winter sale": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "steam-winter-sale",
+      "confidence": 0.95,
+      "reason": "Store sale event, not a game",
+      "traffic": "+60%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "steam winter sale 2026": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "steam-winter-sale-2026",
+      "confidence": 0.95,
+      "reason": "Store sale event, not a game",
+      "traffic": "+60%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "xbox cloud gaming": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "xbox-cloud-gaming",
+      "confidence": 0.95,
+      "reason": "Generic cloud-gaming service",
+      "traffic": "+60%",
+      "sources": [
+        "rising:unblocked games"
+      ]
+    },
+    "slope unblocked": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Slope",
+      "slug": "slope",
+      "confidence": 0.86,
+      "reason": "Specific viral web game Slope",
+      "traffic": "+250%",
+      "sources": [
+        "rising:io games"
+      ],
+      "news": []
+    },
+    "shell shockers": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Shell Shockers",
+      "slug": "shell-shockers",
+      "confidence": 0.85,
+      "reason": "Specific browser FPS web game",
+      "traffic": "+180%",
+      "sources": [
+        "rising:io games"
+      ],
+      "news": []
+    },
+    "eaglercraft": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Eaglercraft",
+      "slug": "eaglercraft",
+      "confidence": 0.8,
+      "reason": "Specific browser-based Minecraft client/game project",
+      "traffic": "+160%",
+      "sources": [
+        "rising:io games"
+      ],
+      "news": []
+    },
+    "freezenova": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "freezenova",
+      "confidence": 0.9,
+      "reason": "Gaming website/aggregator, not a single game",
+      "traffic": "+150%",
+      "sources": [
+        "rising:io games"
+      ]
+    },
+    "addicting games": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "addicting-games",
+      "confidence": 0.9,
+      "reason": "Gaming website/aggregator, not a single game",
+      "traffic": "+100%",
+      "sources": [
+        "rising:io games"
+      ]
+    },
+    "surviv io": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Surviv.io",
+      "slug": "surviv-io",
+      "confidence": 0.85,
+      "reason": "Specific .io battle royale web game",
+      "traffic": "+90%",
+      "sources": [
+        "rising:io games"
+      ],
+      "news": []
+    },
+    "hexanaut io": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Hexanaut.io",
+      "slug": "hexanaut-io",
+      "confidence": 0.75,
+      "reason": "Specific .io territory web game",
+      "traffic": "+80%",
+      "sources": [
+        "rising:io games"
+      ],
+      "news": []
+    },
+    "happy wheels": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Happy Wheels",
+      "slug": "happy-wheels",
+      "confidence": 0.65,
+      "reason": "Specific classic web game with search spike",
+      "traffic": "+70%",
+      "sources": [
+        "rising:io games"
+      ],
+      "news": []
+    },
+    "block blast": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Block Blast!",
+      "slug": "block-blast",
+      "confidence": 0.9,
+      "reason": "Specific viral mobile puzzle game",
+      "traffic": "+60%",
+      "sources": [
+        "rising:io games"
+      ],
+      "news": []
+    },
+    "prodigy": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Prodigy Math Game",
+      "slug": "prodigy-math-game",
+      "confidence": 0.6,
+      "reason": "Specific educational game, though term is somewhat ambiguous",
+      "traffic": "+50%",
+      "sources": [
+        "rising:io games"
+      ],
+      "news": []
+    },
+    ".io games": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "",
+      "slug": "io-games",
+      "confidence": 0.95,
+      "reason": "Generic category phrase, not one game",
+      "traffic": "+50%",
+      "sources": [
+        "rising:io games"
+      ]
+    },
+    "stickman hook": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Stickman Hook",
+      "slug": "stickman-hook",
+      "confidence": 0.8,
+      "reason": "Specific mobile/web physics game",
+      "traffic": "+50%",
+      "sources": [
+        "rising:io games"
+      ],
+      "news": []
+    },
+    "krillion io": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Krillion.io",
+      "slug": "krillion-io",
+      "confidence": 0.7,
+      "reason": "Specific .io web game",
+      "traffic": "+50%",
+      "sources": [
+        "rising:io games"
+      ],
+      "news": []
+    },
+    "krunker io": {
+      "status": "candidate",
+      "first_seen": "2026-11-16T04:32:49+00:00",
+      "game_name": "Krunker.io",
+      "slug": "krunker-io",
+      "confidence": 0.85,
+      "reason": "Specific browser FPS web game",
+      "traffic": "+40%",
+      "sources": [
+        "rising:io games"
+      ],
+      "news": []
     }
   },
   "domains": {
