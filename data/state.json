@@ -3324,6 +3324,472 @@
       "sources": [
         "rising:io games"
       ]
+    },
+    "namibia vs cameroon": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "namibia-vs-cameroon",
+      "confidence": 0.98,
+      "reason": "Sports match, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:US",
+        "daily:GB"
+      ]
+    },
+    "ionq stock": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "ionq-stock",
+      "confidence": 0.98,
+      "reason": "Stock/finance topic",
+      "traffic": "100+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "willie geist": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "willie-geist",
+      "confidence": 0.98,
+      "reason": "TV personality",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "arch manning postgame celebration viral video": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "arch-manning-postgame-celebration-viral-video",
+      "confidence": 0.98,
+      "reason": "Athlete/sports viral clip",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "maggie haberman": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "maggie-haberman",
+      "confidence": 0.98,
+      "reason": "Journalist/personality",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "sudan vs senegal": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "sudan-vs-senegal",
+      "confidence": 0.98,
+      "reason": "Sports match",
+      "traffic": "200+",
+      "sources": [
+        "daily:US",
+        "daily:GB"
+      ]
+    },
+    "the body netflix petition": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "the-body-netflix-petition",
+      "confidence": 0.98,
+      "reason": "Netflix show petition",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "when is anthropic ipo": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "when-is-anthropic-ipo",
+      "confidence": 0.98,
+      "reason": "Finance/IPO topic",
+      "traffic": "100+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "sec football standings title contenders": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "sec-football-standings-title-contenders",
+      "confidence": 0.98,
+      "reason": "Sports standings",
+      "traffic": "100+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "stock": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "stock",
+      "confidence": 0.99,
+      "reason": "Generic finance term",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "irish independent": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "irish-independent",
+      "confidence": 0.98,
+      "reason": "News outlet",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "edward miliband": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "edward-miliband",
+      "confidence": 0.98,
+      "reason": "Politician",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "deportation": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "deportation",
+      "confidence": 0.99,
+      "reason": "Generic news term",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "israel": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "israel",
+      "confidence": 0.99,
+      "reason": "Generic geopolitical term",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "prue leith": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "prue-leith",
+      "confidence": 0.98,
+      "reason": "Celebrity/TV personality",
+      "traffic": "1000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "stonehouse gloucestershire": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "stonehouse-gloucestershire",
+      "confidence": 0.98,
+      "reason": "Local news incident",
+      "traffic": "2000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "thomas frank": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "thomas-frank",
+      "confidence": 0.98,
+      "reason": "Football manager",
+      "traffic": "1000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "3pm blackout": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "3pm-blackout",
+      "confidence": 0.98,
+      "reason": "Football broadcast rule",
+      "traffic": "2000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "namibie – cameroun": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "namibie-cameroun",
+      "confidence": 0.98,
+      "reason": "Sports match",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "starbucks red cup": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "starbucks-red-cup",
+      "confidence": 0.98,
+      "reason": "Retail promotion",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "temperature": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "temperature",
+      "confidence": 0.99,
+      "reason": "Generic weather term",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "connections hints today": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "connections-hints-today",
+      "confidence": 0.85,
+      "reason": "Evergreen NYT puzzle hints, not a new game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "grammy nominations 2027": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "grammy-nominations-2027",
+      "confidence": 0.98,
+      "reason": "Music awards news",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "westjet flight schedule change dispute": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "westjet-flight-schedule-change-dispute",
+      "confidence": 0.98,
+      "reason": "Travel/consumer news",
+      "traffic": "500+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "bitcoin price usd": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "bitcoin-price-usd",
+      "confidence": 0.98,
+      "reason": "Cryptocurrency price",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "robyn coffin": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "robyn-coffin",
+      "confidence": 0.98,
+      "reason": "Actress/celebrity news",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "vladimir putin": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "vladimir-putin",
+      "confidence": 0.99,
+      "reason": "Politician",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "andrea kimi antonelli": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "andrea-kimi-antonelli",
+      "confidence": 0.98,
+      "reason": "F1 athlete",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "police": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "police",
+      "confidence": 0.99,
+      "reason": "Generic news term",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "sydney sweeney": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "sydney-sweeney",
+      "confidence": 0.98,
+      "reason": "Celebrity",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "penélope cruz": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "penelope-cruz",
+      "confidence": 0.98,
+      "reason": "Celebrity",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "kfc gta funeral": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "kfc-gta-funeral",
+      "confidence": 0.95,
+      "reason": "Marketing stunt tied to GTA 6, not a new game",
+      "traffic": "2000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "skyvista": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "skyvista",
+      "confidence": 0.95,
+      "reason": "Ferris wheel incident, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "ryan gardner tasmania devils vfl": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "ryan-gardner-tasmania-devils-vfl",
+      "confidence": 0.98,
+      "reason": "Sports player/signing",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "succession": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "succession",
+      "confidence": 0.9,
+      "reason": "Corporate/Nvidia news, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "big brother": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "big-brother",
+      "confidence": 0.98,
+      "reason": "Reality TV show",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "zubayr hamza": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "",
+      "slug": "zubayr-hamza",
+      "confidence": 0.98,
+      "reason": "Cricket athlete",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "clover adventure roblox codes": {
+      "status": "abandoned",
+      "first_seen": "2026-11-16T12:45:47+00:00",
+      "game_name": "Clover Adventure",
+      "slug": "clover-adventure",
+      "confidence": 0.9,
+      "reason": "谷歌前 10 已有 5 篇同游戏的攻略/资讯",
+      "traffic": "+110%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 9,
+      "age_measured": true,
+      "competitors": {
+        "pages": 5,
+        "dedicated": 0,
+        "oldest_days": 6
+      }
     }
   },
   "domains": {
