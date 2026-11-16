@@ -96,12 +96,18 @@ def build_new_sites(cfg, state):
             log.info("放弃 %s: %s", keyword, rec["reason"])
             continue
 
-        competitors = serp.competition(keyword, rec["slug"])
-        rec["competitors"] = competitors
-        if competitors is not None and competitors >= rules["max_competitors"]:
-            rec["status"] = "abandoned"
-            rec["reason"] = f"谷歌前 10 已有 {competitors} 个专门站"
-            log.info("放弃 %s: %s", keyword, rec["reason"])
+        comp = serp.competition(keyword, rec["game_name"] or keyword, rec["slug"])
+        rec["competitors"] = comp
+        reason = None
+        if comp and comp["dedicated"] >= rules["max_competitors"]:
+            reason = f"谷歌前 10 已有 {comp['dedicated']} 个专门站"
+        elif comp and comp["pages"] >= rules["max_competing_pages"]:
+            reason = f"谷歌前 10 已有 {comp['pages']} 篇同游戏的攻略/资讯"
+        elif comp and (comp["oldest_days"] or 0) >= rules["max_competitor_age_days"]:
+            reason = f"竞争页面已经上线 {comp['oldest_days']} 天"
+        if reason:
+            rec["status"], rec["reason"] = "abandoned", reason
+            log.info("放弃 %s: %s", keyword, reason)
             continue
 
         try:

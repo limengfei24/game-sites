@@ -22,7 +22,9 @@ trends:
 rules:
   max_new_sites_per_run: 3     # 每次运行最多新建几个站
   max_keyword_age_days: 30     # 视频里的规矩：一个词火起来超过 30 天就放弃
-  max_competitors: 3           # 谷歌前 10 名里已经有几个专门站就放弃（需要 SERPER_API_KEY）
+  max_competitors: 3           # 谷歌前 10 名里已经有几个专门站就放弃（以下三条都需要 SERPER_API_KEY）
+  max_competing_pages: 5       # 谷歌前 10 名里已经有几篇同游戏的攻略/资讯就放弃
+  max_competitor_age_days: 20  # 竞争页面已经上线超过这么多天就放弃（视频里「别人做了 20 天」）
   min_confidence: 0.6          # AI 判断「这是一个具体的新游戏」的最低置信度
 
 content:
