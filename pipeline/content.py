@@ -37,6 +37,8 @@ def generate(candidate, rec, cfg):
     store_pages = [s for s in (sources.steam(game_name), sources.roblox(game_name), sources.wikipedia(game_name)) if s]
 
     videos = sources.find_videos(f"{game_name} gameplay", ccfg["youtube_videos"])
+    name_tokens = set(sources._tokens(game_name))
+    videos.sort(key=lambda v: not name_tokens <= set(sources._tokens(v["title"])))
     material = {
         "game_name": game_name,
         "search_keyword": candidate["keyword"],
