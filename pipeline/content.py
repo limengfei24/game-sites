@@ -9,7 +9,9 @@ log = logging.getLogger(__name__)
 
 SYSTEM = """You write SEO landing pages for a website dedicated to one newly trending game.
 Use ONLY facts supported by the provided sources (store pages, Wikipedia, YouTube transcripts,
-video titles and news headlines). Never invent release dates, prices, platforms, developers or
+video titles and descriptions, news headlines). Ignore self-promotion in video descriptions
+(subscribe links, sponsors, social media); a code from a video description is only a fact if the
+description clearly presents it as a code for this game. Never invent release dates, prices, platforms, developers or
 controls; if the sources don't say, leave that field empty or omit the item. Write naturally for
 players, no fluff, no keyword stuffing. Write in language: {language}.
 
@@ -39,7 +41,8 @@ def generate(candidate, rec, cfg):
         "search_keyword": candidate["keyword"],
         "store_pages": store_pages,
         "news_headlines": [n["title"] for n in candidate.get("news", [])][:10],
-        "youtube_video_titles": [v["title"] for v in videos],
+        "youtube_videos": [{k: v[k] for k in ("title", "channel", "published", "description") if v.get(k)}
+                           for v in videos],
     }
     # 字幕只能用商店页、新闻等资料之外剩下的长度
     room = ccfg.get("max_input_chars", 60000) - len(json.dumps(material, ensure_ascii=False))
@@ -54,7 +57,8 @@ def generate(candidate, rec, cfg):
 
     log.info("%s 资料：%s，%d 个视频，%d 份字幕", game_name,
              "、".join(s["source"] for s in store_pages) or "无商店页", len(videos), len(transcripts))
-    if not store_pages and not transcripts and not candidate.get("news"):
+    has_descriptions = any(len(v.get("description", "")) > 200 for v in videos)
+    if not store_pages and not transcripts and not has_descriptions and not candidate.get("news"):
         raise RuntimeError("找不到任何可靠资料，跳过以免 AI 编造内容")
 
     material["youtube_transcripts"] = transcripts
@@ -71,7 +75,7 @@ def generate(candidate, rec, cfg):
         "created_at": now_iso(),
         "links": [{"label": s["source"], "url": s["url"]} for s in store_pages],
         "image": next((s.get("header_image") for s in store_pages if s.get("header_image")), None),
-        "videos": videos[:3],
+        "videos": [{k: v[k] for k in ("id", "title", "channel") if k in v} for v in videos[:3]],
         "news": candidate.get("news", [])[:5],
         "page": page,
     }

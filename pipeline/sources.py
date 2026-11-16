@@ -123,7 +123,33 @@ def _cookie_file():
     return path
 
 
+YT_API = "https://www.googleapis.com/youtube/v3"
+
+
 def find_videos(query, limit):
+    """配了 YOUTUBE_API_KEY 时用官方接口搜视频并带上简介（新游戏的简介里常有兑换码、玩法、更新说明）。"""
+    key = env("YOUTUBE_API_KEY")
+    if key:
+        try:
+            items = requests.get(f"{YT_API}/search", timeout=30, params={
+                "key": key, "q": query, "part": "snippet", "type": "video",
+                "maxResults": limit, "relevanceLanguage": "en",
+            }).json()["items"]
+            ids = [i["id"]["videoId"] for i in items]
+            details = requests.get(f"{YT_API}/videos", timeout=30, params={
+                "key": key, "id": ",".join(ids), "part": "snippet",
+            }).json()["items"]
+            return [{
+                "id": d["id"], "title": d["snippet"]["title"], "channel": d["snippet"]["channelTitle"],
+                "published": d["snippet"]["publishedAt"][:10],
+                "description": d["snippet"].get("description", "")[:3000],
+            } for d in details]
+        except Exception as exc:
+            log.warning("YouTube 官方接口查询失败 %s: %s，改用 yt-dlp", query, exc)
+    return _find_videos_ytdlp(query, limit)
+
+
+def _find_videos_ytdlp(query, limit):
     import yt_dlp
 
     opts = {"quiet": True, "no_warnings": True, "extract_flat": True, "skip_download": True}
