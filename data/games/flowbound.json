@@ -1,0 +1,118 @@
+{
+  "slug": "flowbound",
+  "game_name": "Flowbound",
+  "keyword": "flowbound game",
+  "created_at": "2026-11-16T06:28:32+00:00",
+  "links": [],
+  "image": null,
+  "videos": [
+    {
+      "id": "_7z_LevUzcI",
+      "title": "Flowbound Review: The New Avatar-Inspired Elemental Fighter",
+      "channel": "Splue"
+    },
+    {
+      "id": "g_49CxXIkOs",
+      "title": "The first online match in my elemental PvP game (1 vs 2 against friends) | Devlog",
+      "channel": "Flowbound"
+    },
+    {
+      "id": "Rp-C2c3xFYI",
+      "title": "Current state of the AIR fighter for my elemental PvP game | Devlog #4",
+      "channel": "Flowbound"
+    }
+  ],
+  "news": [],
+  "page": {
+    "title": "Flowbound: Masters of Four — Elemental PvP Fighter",
+    "meta_description": "Flowbound: Masters of Four is an elemental PvP fighter in playtest. See how to join, download, and pick Fire, Water, Earth, or Air.",
+    "tagline": "A solo-built elemental fighter where you pick Fire, Water, Earth, or Air and battle in fast, skill-based PvP matches.",
+    "overview": [
+      "Flowbound: Masters of Four is a solo-developed elemental PvP fighter inspired by Avatar. You choose Fire, Water, Earth, or Air and fight in fast, skill-based matches. The project is currently in playtest rather than full release.",
+      "Devlogs show that Air has the most mobility and is the least finished: it has airwalk, a tornado that can be set on fire, and a wind spin that deflects fireballs. The first online match included lag, back crits, a destructible map, and the developer fighting two friends at once. The game is still rough, which is why playtests are running.",
+      "There is no store page or announced release date in the provided sources. To play, join the official Discord, register for the playtest on the official website, download the ZIP from the official site, launch the game, and check Discord announcements for online access updates. A tutorial video lists an access code, but playtest instructions may change."
+    ],
+    "facts": [
+      {
+        "label": "Developer",
+        "value": "Solo-developed indie project (developer name not given)"
+      },
+      {
+        "label": "Platforms",
+        "value": "PC (playtest build)"
+      },
+      {
+        "label": "Release",
+        "value": "In playtest; no release date announced"
+      },
+      {
+        "label": "Genre",
+        "value": "Elemental PvP fighter / arena"
+      },
+      {
+        "label": "Engine",
+        "value": "Unreal Engine"
+      },
+      {
+        "label": "Price",
+        "value": "Not listed"
+      },
+      {
+        "label": "Website",
+        "value": "flowboundgame.com"
+      },
+      {
+        "label": "Playtest access",
+        "value": "Official Discord and website sign-up"
+      }
+    ],
+    "how_to_play": [
+      "Join the official Flowbound Discord.",
+      "Register for the playtest on flowboundgame.com/playtest using \"Join with Discord\" to receive the Pathfinder title.",
+      "Download the game from flowboundgame.com/download.",
+      "Enter the access code if prompted. A tutorial lists WTY5-QHZK-KFQG-XBUC, but playtest codes can change—check official Discord announcements.",
+      "Extract the downloaded ZIP file and launch the game.",
+      "Check Discord announcements for the latest updates and online access instructions.",
+      "Once in, choose Fire, Water, Earth, or Air and play matches."
+    ],
+    "controls": [],
+    "tips": [
+      "Read the official Discord announcements before installing—playtest steps and online access instructions may change.",
+      "Expect rough edges. The devlogs openly mention lag, unfinished kits, and broken parts that are being tested.",
+      "Air is the most mobile element but also the least finished; try it if you want airwalk, tornado setups, and wind-spin deflections.",
+      "Wind spin can deflect fireballs, so watch for Air players turning your projectiles against you.",
+      "Use the official website and Discord for downloads and updates instead of relying on third-party copies.",
+      "If an access code fails, check the Discord for current instructions before assuming the playtest is closed."
+    ],
+    "faq": [
+      {
+        "q": "What is Flowbound: Masters of Four?",
+        "a": "Flowbound: Masters of Four is a solo-developed elemental PvP fighter inspired by Avatar. Players pick Fire, Water, Earth, or Air and fight in fast, skill-based matches."
+      },
+      {
+        "q": "Is Flowbound released?",
+        "a": "No release date is announced in the provided sources. Flowbound is currently in playtest."
+      },
+      {
+        "q": "How do I play Flowbound?",
+        "a": "Join the official Discord, register for the playtest on the official website, download the game from the official site, extract the ZIP, launch it, and check Discord announcements for online access instructions."
+      },
+      {
+        "q": "What elements can I play in Flowbound?",
+        "a": "Fire, Water, Earth, and Air. The devlogs specifically show Air's airwalk, tornado, and wind spin abilities."
+      },
+      {
+        "q": "Is Flowbound on Steam?",
+        "a": "The provided sources do not mention a Steam page or store listing. They point to the official website and Discord for playtest access."
+      },
+      {
+        "q": "Does Flowbound cost money?",
+        "a": "No price is listed in the provided sources. Playtest access is handled through the official website and Discord."
+      },
+      {
+        "q": "What is the Flowbound access code?",
+        "a": "A tutorial video lists WTY5-QHZK-KFQG-XBUC as an access code. Playtest codes and instructions may change, so check the official Discord for current details."
+      }
+    ]
+  }
+}
