@@ -3126,6 +3126,180 @@
       "sources": [
         "rising:unblocked games"
       ]
+    },
+    "sharad kapoor": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:54:16+00:00",
+      "game_name": "",
+      "slug": "sharad-kapoor",
+      "confidence": 0.99,
+      "reason": "Actor news, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "colin farrell": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:54:16+00:00",
+      "game_name": "",
+      "slug": "colin-farrell",
+      "confidence": 0.99,
+      "reason": "Celebrity news, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "london underground strikes": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:54:16+00:00",
+      "game_name": "",
+      "slug": "london-underground-strikes",
+      "confidence": 0.99,
+      "reason": "Transport strike news, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "nvidia ceo jensen huang": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:54:16+00:00",
+      "game_name": "",
+      "slug": "nvidia-ceo-jensen-huang",
+      "confidence": 0.99,
+      "reason": "Business/tech person news, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "kyren wilson snooker goat comments": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:54:16+00:00",
+      "game_name": "",
+      "slug": "kyren-wilson-snooker-goat-comments",
+      "confidence": 0.99,
+      "reason": "Snooker sports commentary, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "maldon salt": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:54:16+00:00",
+      "game_name": "",
+      "slug": "maldon-salt",
+      "confidence": 0.99,
+      "reason": "Food product news, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "thameslink": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:54:16+00:00",
+      "game_name": "",
+      "slug": "thameslink",
+      "confidence": 0.99,
+      "reason": "Rail service news, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "el niño": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:54:16+00:00",
+      "game_name": "",
+      "slug": "el-nino",
+      "confidence": 0.99,
+      "reason": "Climate/weather phenomenon, not a game.",
+      "traffic": "5000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "2026 telstra afl draft nominees list": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:54:16+00:00",
+      "game_name": "",
+      "slug": "2026-telstra-afl-draft-nominees-list",
+      "confidence": 0.99,
+      "reason": "AFL sports news, not a game.",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "casinodeets.com casino games": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:54:16+00:00",
+      "game_name": "",
+      "slug": "casinodeets-com-casino-games",
+      "confidence": 0.95,
+      "reason": "Generic casino/gambling site term, not a specific game.",
+      "traffic": "+40%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "new york times": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:54:16+00:00",
+      "game_name": "",
+      "slug": "new-york-times",
+      "confidence": 0.99,
+      "reason": "News publication, not a game.",
+      "traffic": "+40%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "football bros": {
+      "status": "abandoned",
+      "first_seen": "2026-11-16T07:54:16+00:00",
+      "game_name": "Football Bros",
+      "slug": "football-bros",
+      "confidence": 0.86,
+      "reason": "已经火了 87 天，超过 30 天",
+      "traffic": "+90%",
+      "sources": [
+        "rising:io games"
+      ],
+      "news": [],
+      "age_days": 87,
+      "age_measured": true
+    },
+    "math playground": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:54:16+00:00",
+      "game_name": "",
+      "slug": "math-playground",
+      "confidence": 0.9,
+      "reason": "Generic educational games website, not one specific game.",
+      "traffic": "+70%",
+      "sources": [
+        "rising:io games"
+      ]
+    },
+    "scribble io": {
+      "status": "abandoned",
+      "first_seen": "2026-11-16T07:54:16+00:00",
+      "game_name": "Scribble.io",
+      "slug": "scribble-io",
+      "confidence": 0.78,
+      "reason": "已经火了 76 天，超过 30 天",
+      "traffic": "+40%",
+      "sources": [
+        "rising:io games"
+      ],
+      "news": [],
+      "age_days": 76,
+      "age_measured": true
     }
   },
   "domains": {
