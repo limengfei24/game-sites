@@ -51,7 +51,7 @@ jobs:
           git add data
           if ! git diff --cached --quiet; then
             git commit -m "auto: update game sites $(date -u +%F-%H%M)"
-            git push
+            for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done
           fi
 
       - uses: actions/setup-node@v4
@@ -70,5 +70,5 @@ jobs:
           git add data
           if ! git diff --cached --quiet; then
             git commit -m "auto: indexnow $(date -u +%F-%H%M)"
-            git push
+            for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done
           fi
