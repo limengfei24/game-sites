@@ -2775,6 +2775,357 @@
       "sources": [
         "rising:io games"
       ]
+    },
+    "gta vi game": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:43:29+00:00",
+      "game_name": "",
+      "slug": "gta-vi-game",
+      "confidence": 0.97,
+      "reason": "Huge AAA franchise; gaming media dominates GTA 6 searches.",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "karely ruiz": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:43:29+00:00",
+      "game_name": "",
+      "slug": "karely-ruiz",
+      "confidence": 0.99,
+      "reason": "Celebrity/reality TV personality.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "fitness": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:43:29+00:00",
+      "game_name": "",
+      "slug": "fitness",
+      "confidence": 0.99,
+      "reason": "Generic health/fitness topic.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "alex bolt": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:43:29+00:00",
+      "game_name": "",
+      "slug": "alex-bolt",
+      "confidence": 0.95,
+      "reason": "Person/athlete-related, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "bill fennelly": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:43:29+00:00",
+      "game_name": "",
+      "slug": "bill-fennelly",
+      "confidence": 0.99,
+      "reason": "College basketball coach news.",
+      "traffic": "100+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "jimmy fallon": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:43:29+00:00",
+      "game_name": "",
+      "slug": "jimmy-fallon",
+      "confidence": 0.99,
+      "reason": "TV host/celebrity.",
+      "traffic": "100+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "black friday sales": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:43:29+00:00",
+      "game_name": "",
+      "slug": "black-friday-sales",
+      "confidence": 0.99,
+      "reason": "Generic retail shopping phrase.",
+      "traffic": "100+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "future": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:43:29+00:00",
+      "game_name": "",
+      "slug": "future",
+      "confidence": 0.99,
+      "reason": "Generic news/politics phrase.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "henry pollock": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:43:29+00:00",
+      "game_name": "",
+      "slug": "henry-pollock",
+      "confidence": 0.99,
+      "reason": "Rugby player.",
+      "traffic": "2000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "fraud": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:43:29+00:00",
+      "game_name": "",
+      "slug": "fraud",
+      "confidence": 0.99,
+      "reason": "Generic news/crime term.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "away": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:43:29+00:00",
+      "game_name": "",
+      "slug": "away",
+      "confidence": 0.99,
+      "reason": "Generic word, not a specific game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "kyren wilson champion of champions": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:43:29+00:00",
+      "game_name": "",
+      "slug": "kyren-wilson-champion-of-champions",
+      "confidence": 0.99,
+      "reason": "Snooker athlete/event.",
+      "traffic": "2000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "sheffield weather": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:43:29+00:00",
+      "game_name": "",
+      "slug": "sheffield-weather",
+      "confidence": 0.99,
+      "reason": "Weather search.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "天氣": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:43:29+00:00",
+      "game_name": "",
+      "slug": "",
+      "confidence": 0.99,
+      "reason": "Weather search in Chinese.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "hava durumu": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:43:29+00:00",
+      "game_name": "",
+      "slug": "hava-durumu",
+      "confidence": 0.99,
+      "reason": "Weather search in Turkish.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "meteorologia": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:43:29+00:00",
+      "game_name": "",
+      "slug": "meteorologia",
+      "confidence": 0.99,
+      "reason": "Weather/meteorology topic.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "carney trump": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:43:29+00:00",
+      "game_name": "",
+      "slug": "carney-trump",
+      "confidence": 0.99,
+      "reason": "Politics/news.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "brock boeser": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:43:29+00:00",
+      "game_name": "",
+      "slug": "brock-boeser",
+      "confidence": 0.99,
+      "reason": "NHL athlete.",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "afl draft 2026": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:43:29+00:00",
+      "game_name": "",
+      "slug": "afl-draft-2026",
+      "confidence": 0.99,
+      "reason": "Sports draft event.",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "zendaya governors awards 2026 red carpet": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:43:29+00:00",
+      "game_name": "",
+      "slug": "zendaya-governors-awards-2026-red-carpet",
+      "confidence": 0.99,
+      "reason": "Celebrity/red carpet news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "rick rubin": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:43:29+00:00",
+      "game_name": "",
+      "slug": "rick-rubin",
+      "confidence": 0.99,
+      "reason": "Music producer/celebrity.",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "toys r us": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:43:29+00:00",
+      "game_name": "",
+      "slug": "toys-r-us",
+      "confidence": 0.99,
+      "reason": "Retail brand news.",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "beau ryan cameron munster phone call": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:43:29+00:00",
+      "game_name": "",
+      "slug": "beau-ryan-cameron-munster-phone-call",
+      "confidence": 0.99,
+      "reason": "Sports/radio controversy.",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "australian dollar exchange rate drops": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:43:29+00:00",
+      "game_name": "",
+      "slug": "australian-dollar-exchange-rate-drops",
+      "confidence": 0.99,
+      "reason": "Finance/currency news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "mirra andreeva wta finals winner": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:43:29+00:00",
+      "game_name": "",
+      "slug": "mirra-andreeva-wta-finals-winner",
+      "confidence": 0.99,
+      "reason": "Tennis athlete/event.",
+      "traffic": "2000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "avengers doomsday prequel production budget": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:43:29+00:00",
+      "game_name": "",
+      "slug": "avengers-doomsday-prequel-production-budget",
+      "confidence": 0.99,
+      "reason": "Movie production news.",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "microsoft outlook downtime business effects": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:43:29+00:00",
+      "game_name": "",
+      "slug": "microsoft-outlook-downtime-business-effects",
+      "confidence": 0.99,
+      "reason": "Tech outage/business news.",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "stand out roblox codes": {
+      "status": "abandoned",
+      "first_seen": "2026-11-16T07:43:29+00:00",
+      "game_name": "Stand Out",
+      "slug": "stand-out",
+      "confidence": 0.88,
+      "reason": "已经火了 52 天，超过 30 天",
+      "traffic": "+19750%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 52,
+      "age_measured": true
+    },
+    "az games": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T07:43:29+00:00",
+      "game_name": "",
+      "slug": "az-games",
+      "confidence": 0.8,
+      "reason": "Ambiguous generic gaming phrase; no specific title identified.",
+      "traffic": "+40%",
+      "sources": [
+        "rising:unblocked games"
+      ]
     }
   },
   "domains": {
