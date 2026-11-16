@@ -17,7 +17,7 @@ def chat_json(system, user, temperature=0.3):
             f"{base_url}/chat/completions",
             headers={"Authorization": f"Bearer {env('LLM_API_KEY', required=True)}"},
             json={
-                "model": env("LLM_MODEL", "deepseek-chat"),
+                "model": env("LLM_MODEL", "deepseek-flash"),
                 "temperature": temperature,
                 "response_format": {"type": "json_object"},
                 "messages": [
