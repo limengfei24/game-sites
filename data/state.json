@@ -1215,34 +1215,34 @@
       "age_measured": true
     },
     "shibuya codes roblox": {
-      "status": "candidate",
+      "status": "abandoned",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Shibuya",
       "slug": "shibuya",
       "confidence": 0.8,
-      "reason": "Codes for Roblox game Shibuya",
+      "reason": "已经火了 72 天，超过 30 天",
       "traffic": "+50%",
       "sources": [
         "rising:roblox"
       ],
       "news": [],
-      "age_days": 14,
+      "age_days": 72,
       "competitors": null,
       "age_measured": true
     },
     "shibuya codes": {
-      "status": "candidate",
+      "status": "abandoned",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Shibuya",
       "slug": "shibuya",
       "confidence": 0.8,
-      "reason": "Codes for Roblox game Shibuya",
+      "reason": "已经火了 92 天，超过 30 天",
       "traffic": "+50%",
       "sources": [
         "rising:roblox"
       ],
       "news": [],
-      "age_days": 16,
+      "age_days": 92,
       "competitors": null,
       "age_measured": true
     },
@@ -1686,56 +1686,64 @@
       "indexnow_at": "2026-11-16T06:29:41+00:00"
     },
     "hexanaut io": {
-      "status": "candidate",
+      "status": "abandoned",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Hexanaut.io",
       "slug": "hexanaut-io",
       "confidence": 0.75,
-      "reason": "Specific .io territory web game",
+      "reason": "已经火了 82 天，超过 30 天",
       "traffic": "+80%",
       "sources": [
         "rising:io games"
       ],
-      "news": []
+      "news": [],
+      "age_days": 82,
+      "age_measured": true
     },
     "happy wheels": {
-      "status": "candidate",
+      "status": "abandoned",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Happy Wheels",
       "slug": "happy-wheels",
       "confidence": 0.65,
-      "reason": "Specific classic web game with search spike",
+      "reason": "已经火了 87 天，超过 30 天",
       "traffic": "+70%",
       "sources": [
         "rising:io games"
       ],
-      "news": []
+      "news": [],
+      "age_days": 87,
+      "age_measured": true
     },
     "block blast": {
-      "status": "candidate",
+      "status": "abandoned",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Block Blast!",
       "slug": "block-blast",
       "confidence": 0.9,
-      "reason": "Specific viral mobile puzzle game",
+      "reason": "已经火了 92 天，超过 30 天",
       "traffic": "+60%",
       "sources": [
         "rising:io games"
       ],
-      "news": []
+      "news": [],
+      "age_days": 92,
+      "age_measured": true
     },
     "prodigy": {
-      "status": "candidate",
+      "status": "abandoned",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Prodigy Math Game",
       "slug": "prodigy-math-game",
       "confidence": 0.6,
-      "reason": "Specific educational game, though term is somewhat ambiguous",
+      "reason": "已经火了 92 天，超过 30 天",
       "traffic": "+50%",
       "sources": [
         "rising:io games"
       ],
-      "news": []
+      "news": [],
+      "age_days": 92,
+      "age_measured": true
     },
     ".io games": {
       "status": "rejected",
@@ -1750,43 +1758,49 @@
       ]
     },
     "stickman hook": {
-      "status": "candidate",
+      "status": "abandoned",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Stickman Hook",
       "slug": "stickman-hook",
       "confidence": 0.8,
-      "reason": "Specific mobile/web physics game",
+      "reason": "已经火了 90 天，超过 30 天",
       "traffic": "+50%",
       "sources": [
         "rising:io games"
       ],
-      "news": []
+      "news": [],
+      "age_days": 90,
+      "age_measured": true
     },
     "krillion io": {
-      "status": "candidate",
+      "status": "abandoned",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Krillion.io",
       "slug": "krillion-io",
       "confidence": 0.7,
-      "reason": "Specific .io web game",
+      "reason": "已经火了 66 天，超过 30 天",
       "traffic": "+50%",
       "sources": [
         "rising:io games"
       ],
-      "news": []
+      "news": [],
+      "age_days": 66,
+      "age_measured": true
     },
     "krunker io": {
-      "status": "candidate",
+      "status": "abandoned",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Krunker.io",
       "slug": "krunker-io",
       "confidence": 0.85,
-      "reason": "Specific browser FPS web game",
+      "reason": "已经火了 79 天，超过 30 天",
       "traffic": "+40%",
       "sources": [
         "rising:io games"
       ],
-      "news": []
+      "news": [],
+      "age_days": 79,
+      "age_measured": true
     },
     "the mighty nein season 2 release": {
       "status": "rejected",
@@ -2620,6 +2634,147 @@
       "news": [],
       "age_days": 81,
       "age_measured": true
+    },
+    "jlo": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T06:42:09+00:00",
+      "game_name": "",
+      "slug": "jlo",
+      "confidence": 0.98,
+      "reason": "Celebrity Jennifer Lopez, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "apec": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T06:42:09+00:00",
+      "game_name": "",
+      "slug": "apec",
+      "confidence": 0.97,
+      "reason": "Political/economic summit, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "pogoda": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T06:42:09+00:00",
+      "game_name": "",
+      "slug": "pogoda",
+      "confidence": 0.99,
+      "reason": "Weather term, not a game.",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "clima": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T06:42:09+00:00",
+      "game_name": "",
+      "slug": "clima",
+      "confidence": 0.99,
+      "reason": "Weather term, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "david jones billionaire buyers interest": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T06:42:09+00:00",
+      "game_name": "",
+      "slug": "david-jones-billionaire-buyers-interest",
+      "confidence": 0.98,
+      "reason": "Retail/business news, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "governors awards": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T06:42:09+00:00",
+      "game_name": "",
+      "slug": "governors-awards",
+      "confidence": 0.98,
+      "reason": "Entertainment awards event, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "okishima roblox codes": {
+      "status": "abandoned",
+      "first_seen": "2026-11-16T06:42:09+00:00",
+      "game_name": "Okishima",
+      "slug": "okishima",
+      "confidence": 0.82,
+      "reason": "已经火了 76 天，超过 30 天",
+      "traffic": "+400%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 76,
+      "age_measured": true
+    },
+    "steam gta 6": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T06:42:09+00:00",
+      "game_name": "",
+      "slug": "steam-gta-6",
+      "confidence": 0.96,
+      "reason": "Huge AAA GTA franchise; reject per guidelines.",
+      "traffic": "+150%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "slope": {
+      "status": "abandoned",
+      "first_seen": "2026-11-16T06:42:09+00:00",
+      "game_name": "Slope",
+      "slug": "slope",
+      "confidence": 0.7,
+      "reason": "已经火了 92 天，超过 30 天",
+      "traffic": "+60%",
+      "sources": [
+        "rising:io games"
+      ],
+      "news": [],
+      "age_days": 92,
+      "age_measured": true
+    },
+    "bloxed io": {
+      "status": "abandoned",
+      "first_seen": "2026-11-16T06:42:09+00:00",
+      "game_name": "Bloxed.io",
+      "slug": "bloxed-io",
+      "confidence": 0.76,
+      "reason": "已经火了 72 天，超过 30 天",
+      "traffic": "+50%",
+      "sources": [
+        "rising:io games"
+      ],
+      "news": [],
+      "age_days": 72,
+      "age_measured": true
+    },
+    "crazygames": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T06:42:09+00:00",
+      "game_name": "",
+      "slug": "crazygames",
+      "confidence": 0.9,
+      "reason": "Generic web games platform, not one specific game.",
+      "traffic": "+50%",
+      "sources": [
+        "rising:io games"
+      ]
     }
   },
   "domains": {
