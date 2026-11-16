@@ -30,4 +30,6 @@ rules:
 content:
   youtube_videos: 4            # 每个游戏抓几个 YouTube 视频的字幕作为素材
   max_transcript_chars: 15000  # 喂给 AI 的字幕总长度上限
+  gemini_videos: 2             # 每个游戏让 Gemini 直接看几个视频（免费额度每天 8 小时）
+  max_video_minutes: 15        # 超过这个时长的视频不让 Gemini 看
   max_input_chars: 60000       # 单次喂给 AI 的资料总长度上限

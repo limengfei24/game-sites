@@ -9,6 +9,7 @@ from .config import GAMES_DIR, STATE_FILE
 #   abandoned  太老或竞争太激烈，放弃
 #   built      内容已生成
 #   live       子域名 DNS + Vercel 已配置
+#   removed    站点已手动删除，同一游戏的新词也不再建站
 
 
 def now_iso():

@@ -8,7 +8,8 @@ from .state import now_iso
 log = logging.getLogger(__name__)
 
 SYSTEM = """You write SEO landing pages for a website dedicated to one newly trending game.
-Use ONLY facts supported by the provided sources (store pages, Wikipedia, YouTube transcripts,
+Use ONLY facts supported by the provided sources (store pages, Wikipedia, YouTube transcripts or notes
+taken while watching the videos,
 video titles and descriptions, news headlines). Ignore self-promotion in video descriptions
 (subscribe links, sponsors, social media); a code from a video description is only a fact if the
 description clearly presents it as a code for this game. Never invent release dates, prices, platforms, developers or
@@ -47,10 +48,19 @@ def generate(candidate, rec, cfg):
     # 字幕只能用商店页、新闻等资料之外剩下的长度
     room = ccfg.get("max_input_chars", 60000) - len(json.dumps(material, ensure_ascii=False))
     transcripts, budget = [], min(ccfg["max_transcript_chars"], room)
+    # Gemini 免费额度是每天 8 小时 YouTube 视频，所以每个游戏只看几个不太长的视频
+    watched = 0
     for video in videos:
         if budget <= 0:
             break
-        text = sources.youtube_transcript(video["id"])[:budget]
+        text = ""
+        short = (video.get("minutes") or 0) <= ccfg.get("max_video_minutes", 15)
+        if watched < ccfg.get("gemini_videos", 2) and short and video.get("minutes"):
+            text = sources.gemini_video_notes(video["id"], game_name)
+            watched += 1
+        if not text:
+            text = sources.youtube_transcript(video["id"])
+        text = text[:budget]
         if text:
             transcripts.append({"video": video["title"], "transcript": text})
             budget -= len(text)

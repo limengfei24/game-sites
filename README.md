@@ -25,7 +25,7 @@
 4. **GitHub**：把本目录推到一个仓库，在 Settings → Secrets and variables → Actions 里添加 `LLM_API_KEY`、`VERCEL_TOKEN`、`VERCEL_ORG_ID`、`VERCEL_PROJECT_ID`。
 5. Actions 页面手动点一次 `game-sites` → Run workflow 试跑。
 
-可选：`SERPER_API_KEY`（竞争检查）、`INDEXNOW_KEY`（Bing 快速收录）、`YOUTUBE_COOKIES`（抓 YouTube 字幕）。
+可选：`SERPER_API_KEY`（竞争检查）、`INDEXNOW_KEY`（Bing 快速收录）、`GEMINI_API_KEY`（让 Gemini 直接看 YouTube 视频写素材笔记）、`YOUTUBE_COOKIES`（抓 YouTube 字幕，备用）。
 谷歌收录：在 Google Search Console 用「网域」方式验证 `many.pw` 一次（在 Vercel 的 DNS 里加 TXT），所有子域名都会包含在内。
 
 ## 本地运行

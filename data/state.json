@@ -919,12 +919,12 @@
       ]
     },
     "behaviour interactive exterminauts new game": {
-      "status": "live",
+      "status": "removed",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Exterminauts",
       "slug": "exterminauts",
       "confidence": 0.68,
-      "reason": "Specific new game announcement query",
+      "reason": "谷歌前 10 竞争已超出建站规则，手动删除",
       "traffic": "+1100%",
       "sources": [
         "rising:new game"
@@ -1090,12 +1090,12 @@
       "age_measured": true
     },
     "do not stop roblox codes": {
-      "status": "live",
+      "status": "removed",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Do Not Stop",
       "slug": "do-not-stop",
       "confidence": 0.84,
-      "reason": "Codes for Roblox game Do Not Stop",
+      "reason": "谷歌前 10 竞争已超出建站规则，手动删除",
       "traffic": "+350%",
       "sources": [
         "rising:roblox"
@@ -1141,12 +1141,12 @@
       "age_measured": true
     },
     "codes for king legacy roblox": {
-      "status": "live",
+      "status": "removed",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "King Legacy",
       "slug": "king-legacy",
       "confidence": 0.65,
-      "reason": "Specific Roblox game codes; possibly update-driven",
+      "reason": "谷歌前 10 竞争已超出建站规则，手动删除",
       "traffic": "+150%",
       "sources": [
         "rising:roblox"
@@ -2555,12 +2555,12 @@
       "age_measured": true
     },
     "roblox do not stop codes": {
-      "status": "duplicate",
+      "status": "removed",
       "first_seen": "2026-11-16T06:26:51+00:00",
       "game_name": "Do Not Stop",
       "slug": "do-not-stop",
       "confidence": 0.8,
-      "reason": "Codes query for a specific Roblox game.",
+      "reason": "谷歌前 10 竞争已超出建站规则，手动删除",
       "traffic": "+300%",
       "sources": [
         "rising:roblox"

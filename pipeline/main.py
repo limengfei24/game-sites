@@ -69,6 +69,7 @@ def game_age_days(keyword, rec, keywords):
 def build_new_sites(cfg, state):
     rules = cfg["rules"]
     existing = {g["slug"] for g in load_games()}
+    removed = {rec["slug"] for rec in state["keywords"].values() if rec["status"] == "removed"}
     pending = sorted(
         ((kw, rec) for kw, rec in state["keywords"].items() if rec["status"] == "candidate"),
         key=lambda item: item[1]["first_seen"], reverse=True,
@@ -79,6 +80,9 @@ def build_new_sites(cfg, state):
             break
         if rec["slug"] in existing:
             rec["status"] = "duplicate"
+            continue
+        if rec["slug"] in removed:
+            rec["status"], rec["reason"] = "abandoned", "这个游戏的站已经手动删除"
             continue
 
         age = game_age_days(keyword, rec, state["keywords"])

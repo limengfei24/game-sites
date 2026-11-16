@@ -137,16 +137,60 @@ def find_videos(query, limit):
             }).json()["items"]
             ids = [i["id"]["videoId"] for i in items]
             details = requests.get(f"{YT_API}/videos", timeout=30, params={
-                "key": key, "id": ",".join(ids), "part": "snippet",
+                "key": key, "id": ",".join(ids), "part": "snippet,contentDetails",
             }).json()["items"]
             return [{
                 "id": d["id"], "title": d["snippet"]["title"], "channel": d["snippet"]["channelTitle"],
                 "published": d["snippet"]["publishedAt"][:10],
                 "description": d["snippet"].get("description", "")[:3000],
+                "minutes": _iso_minutes(d.get("contentDetails", {}).get("duration", "")),
             } for d in details]
         except Exception as exc:
             log.warning("YouTube 官方接口查询失败 %s: %s，改用 yt-dlp", query, exc)
     return _find_videos_ytdlp(query, limit)
+
+
+def _iso_minutes(duration):
+    m = re.fullmatch(r"P(?:(\d+)D)?T?(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?", duration or "")
+    if not m:
+        return None
+    d, h, mi, s = (int(x or 0) for x in m.groups())
+    return d * 1440 + h * 60 + mi + s / 60
+
+
+GEMINI_PROMPT = """Watch this video about the game "{game}". Write detailed English notes of everything
+it says or shows about the game: what kind of game it is, goals, mechanics, modes, controls,
+progression, items, characters, tips and strategies, and any redeem codes shown or spoken (exact
+spelling). Include on-screen text that matters. Report only what is in the video; skip the
+creator's self-promotion, sponsors and channel talk. If the video is not about this game, reply
+with exactly: NOT_ABOUT_GAME"""
+
+
+def gemini_video_notes(video_id, game_name):
+    """让 Gemini 直接看 YouTube 视频（画面+声音）写成笔记，YouTube 拦不到，没字幕的视频也行。"""
+    key = env("GEMINI_API_KEY")
+    if not key:
+        return ""
+    model = env("GEMINI_MODEL") or "gemini-3.5-flash"
+    body = {
+        "contents": [{"parts": [
+            {"fileData": {"fileUri": f"https://www.youtube.com/watch?v={video_id}"}},
+            {"text": GEMINI_PROMPT.format(game=game_name)},
+        ]}],
+        "generationConfig": {"mediaResolution": "MEDIA_RESOLUTION_LOW", "temperature": 0.2},
+    }
+    try:
+        resp = requests.post(
+            f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
+            headers={"x-goog-api-key": key}, json=body, timeout=300)
+        resp.raise_for_status()
+        parts = resp.json()["candidates"][0]["content"]["parts"]
+    except Exception as exc:
+        detail = getattr(getattr(exc, "response", None), "text", "")[:200]
+        log.warning("Gemini 看视频 %s 失败: %s %s", video_id, exc, detail)
+        return ""
+    text = "".join(p.get("text", "") for p in parts).strip()
+    return "" if text.startswith("NOT_ABOUT_GAME") else text
 
 
 def _find_videos_ytdlp(query, limit):
@@ -161,7 +205,8 @@ def _find_videos_ytdlp(query, limit):
         return []
     return [
         {"id": e["id"], "title": e.get("title", ""), "channel": e.get("channel") or e.get("uploader", ""),
-         "description": e.get("description") or ""}
+         "description": e.get("description") or "",
+         "minutes": e["duration"] / 60 if e.get("duration") else None}
         for e in info.get("entries", []) if e and e.get("id")
     ]
 
