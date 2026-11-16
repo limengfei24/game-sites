@@ -160,7 +160,8 @@ def _find_videos_ytdlp(query, limit):
         log.warning("YouTube 搜索失败 %s: %s", query, exc)
         return []
     return [
-        {"id": e["id"], "title": e.get("title", ""), "channel": e.get("channel") or e.get("uploader", "")}
+        {"id": e["id"], "title": e.get("title", ""), "channel": e.get("channel") or e.get("uploader", ""),
+         "description": e.get("description") or ""}
         for e in info.get("entries", []) if e and e.get("id")
     ]
 
