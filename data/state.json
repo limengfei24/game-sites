@@ -534,7 +534,8 @@
       "age_measured": true,
       "built_at": "2026-11-16T06:27:47+00:00",
       "url": "https://mottle.many.pw/",
-      "live_at": "2026-11-16T06:29:06+00:00"
+      "live_at": "2026-11-16T06:29:06+00:00",
+      "indexnow_at": "2026-11-16T06:29:33+00:00"
     },
     "trib game": {
       "status": "abandoned",
@@ -673,7 +674,8 @@
       "age_measured": true,
       "built_at": "2026-11-16T06:28:32+00:00",
       "url": "https://flowbound.many.pw/",
-      "live_at": "2026-11-16T06:29:06+00:00"
+      "live_at": "2026-11-16T06:29:06+00:00",
+      "indexnow_at": "2026-11-16T06:29:33+00:00"
     },
     "othello game": {
       "status": "rejected",
@@ -933,7 +935,8 @@
       "built_at": "2026-11-16T04:33:30+00:00",
       "url": "https://exterminauts.many.pw/",
       "live_at": "2026-11-16T04:35:21+00:00",
-      "age_measured": true
+      "age_measured": true,
+      "indexnow_at": "2026-11-16T06:29:34+00:00"
     },
     "new gta game": {
       "status": "rejected",
@@ -1103,7 +1106,8 @@
       "built_at": "2026-11-16T04:43:20+00:00",
       "url": "https://do-not-stop.many.pw/",
       "live_at": "2026-11-16T04:44:23+00:00",
-      "age_measured": true
+      "age_measured": true,
+      "indexnow_at": "2026-11-16T06:29:35+00:00"
     },
     "survive a psycho roblox codes": {
       "status": "abandoned",
@@ -1153,7 +1157,8 @@
       "built_at": "2026-11-16T04:34:38+00:00",
       "url": "https://king-legacy.many.pw/",
       "live_at": "2026-11-16T04:35:21+00:00",
-      "age_measured": true
+      "age_measured": true,
+      "indexnow_at": "2026-11-16T06:29:36+00:00"
     },
     "a bizarre run codes": {
       "status": "live",
@@ -1176,7 +1181,8 @@
       "age_measured": true,
       "built_at": "2026-11-16T06:29:06+00:00",
       "url": "https://a-bizarre-run.many.pw/",
-      "live_at": "2026-11-16T06:29:06+00:00"
+      "live_at": "2026-11-16T06:29:06+00:00",
+      "indexnow_at": "2026-11-16T06:29:37+00:00"
     },
     "the forge roblox": {
       "status": "abandoned",
@@ -1329,7 +1335,8 @@
       "competitors": null,
       "built_at": "2026-11-16T04:39:00+00:00",
       "url": "https://foundation-galactic-frontier.many.pw/",
-      "live_at": "2026-11-16T04:39:25+00:00"
+      "live_at": "2026-11-16T04:39:25+00:00",
+      "indexnow_at": "2026-11-16T06:29:37+00:00"
     },
     "big walk steam": {
       "status": "abandoned",
@@ -1363,7 +1370,8 @@
       "built_at": "2026-11-16T04:39:25+00:00",
       "url": "https://mistfall-hunter.many.pw/",
       "live_at": "2026-11-16T04:39:25+00:00",
-      "age_measured": true
+      "age_measured": true,
+      "indexnow_at": "2026-11-16T06:29:39+00:00"
     },
     "rob run steam charts": {
       "status": "live",
@@ -1382,7 +1390,8 @@
       "built_at": "2026-11-16T04:43:56+00:00",
       "url": "https://rob-run.many.pw/",
       "live_at": "2026-11-16T04:44:23+00:00",
-      "age_measured": true
+      "age_measured": true,
+      "indexnow_at": "2026-11-16T06:29:40+00:00"
     },
     "bodycam steam": {
       "status": "abandoned",
@@ -1673,7 +1682,8 @@
       "built_at": "2026-11-16T04:44:23+00:00",
       "url": "https://surviv-io.many.pw/",
       "live_at": "2026-11-16T04:44:23+00:00",
-      "age_measured": true
+      "age_measured": true,
+      "indexnow_at": "2026-11-16T06:29:41+00:00"
     },
     "hexanaut io": {
       "status": "candidate",
