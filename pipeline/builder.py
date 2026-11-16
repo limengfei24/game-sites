@@ -18,11 +18,17 @@ def _vercel_config(base_domain):
         "trailingSlash": False,
         # 只在 dist 根目录放 vercel.json / assets / hub / sites，
         # 这样子域名访问 / 时文件系统没有命中，才会走下面的按 Host 重写。
+        # 根路径要重写到不带斜杠的目录名：在 cleanUrls + trailingSlash=false 下，
+        # "/hub/" 和 "/hub/index.html" 作为重写目标都会 404，只有 "/hub" 能命中 hub/index.html。
         "rewrites": [
-            {"source": "/:path*", "has": [{"type": "host", "value": f"(www\\.)?{escaped}"}],
-             "destination": "/hub/:path*"},
-            {"source": "/:path*", "has": [{"type": "host", "value": f"(?<sub>[a-z0-9-]+)\\.{escaped}"}],
-             "destination": "/sites/:sub/:path*"},
+            {"source": "/", "has": [{"type": "host", "value": f"(www\\.)?{escaped}"}],
+             "destination": "/hub"},
+            {"source": "/:path+", "has": [{"type": "host", "value": f"(www\\.)?{escaped}"}],
+             "destination": "/hub/:path+"},
+            {"source": "/", "has": [{"type": "host", "value": f"(?<sub>[a-z0-9-]+)\\.{escaped}"}],
+             "destination": "/sites/:sub"},
+            {"source": "/:path+", "has": [{"type": "host", "value": f"(?<sub>[a-z0-9-]+)\\.{escaped}"}],
+             "destination": "/sites/:sub/:path+"},
         ],
         "headers": [
             {"source": "/assets/(.*)",
