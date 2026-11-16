@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="{{ site.language }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}{% endblock %}</title>
+  <meta name="description" content="{% block description %}{% endblock %}">
+  <link rel="canonical" href="{{ url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ url }}">
+  <meta property="og:title" content="{{ self.title() }}">
+  <meta property="og:description" content="{{ self.description() }}">
+  {% block og_image %}{% endblock %}
+  <meta name="theme-color" content="#0b0d14">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/style.css?v={{ asset_version }}">
+  {% block head %}{% endblock %}
+  {% if site.vercel_analytics %}<script defer src="/_vercel/insights/script.js"></script>{% endif %}
+  {% if site.ga4_id %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga4_id }}"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','{{ site.ga4_id }}');</script>
+  {% endif %}
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap topbar-inner">
+      <a class="brand" href="https://{{ base_domain }}/"><span class="brand-dot"></span>{{ site.brand }}</a>
+      {% block nav %}{% endblock %}
+    </div>
+  </header>
+  <main>{% block main %}{% endblock %}</main>
+  <footer class="footer">
+    <div class="wrap">
+      <p>&copy; {{ year }} {{ site.brand }}. Fan-made guide, not affiliated with the game's developer or publisher. All trademarks belong to their owners.</p>
+    </div>
+  </footer>
+</body>
+</html>

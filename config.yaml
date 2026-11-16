@@ -1,0 +1,30 @@
+# 游戏新词自动建站配置
+# 改完提交到 GitHub 即可生效，密钥类的配置放在 GitHub Secrets / 本地 .env 里，不要写在这里。
+
+# 用来挂子域名的主域名（必须是你阿里云账号里、DNS 由阿里云解析的域名）
+# 每个新游戏会生成 <游戏slug>.<base_domain>，例如 slime-rancher-3.many.pw
+base_domain: ""
+
+site:
+  brand: "GameRadar"           # 页面顶部显示的站点名
+  language: "en"               # 生成内容的语言（谷歌趋势抓的是美国词，建议英文）
+  ga4_id: ""                   # 可选：Google Analytics 4 衡量 ID，如 G-XXXXXXX
+  vercel_analytics: true       # 在 Vercel 后台开启 Web Analytics 后自动生效
+
+trends:
+  # 每日热搜 RSS 的地区
+  rss_geos: ["US", "GB", "CA", "AU"]
+  # 在 Google Trends「游戏」分类下查这些种子词的「飙升相关搜索」
+  rising_seeds: ["game", "games", "new game", "roblox", "steam", "unblocked games", "io games"]
+  rising_geo: "US"
+  rising_timeframe: "now 7-d"
+
+rules:
+  max_new_sites_per_run: 3     # 每次运行最多新建几个站
+  max_keyword_age_days: 30     # 视频里的规矩：一个词火起来超过 30 天就放弃
+  max_competitors: 3           # 谷歌前 10 名里已经有几个专门站就放弃（需要 SERPER_API_KEY）
+  min_confidence: 0.6          # AI 判断「这是一个具体的新游戏」的最低置信度
+
+content:
+  youtube_videos: 4            # 每个游戏抓几个 YouTube 视频的字幕作为素材
+  max_transcript_chars: 15000  # 喂给 AI 的字幕总长度上限

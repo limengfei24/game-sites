@@ -1,0 +1,121 @@
+{% extends "base.html" %}
+{% block title %}{{ page.title or game.game_name }}{% endblock %}
+{% block description %}{{ page.meta_description }}{% endblock %}
+{% block og_image %}{% if game.image %}<meta property="og:image" content="{{ game.image }}">{% elif game.videos %}<meta property="og:image" content="https://i.ytimg.com/vi/{{ game.videos[0].id }}/hqdefault.jpg">{% endif %}{% endblock %}
+{% block head %}<script type="application/ld+json">{{ ld_json | safe }}</script>{% endblock %}
+{% block nav %}
+<nav class="nav">
+  {% if page.how_to_play %}<a href="#how-to-play">How to play</a>{% endif %}
+  {% if page.tips %}<a href="#tips">Tips</a>{% endif %}
+  {% if page.faq %}<a href="#faq">FAQ</a>{% endif %}
+</nav>
+{% endblock %}
+{% block main %}
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div>
+      <span class="pill">Trending now</span>
+      <h1>{{ game.game_name }}</h1>
+      {% if page.tagline %}<p class="lead">{{ page.tagline }}</p>{% endif %}
+      {% if game.links %}
+      <div class="cta">
+        {% for l in game.links if l.label != "Wikipedia" %}
+        <a class="btn" href="{{ l.url }}" target="_blank" rel="noopener">Play on {{ l.label.replace(" store", "") }}</a>
+        {% endfor %}
+      </div>
+      {% endif %}
+      {% if page.facts %}
+      <dl class="facts">
+        {% for f in page.facts if f.value %}
+        <div><dt>{{ f.label }}</dt><dd>{{ f.value }}</dd></div>
+        {% endfor %}
+      </dl>
+      {% endif %}
+    </div>
+    {% if game.videos %}
+    <div class="player">
+      <iframe src="https://www.youtube-nocookie.com/embed/{{ game.videos[0].id }}" title="{{ game.videos[0].title }}"
+              loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    {% endif %}
+  </div>
+</section>
+
+<div class="wrap content">
+  {% if page.overview %}
+  <section class="card">
+    <h2>What is {{ game.game_name }}?</h2>
+    {% for p in page.overview %}<p>{{ p }}</p>{% endfor %}
+  </section>
+  {% endif %}
+
+  {% if page.how_to_play %}
+  <section class="card" id="how-to-play">
+    <h2>How to play</h2>
+    <ol class="steps">{% for s in page.how_to_play %}<li>{{ s }}</li>{% endfor %}</ol>
+  </section>
+  {% endif %}
+
+  {% if page.controls %}
+  <section class="card">
+    <h2>Controls</h2>
+    <ul class="controls">
+      {% for c in page.controls %}<li><kbd>{{ c.input }}</kbd><span>{{ c.action }}</span></li>{% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  {% if page.tips %}
+  <section class="card" id="tips">
+    <h2>Tips &amp; tricks</h2>
+    <ul class="tips">{% for t in page.tips %}<li>{{ t }}</li>{% endfor %}</ul>
+  </section>
+  {% endif %}
+
+  {% if game.videos | length > 1 %}
+  <section class="card">
+    <h2>Gameplay videos</h2>
+    <div class="video-grid">
+      {% for v in game.videos[1:] %}
+      <a class="video" href="https://www.youtube.com/watch?v={{ v.id }}" target="_blank" rel="noopener">
+        <img src="https://i.ytimg.com/vi/{{ v.id }}/mqdefault.jpg" alt="{{ v.title }}" loading="lazy" width="320" height="180">
+        <span>{{ v.title }}</span>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  {% if page.faq %}
+  <section class="card" id="faq">
+    <h2>FAQ</h2>
+    {% for f in page.faq %}
+    <details><summary>{{ f.q }}</summary><p>{{ f.a }}</p></details>
+    {% endfor %}
+  </section>
+  {% endif %}
+
+  {% if game.news %}
+  <section class="card">
+    <h2>Latest news</h2>
+    <ul class="news">
+      {% for n in game.news %}<li><a href="{{ n.url }}" target="_blank" rel="noopener nofollow">{{ n.title }}</a>{% if n.source %} <small>{{ n.source }}</small>{% endif %}</li>{% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  {% if others %}
+  <section class="more">
+    <h2>More trending games</h2>
+    <div class="game-grid">
+      {% for g in others %}
+      <a class="game-card" href="https://{{ g.slug }}.{{ base_domain }}/">
+        <strong>{{ g.game_name }}</strong>
+        <span>{{ g.page.tagline }}</span>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+</div>
+{% endblock %}

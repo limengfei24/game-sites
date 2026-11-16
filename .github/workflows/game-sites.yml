@@ -1,0 +1,73 @@
+name: game-sites
+
+on:
+  schedule:
+    # 每 4 小时跑一次（UTC 时间），新词越早发现越好
+    - cron: "17 */4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: game-sites
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+      LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+      LLM_MODEL: ${{ secrets.LLM_MODEL }}
+      ALIYUN_ACCESS_KEY_ID: ${{ secrets.ALIYUN_ACCESS_KEY_ID }}
+      ALIYUN_ACCESS_KEY_SECRET: ${{ secrets.ALIYUN_ACCESS_KEY_SECRET }}
+      VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+      VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+      VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+      SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+      INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
+      YOUTUBE_COOKIES: ${{ secrets.YOUTUBE_COOKIES }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: 找新词、生成内容、配置域名
+        run: python -m pipeline.main run
+
+      - name: 保存数据
+        if: always()
+        run: |
+          git config user.name "game-sites-bot"
+          git config user.email "game-sites-bot@users.noreply.github.com"
+          git add data
+          if ! git diff --cached --quiet; then
+            git commit -m "auto: update game sites $(date -u +%F-%H%M)"
+            git push
+          fi
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 部署到 Vercel
+        run: |
+          npm install -g vercel@latest
+          cd dist
+          vercel deploy --prod --yes --token "$VERCEL_TOKEN"
+
+      - name: 通知搜索引擎收录
+        run: |
+          python -m pipeline.main ping
+          git add data
+          if ! git diff --cached --quiet; then
+            git commit -m "auto: indexnow $(date -u +%F-%H%M)"
+            git push
+          fi

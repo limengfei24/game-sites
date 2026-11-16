@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block title %}{{ site.brand }} – Guides for the newest trending games{% endblock %}
+{% block description %}Fresh guides, controls, tips and FAQs for the games everyone is searching for right now.{% endblock %}
+{% block main %}
+<section class="hero hero-hub">
+  <div class="wrap">
+    <span class="pill">Updated daily</span>
+    <h1>The games everyone is searching for</h1>
+    <p class="lead">We track rising searches and publish a quick guide the day a game starts trending.</p>
+  </div>
+</section>
+<div class="wrap content">
+  {% if games %}
+  <div class="game-grid">
+    {% for g in games %}
+    <a class="game-card" href="https://{{ g.slug }}.{{ base_domain }}/">
+      {% if g.videos %}<img src="https://i.ytimg.com/vi/{{ g.videos[0].id }}/mqdefault.jpg" alt="" loading="lazy" width="320" height="180">{% endif %}
+      <strong>{{ g.game_name }}</strong>
+      <span>{{ g.page.tagline }}</span>
+      <time datetime="{{ g.created_at }}">{{ g.created_at[:10] }}</time>
+    </a>
+    {% endfor %}
+  </div>
+  {% else %}
+  <p class="empty">No games yet – check back soon.</p>
+  {% endif %}
+</div>
+{% endblock %}
