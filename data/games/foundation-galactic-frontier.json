@@ -1,0 +1,110 @@
+{
+  "slug": "foundation-galactic-frontier",
+  "game_name": "Foundation: Galactic Frontier",
+  "keyword": "foundation galactic frontier steam release",
+  "created_at": "2026-11-16T04:39:00+00:00",
+  "links": [
+    {
+      "label": "Steam store",
+      "url": "https://store.steampowered.com/app/4223760/"
+    }
+  ],
+  "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223760/41d22ad11e80aa5cc197f290a0ca0bba3afc386f/header.jpg?t=1793944750",
+  "videos": [
+    {
+      "id": "iHBZjMLencE",
+      "title": "Beginner Guide to Foundation: Galactic Frontier!",
+      "channel": "MrSneakyy AOEM"
+    },
+    {
+      "id": "8uijYbaUE2s",
+      "title": "Foundation: Galactic Frontier - Gameplay Walkthrough Part 1 - Tutorial (iOS, Android)",
+      "channel": "Pryszard Android iOS Gameplays"
+    },
+    {
+      "id": "W02kP7UYtH0",
+      "title": "Foundation Galactic Frontier LETS PLAY SEASON 2!",
+      "channel": "MIRANDUS PLAYS"
+    }
+  ],
+  "news": [],
+  "page": {
+    "title": "Foundation: Galactic Frontier – Steam Release & Free MMO",
+    "meta_description": "Foundation: Galactic Frontier is a free-to-play sci-fi adventure on Steam. Build a starship, recruit crew, fight TPS battles, and command fleets.",
+    "tagline": "Trade, fight, and build your own starship in the official Foundation universe.",
+    "overview": [
+      "Foundation: Galactic Frontier is a free-to-play sci-fi game set in Isaac Asimov's official Foundation universe, the novels that also inspired the Apple TV+ series. The Steam page describes a falling Galactic Empire, rising factions, and a story tied to Seldon's Plan and the mysterious Mule. FunPlus International AG is listed as both developer and publisher, with a Steam release date of Nov 5, 2026.",
+      "You play as an interstellar trader, bounty hunter, and political strategist moving between the Empire, Foundation, other factions, and rebels. Your mothership is a buildable space home: construct cabins for food, water recycling, and steel, arm cannons, and handle crew emergencies together. Recruit heroes such as a knowledgeable robot, a legendary space cowboy, and even a most-wanted criminal.",
+      "Combat blends TPS firefights with fleet strategy. Build 3-hero strike teams from 15+ heroes, mixing tank, DPS, and healer roles. In galaxy wars, command Kinetic, Ion, and Beam craft, set formations with different flagships, assign commanders, and protect trade routes with alliances."
+    ],
+    "facts": [
+      {
+        "label": "Developer",
+        "value": "FunPlus International AG"
+      },
+      {
+        "label": "Publisher",
+        "value": "FunPlus International AG"
+      },
+      {
+        "label": "Platforms",
+        "value": "Windows (Steam); iOS and Android referenced in a YouTube tutorial title"
+      },
+      {
+        "label": "Release",
+        "value": "Nov 5, 2026 (Steam)"
+      },
+      {
+        "label": "Genre",
+        "value": "Adventure, Massively Multiplayer, RPG, Simulation, Strategy, Free To Play"
+      },
+      {
+        "label": "Price",
+        "value": "Free to play"
+      }
+    ],
+    "how_to_play": [
+      "Build your mothership cabins for food, water recycling, and steel, and arm the ship with cannons.",
+      "Recruit heroes from different backgrounds and invite them onboard your starship home.",
+      "Form a 3-hero strike team and mix tank, DPS, and healer roles for TPS firefights.",
+      "Command fleets in galaxy wars using Kinetic, Ion, and Beam combat craft classes.",
+      "Set fleet formations with flagships, assign commanders, and protect your trade routes from threats and rivals.",
+      "Join alliances and take part in large-scale interstellar conflicts."
+    ],
+    "controls": [],
+    "tips": [
+      "Use a tank-DPS-healer trio when building your 3-hero strike team.",
+      "Master the three combat craft classes—Kinetic, Ion, and Beam—and deploy them in optimal formations.",
+      "Assign the right commanders to flagships to unlock their full power.",
+      "Protect trade routes from rivals while expanding your galactic trade empire.",
+      "Keep your mothership supplied with food, water recyclers, and steel.",
+      "Foster bonds with your crew and handle emergencies together."
+    ],
+    "faq": [
+      {
+        "q": "When does Foundation: Galactic Frontier release on Steam?",
+        "a": "The Steam store lists Nov 5, 2026 as the release date."
+      },
+      {
+        "q": "Is Foundation: Galactic Frontier free to play?",
+        "a": "Yes. The Steam page marks it as free to play."
+      },
+      {
+        "q": "What platforms is Foundation: Galactic Frontier on?",
+        "a": "Steam lists Windows. A YouTube tutorial title also references iOS and Android."
+      },
+      {
+        "q": "Who develops Foundation: Galactic Frontier?",
+        "a": "FunPlus International AG is listed as both developer and publisher on Steam."
+      },
+      {
+        "q": "Is Foundation: Galactic Frontier based on Isaac Asimov's Foundation?",
+        "a": "Yes. The Steam page calls it the official Foundation universe and references Isaac Asimov's novels and the Apple TV+ series."
+      },
+      {
+        "q": "Are specific controls listed?",
+        "a": "The provided sources do not list specific key bindings or button controls. Use the in-game tutorial for controls."
+      }
+    ]
+  }
+}

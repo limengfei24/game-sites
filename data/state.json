@@ -652,7 +652,7 @@
         "rising:game"
       ],
       "news": [],
-      "age_days": 4,
+      "age_days": 18,
       "competitors": null
     },
     "othello game": {
@@ -989,7 +989,7 @@
       "age_days": 52
     },
     "stand out codes": {
-      "status": "candidate",
+      "status": "duplicate",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Stand Out",
       "slug": "stand-out",
@@ -1028,7 +1028,7 @@
       ]
     },
     "stand out roblox": {
-      "status": "candidate",
+      "status": "duplicate",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Stand Out",
       "slug": "stand-out",
@@ -1087,18 +1087,18 @@
       "age_days": 35
     },
     "ro bass fishing roblox codes": {
-      "status": "candidate",
+      "status": "abandoned",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Ro Bass Fishing",
       "slug": "ro-bass-fishing",
       "confidence": 0.78,
-      "reason": "Codes for specific Roblox fishing game",
+      "reason": "已经火了 72 天，超过 30 天",
       "traffic": "+180%",
       "sources": [
         "rising:roblox"
       ],
       "news": [],
-      "age_days": 9,
+      "age_days": 72,
       "competitors": null
     },
     "codes for king legacy roblox": {
@@ -1131,7 +1131,7 @@
         "rising:roblox"
       ],
       "news": [],
-      "age_days": 10,
+      "age_days": 9,
       "competitors": null
     },
     "the forge roblox": {
@@ -1174,7 +1174,7 @@
         "rising:roblox"
       ],
       "news": [],
-      "age_days": 16,
+      "age_days": 14,
       "competitors": null
     },
     "shibuya codes": {
@@ -1205,18 +1205,18 @@
       ]
     },
     "bey rivals codes roblox": {
-      "status": "candidate",
+      "status": "abandoned",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Bey Rivals",
       "slug": "bey-rivals",
       "confidence": 0.8,
-      "reason": "Codes for Roblox game Bey Rivals",
+      "reason": "已经火了 49 天，超过 30 天",
       "traffic": "+50%",
       "sources": [
         "rising:roblox"
       ],
       "news": [],
-      "age_days": 14,
+      "age_days": 49,
       "competitors": null
     },
     "the forge roblox codes": {
@@ -1250,20 +1250,21 @@
       ]
     },
     "ishin codes roblox": {
-      "status": "candidate",
+      "status": "abandoned",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Ishin",
       "slug": "ishin",
       "confidence": 0.72,
-      "reason": "Codes for Roblox game Ishin",
+      "reason": "已经火了 46 天，超过 30 天",
       "traffic": "+40%",
       "sources": [
         "rising:roblox"
       ],
-      "news": []
+      "news": [],
+      "age_days": 46
     },
     "foundation galactic frontier steam release": {
-      "status": "candidate",
+      "status": "live",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Foundation: Galactic Frontier",
       "slug": "foundation-galactic-frontier",
@@ -1273,23 +1274,29 @@
       "sources": [
         "rising:steam"
       ],
-      "news": []
+      "news": [],
+      "age_days": 0,
+      "competitors": null,
+      "built_at": "2026-11-16T04:39:00+00:00",
+      "url": "https://foundation-galactic-frontier.many.pw/",
+      "live_at": "2026-11-16T04:39:25+00:00"
     },
     "big walk steam": {
-      "status": "candidate",
+      "status": "abandoned",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Big Walk",
       "slug": "big-walk",
       "confidence": 0.9,
-      "reason": "Specific indie game Big Walk on Steam",
+      "reason": "已经火了 92 天，超过 30 天",
       "traffic": "+350%",
       "sources": [
         "rising:steam"
       ],
-      "news": []
+      "news": [],
+      "age_days": 92
     },
     "mistfall hunter steam charts": {
-      "status": "candidate",
+      "status": "live",
       "first_seen": "2026-11-16T04:32:49+00:00",
       "game_name": "Mistfall Hunter",
       "slug": "mistfall-hunter",
@@ -1299,7 +1306,12 @@
       "sources": [
         "rising:steam"
       ],
-      "news": []
+      "news": [],
+      "age_days": 9,
+      "competitors": null,
+      "built_at": "2026-11-16T04:39:25+00:00",
+      "url": "https://mistfall-hunter.many.pw/",
+      "live_at": "2026-11-16T04:39:25+00:00"
     },
     "rob run steam charts": {
       "status": "candidate",
@@ -1689,6 +1701,272 @@
         "rising:io games"
       ],
       "news": []
+    },
+    "the mighty nein season 2 release": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:37:31+00:00",
+      "game_name": "",
+      "slug": "the-mighty-nein-season-2-release",
+      "confidence": 0.95,
+      "reason": "TV series release, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "will howard": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:37:31+00:00",
+      "game_name": "",
+      "slug": "will-howard",
+      "confidence": 0.98,
+      "reason": "NFL athlete",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "governors awards 2026": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:37:31+00:00",
+      "game_name": "",
+      "slug": "governors-awards-2026",
+      "confidence": 0.98,
+      "reason": "Awards ceremony",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "nba scores": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:37:31+00:00",
+      "game_name": "",
+      "slug": "nba-scores",
+      "confidence": 0.98,
+      "reason": "Sports scores",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "mottle meaning": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:37:31+00:00",
+      "game_name": "",
+      "slug": "mottle-meaning",
+      "confidence": 0.95,
+      "reason": "Word meaning query",
+      "traffic": "+75500%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "foremost": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:37:31+00:00",
+      "game_name": "",
+      "slug": "foremost",
+      "confidence": 0.9,
+      "reason": "Generic word/brand query",
+      "traffic": "+26800%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "thanksgiving games": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:37:31+00:00",
+      "game_name": "",
+      "slug": "thanksgiving-games",
+      "confidence": 0.95,
+      "reason": "Generic phrase",
+      "traffic": "+50%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "gta new game": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:37:31+00:00",
+      "game_name": "",
+      "slug": "gta-new-game",
+      "confidence": 0.95,
+      "reason": "Huge AAA franchise news",
+      "traffic": "+110%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "new york times games": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:37:31+00:00",
+      "game_name": "",
+      "slug": "new-york-times-games",
+      "confidence": 0.9,
+      "reason": "Evergreen puzzle portal",
+      "traffic": "+50%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "roblox stand out codes": {
+      "status": "live",
+      "first_seen": "2026-11-16T04:37:31+00:00",
+      "game_name": "Stand Out",
+      "slug": "stand-out",
+      "confidence": 0.75,
+      "reason": "Codes for a specific Roblox game",
+      "traffic": "+10650%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 2,
+      "competitors": null,
+      "built_at": "2026-11-16T04:37:56+00:00",
+      "url": "https://stand-out.many.pw/",
+      "live_at": "2026-11-16T04:39:25+00:00"
+    },
+    "the forge codes roblox": {
+      "status": "duplicate",
+      "first_seen": "2026-11-16T04:37:31+00:00",
+      "game_name": "The Forge",
+      "slug": "the-forge",
+      "confidence": 0.7,
+      "reason": "Codes for a specific Roblox game",
+      "traffic": "+50%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": []
+    },
+    "steam charts rob run": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:37:31+00:00",
+      "game_name": "",
+      "slug": "steam-charts-rob-run",
+      "confidence": 0.45,
+      "reason": "Unclear game reference",
+      "traffic": "+200%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "smash karts": {
+      "status": "abandoned",
+      "first_seen": "2026-11-16T04:37:31+00:00",
+      "game_name": "Smash Karts",
+      "slug": "smash-karts",
+      "confidence": 0.7,
+      "reason": "已经火了 91 天，超过 30 天",
+      "traffic": "+40%",
+      "sources": [
+        "rising:unblocked games"
+      ],
+      "news": [],
+      "age_days": 91
+    },
+    "neal fun": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:37:31+00:00",
+      "game_name": "",
+      "slug": "neal-fun",
+      "confidence": 0.8,
+      "reason": "Website, not one specific game",
+      "traffic": "+40%",
+      "sources": [
+        "rising:unblocked games",
+        "rising:io games"
+      ]
+    },
+    "coolmathgames": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:37:31+00:00",
+      "game_name": "",
+      "slug": "coolmathgames",
+      "confidence": 0.9,
+      "reason": "Generic games site",
+      "traffic": "+150%",
+      "sources": [
+        "rising:io games"
+      ]
+    },
+    "openfront io": {
+      "status": "abandoned",
+      "first_seen": "2026-11-16T04:37:31+00:00",
+      "game_name": "OpenFront.io",
+      "slug": "openfront-io",
+      "confidence": 0.8,
+      "reason": "已经火了 87 天，超过 30 天",
+      "traffic": "+90%",
+      "sources": [
+        "rising:io games"
+      ],
+      "news": [],
+      "age_days": 87
+    },
+    "subway surfers": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:37:31+00:00",
+      "game_name": "",
+      "slug": "subway-surfers",
+      "confidence": 0.8,
+      "reason": "Big evergreen mobile game",
+      "traffic": "+70%",
+      "sources": [
+        "rising:io games"
+      ]
+    },
+    "spotify": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:37:31+00:00",
+      "game_name": "",
+      "slug": "spotify",
+      "confidence": 0.98,
+      "reason": "Music service",
+      "traffic": "+50%",
+      "sources": [
+        "rising:io games"
+      ]
+    },
+    "slope io": {
+      "status": "abandoned",
+      "first_seen": "2026-11-16T04:37:31+00:00",
+      "game_name": "Slope",
+      "slug": "slope-io",
+      "confidence": 0.65,
+      "reason": "已经火了 87 天，超过 30 天",
+      "traffic": "+40%",
+      "sources": [
+        "rising:io games"
+      ],
+      "news": [],
+      "age_days": 87
+    },
+    "zap games io": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:37:31+00:00",
+      "game_name": "",
+      "slug": "zap-games-io",
+      "confidence": 0.5,
+      "reason": "Ambiguous site/game query",
+      "traffic": "+40%",
+      "sources": [
+        "rising:io games"
+      ]
+    },
+    "two player games": {
+      "status": "rejected",
+      "first_seen": "2026-11-16T04:37:31+00:00",
+      "game_name": "",
+      "slug": "two-player-games",
+      "confidence": 0.95,
+      "reason": "Generic phrase",
+      "traffic": "+40%",
+      "sources": [
+        "rising:io games"
+      ]
     }
   },
   "domains": {
