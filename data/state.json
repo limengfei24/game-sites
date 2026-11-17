@@ -4328,6 +4328,518 @@
       "news": [],
       "age_days": 92,
       "age_measured": true
+    },
+    "tahiti": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "tahiti",
+      "confidence": 0.98,
+      "reason": "Location/news about flu outbreak, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "los angeles weather": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "los-angeles-weather",
+      "confidence": 0.99,
+      "reason": "Weather search, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "fox news politics": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "fox-news-politics",
+      "confidence": 0.99,
+      "reason": "News/politics, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "axios": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "axios",
+      "confidence": 0.99,
+      "reason": "News outlet, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US",
+        "daily:GB",
+        "daily:AU"
+      ]
+    },
+    "san diego": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "san-diego",
+      "confidence": 0.99,
+      "reason": "City/news, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "john kiriakou": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "john-kiriakou",
+      "confidence": 0.98,
+      "reason": "Person/news search, not a game.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "tahiti vs cook islands soccer": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "tahiti-vs-cook-islands-soccer",
+      "confidence": 0.99,
+      "reason": "Sports match, not a game.",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "gta 6 ultimate edition": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "gta-6-ultimate-edition",
+      "confidence": 0.99,
+      "reason": "Huge AAA franchise; reject per instructions.",
+      "traffic": "20000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "magic johnson": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "magic-johnson",
+      "confidence": 0.99,
+      "reason": "Athlete/celebrity, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "vicky pattison": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "vicky-pattison",
+      "confidence": 0.99,
+      "reason": "Celebrity, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "razaullah": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "razaullah",
+      "confidence": 0.9,
+      "reason": "Unclear person/news term, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "xbox console boot animation update": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "xbox-console-boot-animation-update",
+      "confidence": 0.95,
+      "reason": "Console update/feature, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "météo": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "meteo",
+      "confidence": 0.99,
+      "reason": "Weather search, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "criminal investigation": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "criminal-investigation",
+      "confidence": 0.98,
+      "reason": "Generic news phrase, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "hip drop tackle": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "hip-drop-tackle",
+      "confidence": 0.98,
+      "reason": "Sports/rugby term, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "heidi gardner": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "heidi-gardner",
+      "confidence": 0.99,
+      "reason": "Celebrity, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "ian paterson": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "ian-paterson",
+      "confidence": 0.98,
+      "reason": "Person/news search, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "billie jean king": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "billie-jean-king",
+      "confidence": 0.99,
+      "reason": "Celebrity/sports figure, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "former ambassadors canada us trade": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "former-ambassadors-canada-us-trade",
+      "confidence": 0.99,
+      "reason": "News/trade topic, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "when does gta 6 come out": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "when-does-gta-6-come-out",
+      "confidence": 0.99,
+      "reason": "Huge AAA franchise; reject per instructions.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "gta 6 price": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "gta-6-price",
+      "confidence": 0.99,
+      "reason": "Huge AAA franchise; reject per instructions.",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "united airlines flights": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "united-airlines-flights",
+      "confidence": 0.99,
+      "reason": "Airline travel/news, not a game.",
+      "traffic": "10000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "gta 6 reviews": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "gta-6-reviews",
+      "confidence": 0.99,
+      "reason": "Huge AAA franchise; reject per instructions.",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "sl vs pak": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "sl-vs-pak",
+      "confidence": 0.99,
+      "reason": "Cricket match, not a game.",
+      "traffic": "2000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "nasa curiosity rover": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "nasa-curiosity-rover",
+      "confidence": 0.99,
+      "reason": "NASA/rover news, not a game.",
+      "traffic": "5000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "mike mcdaniel": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "mike-mcdaniel",
+      "confidence": 0.99,
+      "reason": "Sports coach, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "isaac heeney": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "isaac-heeney",
+      "confidence": 0.99,
+      "reason": "Athlete, not a game.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "adelaide carlton pick trade afl draft": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "adelaide-carlton-pick-trade-afl-draft",
+      "confidence": 0.99,
+      "reason": "AFL sports news, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "spaceplane": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "spaceplane",
+      "confidence": 0.98,
+      "reason": "Spacecraft/news, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "corpse flower geelong": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "corpse-flower-geelong",
+      "confidence": 0.99,
+      "reason": "Plant/news, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "steffie waters": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "steffie-waters",
+      "confidence": 0.98,
+      "reason": "Person/news search, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "nara deer": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "nara-deer",
+      "confidence": 0.99,
+      "reason": "Animal/tourism topic, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "casino royale": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "casino-royale",
+      "confidence": 0.99,
+      "reason": "Film/book franchise, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "darren millane": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "darren-millane",
+      "confidence": 0.99,
+      "reason": "Athlete, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "craigieburn drowning": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "craigieburn-drowning",
+      "confidence": 0.99,
+      "reason": "Tragic news, not a game.",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "stratego": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "stratego",
+      "confidence": 0.82,
+      "reason": "Classic board game; no new viral video game release.",
+      "traffic": "+9450%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "fable new game": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "fable-new-game",
+      "confidence": 0.86,
+      "reason": "Upcoming big franchise AAA, not small/new viral title.",
+      "traffic": "+60%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "ragdoll physics roblox": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "ragdoll-physics-roblox",
+      "confidence": 0.96,
+      "reason": "Generic Roblox phrase, not one specific game.",
+      "traffic": "+130%",
+      "sources": [
+        "rising:roblox"
+      ]
+    },
+    "bodycam steam charts": {
+      "status": "abandoned",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "Bodycam",
+      "slug": "bodycam",
+      "confidence": 0.62,
+      "reason": "已经火了 90 天，超过 30 天",
+      "traffic": "+190%",
+      "sources": [
+        "rising:steam"
+      ],
+      "news": [],
+      "age_days": 90,
+      "age_measured": true
+    },
+    "steam frame price": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "",
+      "slug": "steam-frame-price",
+      "confidence": 0.98,
+      "reason": "Hardware price search, not a game.",
+      "traffic": "+40%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "infinite craft": {
+      "status": "abandoned",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "Infinite Craft",
+      "slug": "infinite-craft",
+      "confidence": 0.97,
+      "reason": "已经火了 92 天，超过 30 天",
+      "traffic": "+90%",
+      "sources": [
+        "rising:io games"
+      ],
+      "news": [],
+      "age_days": 92,
+      "age_measured": true
+    },
+    "agario": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T07:57:06+00:00",
+      "game_name": "Agar.io",
+      "slug": "agario",
+      "confidence": 0.8,
+      "reason": "Established evergreen web game with no new release or viral hook.",
+      "traffic": "+60%",
+      "sources": [
+        "rising:io games"
+      ]
     }
   },
   "domains": {
