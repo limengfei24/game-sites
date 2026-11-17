@@ -4840,6 +4840,482 @@
       "sources": [
         "rising:io games"
       ]
+    },
+    "grand theft auto vi": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "grand-theft-auto-vi",
+      "confidence": 0.95,
+      "reason": "Huge AAA franchise; excluded by policy",
+      "traffic": "20000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "apple outage": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "apple-outage",
+      "confidence": 0.98,
+      "reason": "Tech outage, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "honduras vs": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "honduras-vs",
+      "confidence": 0.97,
+      "reason": "Sports match, not a game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "manni l perez": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "manni-l-perez",
+      "confidence": 0.95,
+      "reason": "Actor/celebrity tied to GTA 6, not a game search",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US",
+        "daily:GB",
+        "daily:CA"
+      ]
+    },
+    "tropical storm nolo": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "tropical-storm-nolo",
+      "confidence": 0.98,
+      "reason": "Weather/news event, not a game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "murray state basketball": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "murray-state-basketball",
+      "confidence": 0.98,
+      "reason": "College basketball, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "game awards": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "game-awards",
+      "confidence": 0.98,
+      "reason": "Awards event, not a game",
+      "traffic": "10000+",
+      "sources": [
+        "daily:US",
+        "daily:GB",
+        "daily:CA"
+      ]
+    },
+    "artex": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "artex",
+      "confidence": 0.95,
+      "reason": "Cybersecurity/AI threat term, not a game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "found": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "found",
+      "confidence": 0.97,
+      "reason": "Generic news term, not a game",
+      "traffic": "5000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "libya vs tunisia": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "libya-vs-tunisia",
+      "confidence": 0.97,
+      "reason": "Sports match, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:US",
+        "daily:CA"
+      ]
+    },
+    "nico de boinville": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "nico-de-boinville",
+      "confidence": 0.97,
+      "reason": "Jockey/athlete, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "illegal dumping": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "illegal-dumping",
+      "confidence": 0.97,
+      "reason": "News/local issue, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "lacrosse": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "lacrosse",
+      "confidence": 0.97,
+      "reason": "Sport, not a specific game",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "rami malek": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "rami-malek",
+      "confidence": 0.97,
+      "reason": "Celebrity, not a game",
+      "traffic": "5000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "tall ship": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "tall-ship",
+      "confidence": 0.97,
+      "reason": "News event, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "inde navarrette": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "inde-navarrette",
+      "confidence": 0.9,
+      "reason": "Movie/entertainment news, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "traffic enforcement camera": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "traffic-enforcement-camera",
+      "confidence": 0.98,
+      "reason": "Traffic/public infrastructure topic, not a game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "vanessa trump": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "vanessa-trump",
+      "confidence": 0.98,
+      "reason": "Celebrity/news figure, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "national security": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "national-security",
+      "confidence": 0.98,
+      "reason": "Generic news/policy term, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "jonathan huberdeau": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "jonathan-huberdeau",
+      "confidence": 0.98,
+      "reason": "Hockey player, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "earthshot prize": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "earthshot-prize",
+      "confidence": 0.98,
+      "reason": "Awards event, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "embassy": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "embassy",
+      "confidence": 0.97,
+      "reason": "News/diplomatic topic, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "shawinigan": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "shawinigan",
+      "confidence": 0.97,
+      "reason": "Local news, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "dustin may": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "dustin-may",
+      "confidence": 0.98,
+      "reason": "Baseball player, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "rob lowe": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "rob-lowe",
+      "confidence": 0.97,
+      "reason": "Celebrity/actor, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "india vs pakistan": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "india-vs-pakistan",
+      "confidence": 0.97,
+      "reason": "Sports match, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "weight loss pill australia": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "weight-loss-pill-australia",
+      "confidence": 0.98,
+      "reason": "Health/pharma topic, not a game",
+      "traffic": "2000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "gta 6 release date": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "gta-6-release-date",
+      "confidence": 0.95,
+      "reason": "Huge AAA franchise; excluded by policy",
+      "traffic": "2000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "nvidia earnings": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "nvidia-earnings",
+      "confidence": 0.98,
+      "reason": "Finance/stock topic, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "dijon": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "dijon",
+      "confidence": 0.97,
+      "reason": "Place/local news, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "gta6": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "gta6",
+      "confidence": 0.95,
+      "reason": "Huge AAA franchise; excluded by policy",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "gta 6 review": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "gta-6-review",
+      "confidence": 0.95,
+      "reason": "Huge AAA franchise; excluded by policy",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "cannes": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "cannes",
+      "confidence": 0.97,
+      "reason": "Film festival/news, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "zimbabwe vs afghanistan": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "zimbabwe-vs-afghanistan",
+      "confidence": 0.97,
+      "reason": "Sports match, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "amanda seyfried": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "amanda-seyfried",
+      "confidence": 0.97,
+      "reason": "Celebrity/actress, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "stratego board game": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "stratego-board-game",
+      "confidence": 0.9,
+      "reason": "Classic board game, not a newly viral video game",
+      "traffic": "+3750%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "body cam steam": {
+      "status": "abandoned",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "Bodycam",
+      "slug": "bodycam",
+      "confidence": 0.78,
+      "reason": "已经火了 90 天，超过 30 天",
+      "traffic": "+200%",
+      "sources": [
+        "rising:steam"
+      ],
+      "news": [],
+      "age_days": 90,
+      "age_measured": true
+    },
+    "papas games": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "papas-games",
+      "confidence": 0.85,
+      "reason": "Generic series/website, not one new game",
+      "traffic": "+200%",
+      "sources": [
+        "rising:io games"
+      ]
+    },
+    "dinosaur game": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T17:38:58+00:00",
+      "game_name": "",
+      "slug": "dinosaur-game",
+      "confidence": 0.9,
+      "reason": "Generic/evergreen phrase, not one new game",
+      "traffic": "+80%",
+      "sources": [
+        "rising:io games"
+      ]
     }
   },
   "domains": {
