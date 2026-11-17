@@ -3790,6 +3790,544 @@
         "dedicated": 0,
         "oldest_days": 6
       }
+    },
+    "grambling st vs kentucky": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "grambling-st-vs-kentucky",
+      "confidence": 0.99,
+      "reason": "College basketball matchup, not a game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "trail blazers vs timberwolves": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "trail-blazers-vs-timberwolves",
+      "confidence": 0.99,
+      "reason": "NBA matchup, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "trinidad and tobago vs antigua and barbuda": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "trinidad-and-tobago-vs-antigua-and-barbuda",
+      "confidence": 0.99,
+      "reason": "International soccer match, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "jack nicklaus": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "jack-nicklaus",
+      "confidence": 0.99,
+      "reason": "Golfer celebrity/news, not a game",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "the white house": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "the-white-house",
+      "confidence": 0.99,
+      "reason": "Politics/news topic, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "nick bosa": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "nick-bosa",
+      "confidence": 0.99,
+      "reason": "NFL athlete, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "jeffrey epstein": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "jeffrey-epstein",
+      "confidence": 0.99,
+      "reason": "News topic, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "meteor shower": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "meteor-shower",
+      "confidence": 0.99,
+      "reason": "Astronomy event, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "rockets vs heat": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "rockets-vs-heat",
+      "confidence": 0.99,
+      "reason": "NBA matchup, not a game",
+      "traffic": "10000+",
+      "sources": [
+        "daily:US",
+        "daily:CA"
+      ]
+    },
+    "canadiens vs rangers": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "canadiens-vs-rangers",
+      "confidence": 0.99,
+      "reason": "NHL matchup, not a game",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US",
+        "daily:CA"
+      ]
+    },
+    "appeal": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "appeal",
+      "confidence": 0.98,
+      "reason": "Generic legal/news term, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "kick streaming gta 6 giveaway": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "kick-streaming-gta-6-giveaway",
+      "confidence": 0.97,
+      "reason": "Promo tied to huge GTA franchise, not a new small game",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "richard tice": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "richard-tice",
+      "confidence": 0.99,
+      "reason": "Politician/news, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "urząd skarbowy": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "urzad-skarbowy",
+      "confidence": 0.99,
+      "reason": "Polish tax office term, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "staggered age of consent": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "staggered-age-of-consent",
+      "confidence": 0.99,
+      "reason": "Legal/news topic, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "lee reeves": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "lee-reeves",
+      "confidence": 0.99,
+      "reason": "Boxer obituary/news, not a game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:GB",
+        "daily:AU"
+      ]
+    },
+    "gridlock": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "gridlock",
+      "confidence": 0.99,
+      "reason": "Traffic/generic news term, not a game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "postcode lottery": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "postcode-lottery",
+      "confidence": 0.99,
+      "reason": "Lottery news, not a video game",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "what is the united nations": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "what-is-the-united-nations",
+      "confidence": 0.99,
+      "reason": "Generic organization query, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "vitor matos": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "vitor-matos",
+      "confidence": 0.99,
+      "reason": "Football coach/news, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "76ers vs nets": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "76ers-vs-nets",
+      "confidence": 0.99,
+      "reason": "NBA matchup, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "bbq québec": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "bbq-quebec",
+      "confidence": 0.99,
+      "reason": "Food/event term, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "black out 17 novembre": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "black-out-17-novembre",
+      "confidence": 0.99,
+      "reason": "Rumor/news topic, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "dirty bomb": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "dirty-bomb",
+      "confidence": 0.99,
+      "reason": "Security/news topic, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "grizzlies vs wizards": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "grizzlies-vs-wizards",
+      "confidence": 0.99,
+      "reason": "NBA matchup, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "chargers": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "chargers",
+      "confidence": 0.97,
+      "reason": "NFL team/news, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "magic vs celtics": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "magic-vs-celtics",
+      "confidence": 0.99,
+      "reason": "NBA matchup, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "bulls vs cavaliers": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "bulls-vs-cavaliers",
+      "confidence": 0.99,
+      "reason": "NBA matchup, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "prison": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "prison",
+      "confidence": 0.98,
+      "reason": "Generic/news term, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "court": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "court",
+      "confidence": 0.98,
+      "reason": "Legal/news generic term, not a game",
+      "traffic": "5000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "celtics vs magic": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "celtics-vs-magic",
+      "confidence": 0.99,
+      "reason": "NBA matchup, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "foundayo": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "foundayo",
+      "confidence": 0.99,
+      "reason": "Weight-loss pill/news, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "liam lawson racing bulls 2027": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "liam-lawson-racing-bulls-2027",
+      "confidence": 0.99,
+      "reason": "F1 driver contract news, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "cavaliers vs bulls": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "cavaliers-vs-bulls",
+      "confidence": 0.99,
+      "reason": "NBA matchup, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "matt comyn": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "matt-comyn",
+      "confidence": 0.99,
+      "reason": "Bank CEO/news, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "robert irwin": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "robert-irwin",
+      "confidence": 0.99,
+      "reason": "Celebrity/news, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "the canberra times": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "the-canberra-times",
+      "confidence": 0.99,
+      "reason": "Newspaper, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "fable game bowerstone map details": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "fable-game-bowerstone-map-details",
+      "confidence": 0.9,
+      "reason": "Query about big Fable franchise/map details, not a new small game",
+      "traffic": "+9850%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "goldeneye 007 xbox game pass status": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "goldeneye-007-xbox-game-pass-status",
+      "confidence": 0.9,
+      "reason": "Old established title/platform status, not a new viral game",
+      "traffic": "+3950%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "rockstar games hacker arion kurtaj": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "rockstar-games-hacker-arion-kurtaj",
+      "confidence": 0.98,
+      "reason": "Hacker/news story, not a game",
+      "traffic": "+53100%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "new tomb raider game": {
+      "status": "rejected",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "",
+      "slug": "new-tomb-raider-game",
+      "confidence": 0.9,
+      "reason": "Generic query about a huge AAA franchise/news, not a specific new game people can rank for.",
+      "traffic": "+80%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "roblox a bizarre run codes": {
+      "status": "duplicate",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "A Bizarre Run",
+      "slug": "a-bizarre-run",
+      "confidence": 0.86,
+      "reason": "Specific Roblox game with code searches.",
+      "traffic": "+90%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": []
+    },
+    "wordle unlimited": {
+      "status": "abandoned",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "Wordle Unlimited",
+      "slug": "wordle-unlimited",
+      "confidence": 0.8,
+      "reason": "已经火了 92 天，超过 30 天",
+      "traffic": "+40%",
+      "sources": [
+        "rising:unblocked games"
+      ],
+      "news": [],
+      "age_days": 92,
+      "age_measured": true
+    },
+    "1v1 lol": {
+      "status": "abandoned",
+      "first_seen": "2026-11-17T00:15:00+00:00",
+      "game_name": "1v1.LOL",
+      "slug": "1v1-lol",
+      "confidence": 0.82,
+      "reason": "已经火了 92 天，超过 30 天",
+      "traffic": "+60%",
+      "sources": [
+        "rising:io games"
+      ],
+      "news": [],
+      "age_days": 92,
+      "age_measured": true
     }
   },
   "domains": {
