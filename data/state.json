@@ -6443,6 +6443,559 @@
       "sources": [
         "rising:steam"
       ]
+    },
+    "the oak ridge boys": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "the-oak-ridge-boys",
+      "confidence": 0.99,
+      "reason": "Music group/death news, not a game",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "chendall weaver": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "chendall-weaver",
+      "confidence": 0.99,
+      "reason": "College basketball player, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "dow jones industrial average": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "dow-jones-industrial-average",
+      "confidence": 0.99,
+      "reason": "Stock market index, not a game",
+      "traffic": "5000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "heshimu evans": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "heshimu-evans",
+      "confidence": 0.99,
+      "reason": "Athlete/legal news, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "dadeschools": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "dadeschools",
+      "confidence": 0.99,
+      "reason": "Miami-Dade schools site/news, not a game",
+      "traffic": "10000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "coritiba vs santos": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "coritiba-vs-santos",
+      "confidence": 0.99,
+      "reason": "Soccer match, not a game",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US",
+        "daily:GB"
+      ]
+    },
+    "anheuser-busch": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "anheuser-busch",
+      "confidence": 0.99,
+      "reason": "Beverage company news, not a game",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "jason michael": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "jason-michael",
+      "confidence": 0.99,
+      "reason": "Football coach hire, not a game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "pokebeach": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "pokebeach",
+      "confidence": 0.98,
+      "reason": "Pokémon TCG news site; huge franchise, not a specific new game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "mike wise": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "mike-wise",
+      "confidence": 0.99,
+      "reason": "Sports reporter death news, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "sam thompson": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "sam-thompson",
+      "confidence": 0.99,
+      "reason": "Celebrity/TV news, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "daniel radcliffe": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "daniel-radcliffe",
+      "confidence": 0.99,
+      "reason": "Actor news, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "gk barry": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "gk-barry",
+      "confidence": 0.99,
+      "reason": "TV personality news, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "kemi rodgers": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "kemi-rodgers",
+      "confidence": 0.99,
+      "reason": "TV/celebrity news, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "kevin doets": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "kevin-doets",
+      "confidence": 0.99,
+      "reason": "Darts player, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "ricky wilson wife": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "ricky-wilson-wife",
+      "confidence": 0.99,
+      "reason": "Celebrity/TV news, not a game",
+      "traffic": "2000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "gavin and stacey": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "gavin-and-stacey",
+      "confidence": 0.99,
+      "reason": "TV show, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "cameron menzies": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "cameron-menzies",
+      "confidence": 0.99,
+      "reason": "Darts player, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "criminel": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "criminel",
+      "confidence": 0.95,
+      "reason": "French crime news term, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "s&p/tsx composite index": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "s-p-tsx-composite-index",
+      "confidence": 0.99,
+      "reason": "Stock index, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "taux directeur": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "taux-directeur",
+      "confidence": 0.99,
+      "reason": "Central bank policy rate term, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "telecommunications": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "telecommunications",
+      "confidence": 0.99,
+      "reason": "Generic industry topic, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "john daly": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "john-daly",
+      "confidence": 0.99,
+      "reason": "Golfer/gambling news, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "guarding stars cast": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "guarding-stars-cast",
+      "confidence": 0.99,
+      "reason": "Movie cast, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "cma awards 2026 where to watch": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "cma-awards-2026-where-to-watch",
+      "confidence": 0.99,
+      "reason": "Awards show, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "christina ricci": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "christina-ricci",
+      "confidence": 0.99,
+      "reason": "Actress news, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "steinbach": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "steinbach",
+      "confidence": 0.99,
+      "reason": "Place/local news, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "kfc closing": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "kfc-closing",
+      "confidence": 0.99,
+      "reason": "Restaurant bankruptcy/closures, not a game",
+      "traffic": "10000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "general pants": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "general-pants",
+      "confidence": 0.99,
+      "reason": "Retailer administration news, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "live nation": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "live-nation",
+      "confidence": 0.99,
+      "reason": "Live entertainment company/venue news, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "gracie abrams sydney": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "gracie-abrams-sydney",
+      "confidence": 0.99,
+      "reason": "Musician tour news, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "nicole kidman": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "nicole-kidman",
+      "confidence": 0.99,
+      "reason": "Actress/fashion news, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "michelle pfeiffer": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "michelle-pfeiffer",
+      "confidence": 0.99,
+      "reason": "Actress/marriage news, not a game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "baboons": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "baboons",
+      "confidence": 0.99,
+      "reason": "Animal/science news, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "charlie curnow": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "charlie-curnow",
+      "confidence": 0.99,
+      "reason": "Athlete/family news, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "nz vs ind": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "nz-vs-ind",
+      "confidence": 0.99,
+      "reason": "Cricket match, not a game",
+      "traffic": "10000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "gta 6 game": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "gta-6-game",
+      "confidence": 0.9,
+      "reason": "Huge AAA franchise; big gaming media own coverage",
+      "traffic": "+200%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "pokemon trading card games spring charizard ex special collection": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "pokemon-trading-card-games-spring-charizard-ex-special-collecti",
+      "confidence": 0.92,
+      "reason": "Pokémon TCG product; huge franchise, not video game",
+      "traffic": "+5350%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "gta games": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "gta-games",
+      "confidence": 0.95,
+      "reason": "Generic/huge GTA franchise query, not specific new game",
+      "traffic": "+110%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "hunger games sunrise on the reaping": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "hunger-games-sunrise-on-the-reaping",
+      "confidence": 0.98,
+      "reason": "Book/movie franchise, not a game",
+      "traffic": "+100%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "dawnwalker new game plus": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "dawnwalker-new-game-plus",
+      "confidence": 0.65,
+      "reason": "Unclear/upcoming AAA-associated term; not a clearly newly released small game with its own NG+ search.",
+      "traffic": "+250%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "roblox release date": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "roblox-release-date",
+      "confidence": 0.95,
+      "reason": "Generic Roblox platform query, not one specific game.",
+      "traffic": "+40%",
+      "sources": [
+        "rising:roblox"
+      ]
+    },
+    "is gta6 on steam": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "is-gta6-on-steam",
+      "confidence": 0.97,
+      "reason": "Huge AAA franchise; media-dominated and not a small/new game.",
+      "traffic": "+250%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "gta6 on steam": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "gta6-on-steam",
+      "confidence": 0.97,
+      "reason": "Huge AAA franchise; media-dominated and not a small/new game.",
+      "traffic": "+190%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "gta 6 release date steam": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "",
+      "slug": "gta-6-release-date-steam",
+      "confidence": 0.97,
+      "reason": "Huge AAA franchise; media-dominated and not a small/new game.",
+      "traffic": "+120%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "games like krillion io": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T22:58:15+00:00",
+      "game_name": "Krillion.io",
+      "slug": "krillion-io",
+      "confidence": 0.55,
+      "reason": "Specific .io web game referenced; 'games like' query can target its niche.",
+      "traffic": "+40%",
+      "sources": [
+        "rising:io games"
+      ]
     }
   },
   "domains": {
