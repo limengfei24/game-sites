@@ -6019,6 +6019,430 @@
       "sources": [
         "rising:steam"
       ]
+    },
+    "carrie ann inaba dwts comfort": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "carrie-ann-inaba-dwts-comfort",
+      "confidence": 0.99,
+      "reason": "TV/celebrity news, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "jason eck": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "jason-eck",
+      "confidence": 0.98,
+      "reason": "Sports coaching news, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "gta 6 cheat codes": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "gta-6-cheat-codes",
+      "confidence": 0.99,
+      "reason": "Big AAA GTA franchise; reject.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "gta6 map": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "gta6-map",
+      "confidence": 0.99,
+      "reason": "Big AAA GTA franchise; reject.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US",
+        "daily:GB",
+        "daily:AU"
+      ]
+    },
+    "product recall": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "product-recall",
+      "confidence": 0.99,
+      "reason": "Generic product recall news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "prince william": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "prince-william",
+      "confidence": 0.99,
+      "reason": "Royal/celebrity news.",
+      "traffic": "5000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "bobby moynihan": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "bobby-moynihan",
+      "confidence": 0.99,
+      "reason": "Celebrity news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "ruby bridges": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "ruby-bridges",
+      "confidence": 0.99,
+      "reason": "Person/civil rights news.",
+      "traffic": "100+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "nifty 50": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "nifty-50",
+      "confidence": 0.99,
+      "reason": "Stock market index.",
+      "traffic": "100+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "celebrini": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "celebrini",
+      "confidence": 0.99,
+      "reason": "Athlete/sports news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "vaccine": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "vaccine",
+      "confidence": 0.99,
+      "reason": "Generic health news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "gta 6 radio stations": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "gta-6-radio-stations",
+      "confidence": 0.99,
+      "reason": "Big AAA GTA franchise; reject.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "charity shop": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "charity-shop",
+      "confidence": 0.99,
+      "reason": "Generic/local news.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "emergency landing": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "emergency-landing",
+      "confidence": 0.99,
+      "reason": "News event, not a game.",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "john pardoe": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "john-pardoe",
+      "confidence": 0.99,
+      "reason": "Obituary/person news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "ps5 price": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "ps5-price",
+      "confidence": 0.99,
+      "reason": "Console/hardware pricing, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "gwyneth paltrow": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "gwyneth-paltrow",
+      "confidence": 0.99,
+      "reason": "Celebrity news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "take two stock": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "take-two-stock",
+      "confidence": 0.99,
+      "reason": "Stock/finance news.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB",
+        "daily:CA",
+        "daily:AU"
+      ]
+    },
+    "sir david evennett": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "sir-david-evennett",
+      "confidence": 0.99,
+      "reason": "Obituary/person news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "diesel price": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "diesel-price",
+      "confidence": 0.99,
+      "reason": "Fuel price news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "calgary traffic": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "calgary-traffic",
+      "confidence": 0.99,
+      "reason": "Local traffic news.",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "nid-de-poule": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "nid-de-poule",
+      "confidence": 0.99,
+      "reason": "Pothole/local news.",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "gambling": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "gambling",
+      "confidence": 0.98,
+      "reason": "Generic topic/news, not a specific game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "espn": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "espn",
+      "confidence": 0.99,
+      "reason": "Sports media brand.",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "wordle nyt": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "wordle-nyt",
+      "confidence": 0.9,
+      "reason": "Evergreen daily puzzle owned by big media; reject.",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "mcdonalds happy meal": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "mcdonalds-happy-meal",
+      "confidence": 0.99,
+      "reason": "Fast-food promotion, not a game.",
+      "traffic": "5000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "ps5 pro": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "ps5-pro",
+      "confidence": 0.99,
+      "reason": "Console hardware, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "mckenna grace": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "mckenna-grace",
+      "confidence": 0.99,
+      "reason": "Celebrity news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "gta6 pc": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "gta6-pc",
+      "confidence": 0.99,
+      "reason": "Big AAA GTA franchise; reject.",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "kamil mishara": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "kamil-mishara",
+      "confidence": 0.99,
+      "reason": "Cricket athlete/sports news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "gta 4": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "gta-4",
+      "confidence": 0.99,
+      "reason": "Big AAA evergreen franchise; reject.",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "the smiling assassin": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "the-smiling-assassin",
+      "confidence": 0.95,
+      "reason": "TV/entertainment news, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "andrew irvine": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "andrew-irvine",
+      "confidence": 0.99,
+      "reason": "Bank executive/finance news.",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "ps6": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "ps6",
+      "confidence": 0.99,
+      "reason": "Console hardware, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "is steam down": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T13:02:42+00:00",
+      "game_name": "",
+      "slug": "is-steam-down",
+      "confidence": 0.99,
+      "reason": "Platform outage query, not a specific game.",
+      "traffic": "+350%",
+      "sources": [
+        "rising:steam"
+      ]
     }
   },
   "domains": {
