@@ -5316,6 +5316,709 @@
       "sources": [
         "rising:io games"
       ]
+    },
+    "flames vs sharks": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "flames-vs-sharks",
+      "confidence": 0.98,
+      "reason": "NHL sports match",
+      "traffic": "500+",
+      "sources": [
+        "daily:US",
+        "daily:CA"
+      ]
+    },
+    "college basketball scores": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "college-basketball-scores",
+      "confidence": 0.98,
+      "reason": "Generic sports scores",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "mike pence": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "mike-pence",
+      "confidence": 0.99,
+      "reason": "Politician",
+      "traffic": "5000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "miss universe 2026": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "miss-universe-2026",
+      "confidence": 0.99,
+      "reason": "Beauty pageant event",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "connor mcdavid": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "connor-mcdavid",
+      "confidence": 0.99,
+      "reason": "NHL athlete",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "stars vs golden knights": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "stars-vs-golden-knights",
+      "confidence": 0.98,
+      "reason": "NHL match",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "cbb": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "cbb",
+      "confidence": 0.95,
+      "reason": "College basketball abbreviation / betting",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "portillos": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "portillos",
+      "confidence": 0.98,
+      "reason": "Restaurant chain news",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "ja'kobe walter": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "ja-kobe-walter",
+      "confidence": 0.97,
+      "reason": "NBA player",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US",
+        "daily:CA"
+      ]
+    },
+    "ayo dosunmu": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "ayo-dosunmu",
+      "confidence": 0.97,
+      "reason": "NBA player",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "dua lipa": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "dua-lipa",
+      "confidence": 0.98,
+      "reason": "Musician / GTA6 soundtrack news",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "playstation": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "playstation",
+      "confidence": 0.95,
+      "reason": "Evergreen platform brand / lawsuit news",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "timberwolves vs trail blazers": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "timberwolves-vs-trail-blazers",
+      "confidence": 0.98,
+      "reason": "NBA match",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB",
+        "daily:AU"
+      ]
+    },
+    "game": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "game",
+      "confidence": 0.99,
+      "reason": "Generic phrase, NFL news",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "sky os": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "sky-os",
+      "confidence": 0.97,
+      "reason": "TV operating system update",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "euromillions results tuesday": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "euromillions-results-tuesday",
+      "confidence": 0.99,
+      "reason": "Lottery results",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "spurs vs pistons": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "spurs-vs-pistons",
+      "confidence": 0.98,
+      "reason": "NBA match",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "cutremur romania": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "cutremur-romania",
+      "confidence": 0.99,
+      "reason": "Earthquake news",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "margrethe ii": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "margrethe-ii",
+      "confidence": 0.99,
+      "reason": "Danish royal",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "dollar": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "dollar",
+      "confidence": 0.99,
+      "reason": "Currency markets",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "rudy gobert": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "rudy-gobert",
+      "confidence": 0.97,
+      "reason": "NBA player",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA",
+        "daily:AU"
+      ]
+    },
+    "devon levi": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "devon-levi",
+      "confidence": 0.97,
+      "reason": "NHL goalie",
+      "traffic": "2000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "frank nazar": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "frank-nazar",
+      "confidence": 0.97,
+      "reason": "NHL player",
+      "traffic": "500+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "파산": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "",
+      "confidence": 0.99,
+      "reason": "Bankruptcy news term",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "knicks vs toronto raptors match player stats": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "knicks-vs-toronto-raptors-match-player-stats",
+      "confidence": 0.98,
+      "reason": "NBA stats query",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "ruby franke": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "ruby-franke",
+      "confidence": 0.99,
+      "reason": "Crime/celebrity news",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "michelle jenneke": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "michelle-jenneke",
+      "confidence": 0.99,
+      "reason": "Athlete news",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "coles cyber breach": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "coles-cyber-breach",
+      "confidence": 0.99,
+      "reason": "Retail cyberattack news",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "body donation": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "body-donation",
+      "confidence": 0.99,
+      "reason": "Generic news topic",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "kyle sandilands": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "kyle-sandilands",
+      "confidence": 0.99,
+      "reason": "Radio personality",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "economy": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "economy",
+      "confidence": 0.99,
+      "reason": "Generic finance term",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "gta6 lucia": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "gta6-lucia",
+      "confidence": 0.95,
+      "reason": "Huge AAA franchise (GTA6) covered by major media",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "papua new guinea chiefs": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "papua-new-guinea-chiefs",
+      "confidence": 0.95,
+      "reason": "Rugby league team news",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "panthers vs oilers": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "panthers-vs-oilers",
+      "confidence": 0.98,
+      "reason": "NHL match",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "krillion game": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "Krillion",
+      "slug": "krillion",
+      "confidence": 0.35,
+      "reason": "Spiking term named as a game; likely small viral title, low certainty",
+      "traffic": "+60%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "hunger games simulator": {
+      "status": "abandoned",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "Hunger Games Simulator",
+      "slug": "hunger-games-simulator",
+      "confidence": 0.75,
+      "reason": "已经火了 80 天，超过 30 天",
+      "traffic": "+80%",
+      "sources": [
+        "rising:games"
+      ],
+      "news": [],
+      "age_days": 80,
+      "age_measured": true
+    },
+    "hunger games": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "hunger-games",
+      "confidence": 0.9,
+      "reason": "Film franchise driven by new movie, not a game",
+      "traffic": "+60%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "new hunger games": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "new-hunger-games",
+      "confidence": 0.95,
+      "reason": "New Hunger Games movie",
+      "traffic": "+50%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "new linkedin game": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "new-linkedin-game",
+      "confidence": 0.6,
+      "reason": "Generic/ambiguous phrase about LinkedIn games, no single title",
+      "traffic": "+700%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "grand theft auto new game": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "grand-theft-auto-new-game",
+      "confidence": 0.95,
+      "reason": "Huge AAA franchise, major media dominate",
+      "traffic": "+130%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "new doom game": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "new-doom-game",
+      "confidence": 0.95,
+      "reason": "Generic search for a huge AAA franchise; no specific new title/viral game.",
+      "traffic": "+130%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "new rockband game": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "new-rockband-game",
+      "confidence": 0.93,
+      "reason": "Generic franchise query, not a specific newly released or viral game.",
+      "traffic": "+80%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "new zombie game": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "new-zombie-game",
+      "confidence": 0.97,
+      "reason": "Generic phrase, not one specific game title.",
+      "traffic": "+50%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "steam outage": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "steam-outage",
+      "confidence": 0.99,
+      "reason": "Platform service status query, not a game.",
+      "traffic": "+700%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "steam down?": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "steam-down",
+      "confidence": 0.99,
+      "reason": "Platform outage status query, not a game.",
+      "traffic": "+500%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "is steam down right now": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "is-steam-down-right-now",
+      "confidence": 0.99,
+      "reason": "Steam service status query, not a game.",
+      "traffic": "+500%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "steam maintenance tuesday": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "steam-maintenance-tuesday",
+      "confidence": 0.99,
+      "reason": "Steam maintenance/status query, not a game.",
+      "traffic": "+350%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "is steam down?": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "is-steam-down",
+      "confidence": 0.99,
+      "reason": "Steam outage status query, not a game.",
+      "traffic": "+350%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "steam no connection": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "steam-no-connection",
+      "confidence": 0.98,
+      "reason": "Steam connectivity issue query, not a game.",
+      "traffic": "+350%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "steam is down": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "steam-is-down",
+      "confidence": 0.99,
+      "reason": "Steam service status query, not a game.",
+      "traffic": "+350%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "steam down": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "steam-down",
+      "confidence": 0.99,
+      "reason": "Steam outage status query, not a game.",
+      "traffic": "+300%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "steam down detector": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "steam-down-detector",
+      "confidence": 0.99,
+      "reason": "Outage detection query, not a game.",
+      "traffic": "+250%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "downdetector steam": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "downdetector-steam",
+      "confidence": 0.99,
+      "reason": "Outage detector query, not a game.",
+      "traffic": "+200%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "steam maintenance": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "steam-maintenance",
+      "confidence": 0.99,
+      "reason": "Steam maintenance/status query, not a game.",
+      "traffic": "+200%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "gta vi steam": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "gta-vi-steam",
+      "confidence": 0.98,
+      "reason": "Huge AAA franchise query; gaming media own this, not a small viral game.",
+      "traffic": "+150%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "steam server status": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "steam-server-status",
+      "confidence": 0.99,
+      "reason": "Platform server status query, not a game.",
+      "traffic": "+140%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "are steam servers down": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "are-steam-servers-down",
+      "confidence": 0.99,
+      "reason": "Steam server status query, not a game.",
+      "traffic": "+120%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "steam servers down": {
+      "status": "rejected",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "game_name": "",
+      "slug": "steam-servers-down",
+      "confidence": 0.99,
+      "reason": "Steam server status query, not a game.",
+      "traffic": "+110%",
+      "sources": [
+        "rising:steam"
+      ]
     }
   },
   "domains": {
