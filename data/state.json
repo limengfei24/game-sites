@@ -7672,6 +7672,489 @@
       "sources": [
         "rising:io games"
       ]
+    },
+    "jazz fest 2027 lineup": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "jazz-fest-2027-lineup",
+      "confidence": 0.99,
+      "reason": "Music festival lineup, not a game.",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "riley moss": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "riley-moss",
+      "confidence": 0.99,
+      "reason": "NFL player/contract news.",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "indicted": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "indicted",
+      "confidence": 0.99,
+      "reason": "Generic news/politics term.",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "brett rypien": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "brett-rypien",
+      "confidence": 0.99,
+      "reason": "NFL quarterback news.",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "gme stock": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "gme-stock",
+      "confidence": 0.99,
+      "reason": "Stock/finance term.",
+      "traffic": "500+",
+      "sources": [
+        "daily:US",
+        "daily:CA"
+      ]
+    },
+    "gme": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "gme",
+      "confidence": 0.98,
+      "reason": "GameStop stock/ticker news, not a game.",
+      "traffic": "500+",
+      "sources": [
+        "daily:US",
+        "daily:CA"
+      ]
+    },
+    "petroleum": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "petroleum",
+      "confidence": 0.99,
+      "reason": "Commodity/stock term.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "nascar": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "nascar",
+      "confidence": 0.99,
+      "reason": "Racing league news.",
+      "traffic": "5000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "glenn close": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "glenn-close",
+      "confidence": 0.99,
+      "reason": "Celebrity/acting news.",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US",
+        "daily:CA"
+      ]
+    },
+    "cody johnson cma awards withdrawal": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "cody-johnson-cma-awards-withdrawal",
+      "confidence": 0.99,
+      "reason": "Country music awards news.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "ban": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "ban",
+      "confidence": 0.99,
+      "reason": "Generic/ambiguous news term.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "rockstar gta vi": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "rockstar-gta-vi",
+      "confidence": 0.99,
+      "reason": "Huge AAA GTA VI coverage; reject per policy.",
+      "traffic": "10000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "property": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "property",
+      "confidence": 0.99,
+      "reason": "Real estate/news term.",
+      "traffic": "5000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "ian evatt": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "ian-evatt",
+      "confidence": 0.99,
+      "reason": "Football coach news.",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "alexander haskin": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "alexander-haskin",
+      "confidence": 0.99,
+      "reason": "News about a person.",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "renewable energy": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "renewable-energy",
+      "confidence": 0.99,
+      "reason": "Energy/finance news term.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "arne engels": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "arne-engels",
+      "confidence": 0.99,
+      "reason": "Football transfer news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "train": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "train",
+      "confidence": 0.99,
+      "reason": "Generic/news term about train attack.",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "emmerdale christmas spoilers joe tate": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "emmerdale-christmas-spoilers-joe-tate",
+      "confidence": 0.99,
+      "reason": "TV soap spoilers.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "darragh macanthony": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "darragh-macanthony",
+      "confidence": 0.99,
+      "reason": "Football club owner news.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "manicure": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "manicure",
+      "confidence": 0.99,
+      "reason": "Beauty/celebrity term.",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "marlon humphrey": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "marlon-humphrey",
+      "confidence": 0.99,
+      "reason": "NFL player news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "joe locke": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "joe-locke",
+      "confidence": 0.99,
+      "reason": "Arts/theatre news, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "susan smith": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "susan-smith",
+      "confidence": 0.99,
+      "reason": "Crime/parole news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "the altruists": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "the-altruists",
+      "confidence": 0.99,
+      "reason": "Netflix TV/film, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "apple black friday": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "apple-black-friday",
+      "confidence": 0.99,
+      "reason": "Shopping/deals term.",
+      "traffic": "5000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "british airways": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "british-airways",
+      "confidence": 0.99,
+      "reason": "Airline news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "news today": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "news-today",
+      "confidence": 0.99,
+      "reason": "Generic news phrase.",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "football scores": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "football-scores",
+      "confidence": 0.99,
+      "reason": "Sports scores, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "coach": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "coach",
+      "confidence": 0.99,
+      "reason": "Generic sports term.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "ben shelton": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "ben-shelton",
+      "confidence": 0.99,
+      "reason": "Tennis player news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "stuttgarter": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "stuttgarter",
+      "confidence": 0.97,
+      "reason": "German news term; GTA VI news context, not a game.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "raise the colours": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "raise-the-colours",
+      "confidence": 0.97,
+      "reason": "News about a group/court case, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "simon thuijs": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "simon-thuijs",
+      "confidence": 0.99,
+      "reason": "Missing-person news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "health": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "health",
+      "confidence": 0.99,
+      "reason": "Generic health term/news.",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "animal": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "animal",
+      "confidence": 0.99,
+      "reason": "Generic animal/pet term.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "is gta 6 on game pass": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "is-gta-6-on-game-pass",
+      "confidence": 0.99,
+      "reason": "Huge AAA GTA VI query; reject per policy.",
+      "traffic": "+400%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "gta game": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "gta-game",
+      "confidence": 0.99,
+      "reason": "Huge AAA GTA franchise term.",
+      "traffic": "+250%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "new video game release today": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "new-video-game-release-today",
+      "confidence": 0.99,
+      "reason": "Generic phrase, not one specific game.",
+      "traffic": "+90%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "grand theft auto vi steam": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T17:23:41+00:00",
+      "game_name": "",
+      "slug": "grand-theft-auto-vi-steam",
+      "confidence": 0.99,
+      "reason": "Huge AAA GTA VI query; reject per policy.",
+      "traffic": "+250%",
+      "sources": [
+        "rising:steam"
+      ]
     }
   },
   "domains": {
