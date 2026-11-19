@@ -6996,6 +6996,681 @@
       "sources": [
         "rising:io games"
       ]
+    },
+    "unwanted attention gta 6": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "unwanted-attention-gta-6",
+      "confidence": 0.97,
+      "reason": "GTA 6 is a huge AAA franchise; big gaming media dominate this search",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "truck accident lawyer": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "truck-accident-lawyer",
+      "confidence": 0.99,
+      "reason": "Legal services query, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "weather los angeles": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "weather-los-angeles",
+      "confidence": 0.99,
+      "reason": "Weather query, not a game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "qatar airways": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "qatar-airways",
+      "confidence": 0.99,
+      "reason": "Airline/news query, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "tv": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "tv",
+      "confidence": 0.99,
+      "reason": "Generic TV term, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "artificial": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "artificial",
+      "confidence": 0.98,
+      "reason": "Generic/news term, not a specific game",
+      "traffic": "100+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "quinnen williams press conference response": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "quinnen-williams-press-conference-response",
+      "confidence": 0.99,
+      "reason": "NFL athlete/news query, not a game",
+      "traffic": "10000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "high school student": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "high-school-student",
+      "confidence": 0.99,
+      "reason": "Generic/news phrase, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "david montgomery": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "david-montgomery",
+      "confidence": 0.99,
+      "reason": "NFL athlete query, not a game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "fresno weather": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "fresno-weather",
+      "confidence": 0.99,
+      "reason": "Weather query, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "entry/exit system": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "entry-exit-system",
+      "confidence": 0.99,
+      "reason": "Travel/immigration system query, not a game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "the further mis-adventures of cliff booth": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "the-further-mis-adventures-of-cliff-booth",
+      "confidence": 0.99,
+      "reason": "Film query, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "when is black friday": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "when-is-black-friday",
+      "confidence": 0.99,
+      "reason": "Shopping date query, not a game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "when is black friday 2026": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "when-is-black-friday-2026",
+      "confidence": 0.99,
+      "reason": "Shopping date query, not a game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "tfl oyster photocard data breach": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "tfl-oyster-photocard-data-breach",
+      "confidence": 0.99,
+      "reason": "Data breach/news query, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "guardians": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "guardians",
+      "confidence": 0.98,
+      "reason": "Cleveland Guardians baseball/news, not a specific game",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "mike lynch": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "mike-lynch",
+      "confidence": 0.99,
+      "reason": "Person/news query, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "cork": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "cork",
+      "confidence": 0.98,
+      "reason": "Place/news query, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "commonhold and leasehold reform act 2002": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "commonhold-and-leasehold-reform-act-2002",
+      "confidence": 0.99,
+      "reason": "Law/policy query, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "statele unite ale americii": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "statele-unite-ale-americii",
+      "confidence": 0.99,
+      "reason": "Country/news query, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "does gta 6 auto save": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "does-gta-6-auto-save",
+      "confidence": 0.97,
+      "reason": "GTA 6 is a huge AAA franchise; big gaming media dominate this search",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "gta 6 reddit": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "gta-6-reddit",
+      "confidence": 0.97,
+      "reason": "GTA 6 is a huge AAA franchise; big gaming media dominate this search",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "resin": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "resin",
+      "confidence": 0.98,
+      "reason": "Craft/workshop query, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "amazon black friday": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "amazon-black-friday",
+      "confidence": 0.99,
+      "reason": "Shopping query, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "cma awards lainey wilson": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "cma-awards-lainey-wilson",
+      "confidence": 0.99,
+      "reason": "Awards/celebrity query, not a game",
+      "traffic": "10000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "larry poindexter": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "larry-poindexter",
+      "confidence": 0.99,
+      "reason": "Actor/news query, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "sri lanka vs pakistan": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "sri-lanka-vs-pakistan",
+      "confidence": 0.99,
+      "reason": "Cricket match query, not a video game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "gta 6 voice actors": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "gta-6-voice-actors",
+      "confidence": 0.97,
+      "reason": "GTA 6 is a huge AAA franchise; big gaming media dominate this search",
+      "traffic": "500+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "chris pratt": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "chris-pratt",
+      "confidence": 0.99,
+      "reason": "Actor/news query, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "car": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "car",
+      "confidence": 0.99,
+      "reason": "Generic term/news, not a specific game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "wage theft": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "wage-theft",
+      "confidence": 0.99,
+      "reason": "Policy/news query, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "commonwealth public service wage negotiations": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "commonwealth-public-service-wage-negotiations",
+      "confidence": 0.99,
+      "reason": "Labor/policy news query, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "s&p/asx 200": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "s-p-asx-200",
+      "confidence": 0.99,
+      "reason": "Financial index query, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "cameron munster nrl free agency": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "cameron-munster-nrl-free-agency",
+      "confidence": 0.99,
+      "reason": "NRL sports query, not a video game",
+      "traffic": "5000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "sharman stone": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "sharman-stone",
+      "confidence": 0.99,
+      "reason": "Person/news query, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "roy cohn": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "roy-cohn",
+      "confidence": 0.99,
+      "reason": "Person/news query, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "dylan rourke": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "dylan-rourke",
+      "confidence": 0.98,
+      "reason": "GTA 6 actor query, not a game itself; huge AAA franchise",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "cameron smith dp world tour": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "cameron-smith-dp-world-tour",
+      "confidence": 0.99,
+      "reason": "Golf sports query, not a video game",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "gta vi game review": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "gta-vi-game-review",
+      "confidence": 0.97,
+      "reason": "GTA VI is a huge AAA franchise; big gaming media dominate this search",
+      "traffic": "+2400%",
+      "sources": [
+        "rising:game",
+        "rising:new game"
+      ]
+    },
+    "all gta games": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "all-gta-games",
+      "confidence": 0.98,
+      "reason": "Generic GTA franchise list; huge AAA, not a small new game",
+      "traffic": "+130%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "gta games in order": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "gta-games-in-order",
+      "confidence": 0.97,
+      "reason": "GTA is a huge AAA franchise; no specific new game release.",
+      "traffic": "+60%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "hunger games release date": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "hunger-games-release-date",
+      "confidence": 0.98,
+      "reason": "Movie/book franchise, not a video game.",
+      "traffic": "+50%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "hunger games 2": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "hunger-games-2",
+      "confidence": 0.98,
+      "reason": "Movie/book franchise, not a video game.",
+      "traffic": "+40%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "new jason movie": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "new-jason-movie",
+      "confidence": 0.98,
+      "reason": "Movie-related query, not a game.",
+      "traffic": "+11800%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "what time is it in new zealand": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "what-time-is-it-in-new-zealand",
+      "confidence": 0.99,
+      "reason": "Time/geography query, not a game.",
+      "traffic": "+7350%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "new zealand time": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "new-zealand-time",
+      "confidence": 0.99,
+      "reason": "Time/geography query, not a game.",
+      "traffic": "+700%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "the new gta game": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "the-new-gta-game",
+      "confidence": 0.97,
+      "reason": "GTA is a huge AAA franchise; major media dominates.",
+      "traffic": "+250%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "pixel z codes roblox": {
+      "status": "live",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "Pixel Z",
+      "slug": "pixel-z",
+      "confidence": 0.85,
+      "reason": "Specific Roblox game codes query.",
+      "traffic": "+17650%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 4,
+      "age_measured": true,
+      "competitors": {
+        "pages": 4,
+        "dedicated": 0,
+        "oldest_days": 2
+      },
+      "built_at": "2026-11-19T07:26:30+00:00",
+      "url": "https://pixel-z.many.pw/",
+      "live_at": "2026-11-19T07:26:34+00:00"
+    },
+    "roblox gift card dollar general": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "roblox-gift-card-dollar-general",
+      "confidence": 0.96,
+      "reason": "Gift card retail query, not a specific game.",
+      "traffic": "+1000%",
+      "sources": [
+        "rising:roblox"
+      ]
+    },
+    "steam games console revenue share": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "steam-games-console-revenue-share",
+      "confidence": 0.95,
+      "reason": "Generic industry/news query, not a game.",
+      "traffic": "+2900%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "steam gta6": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "steam-gta6",
+      "confidence": 0.97,
+      "reason": "GTA 6 is huge AAA; major media dominates.",
+      "traffic": "+300%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "gta 6 steam deck": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "gta-6-steam-deck",
+      "confidence": 0.97,
+      "reason": "GTA 6 is huge AAA; hardware/platform query.",
+      "traffic": "+170%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "gta6 steam release date": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "gta6-steam-release-date",
+      "confidence": 0.97,
+      "reason": "GTA 6 is huge AAA; major media dominates.",
+      "traffic": "+160%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "basketball stars": {
+      "status": "abandoned",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "Basketball Stars",
+      "slug": "basketball-stars",
+      "confidence": 0.68,
+      "reason": "已经火了 92 天，超过 30 天",
+      "traffic": "+24700%",
+      "sources": [
+        "rising:io games"
+      ],
+      "news": [],
+      "age_days": 92,
+      "age_measured": true
+    },
+    "wonderhop": {
+      "status": "rejected",
+      "first_seen": "2026-11-19T07:23:59+00:00",
+      "game_name": "",
+      "slug": "wonderhop",
+      "confidence": 0.55,
+      "reason": "Unclear if this is a specific new/viral game.",
+      "traffic": "+80%",
+      "sources": [
+        "rising:io games"
+      ]
     }
   },
   "domains": {
