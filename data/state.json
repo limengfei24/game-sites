@@ -8155,6 +8155,491 @@
       "sources": [
         "rising:steam"
       ]
+    },
+    "anthony edwards": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "anthony-edwards",
+      "confidence": 0.99,
+      "reason": "NBA athlete/news, not a game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "marvin harrison jr": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "marvin-harrison-jr",
+      "confidence": 0.99,
+      "reason": "NFL player injury news, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "henry nicholls": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "henry-nicholls",
+      "confidence": 0.99,
+      "reason": "Cricket player/news, not a game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "hunting wives season 2": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "hunting-wives-season-2",
+      "confidence": 0.99,
+      "reason": "TV series, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "seth mcgowan": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "seth-mcgowan",
+      "confidence": 0.99,
+      "reason": "Fantasy football player, not a game",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "ashton dulin": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "ashton-dulin",
+      "confidence": 0.99,
+      "reason": "NFL player/news, not a game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "is jalen brunson playing tonight": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "is-jalen-brunson-playing-tonight",
+      "confidence": 0.99,
+      "reason": "NBA player availability, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "jalen brunson": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "jalen-brunson",
+      "confidence": 0.99,
+      "reason": "NBA athlete/news, not a game",
+      "traffic": "5000+",
+      "sources": [
+        "daily:US",
+        "daily:CA",
+        "daily:AU"
+      ]
+    },
+    "chris braswell": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "chris-braswell",
+      "confidence": 0.99,
+      "reason": "NFL player injury news, not a game",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "texans vs colts": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "texans-vs-colts",
+      "confidence": 0.99,
+      "reason": "NFL match, not a video game",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB",
+        "daily:AU"
+      ]
+    },
+    "spurs vs clippers": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "spurs-vs-clippers",
+      "confidence": 0.99,
+      "reason": "NBA match, not a video game",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "time": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "time",
+      "confidence": 0.99,
+      "reason": "Generic/news term, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "grizzlies vs warriors": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "grizzlies-vs-warriors",
+      "confidence": 0.99,
+      "reason": "NBA match, not a video game",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB",
+        "daily:AU"
+      ]
+    },
+    "timberwolves vs knicks": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "timberwolves-vs-knicks",
+      "confidence": 0.99,
+      "reason": "NBA match, not a video game",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "black friday sale": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "black-friday-sale",
+      "confidence": 0.99,
+      "reason": "Shopping event, not a game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "patrick stewart": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "patrick-stewart",
+      "confidence": 0.99,
+      "reason": "Celebrity/news, not a game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "boeing 747": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "boeing-747",
+      "confidence": 0.99,
+      "reason": "Aircraft/news, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB",
+        "daily:AU"
+      ]
+    },
+    "kai wayne rooney": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "kai-wayne-rooney",
+      "confidence": 0.99,
+      "reason": "Football personality/news, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "dominic leblanc": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "dominic-leblanc",
+      "confidence": 0.99,
+      "reason": "News/politics term, not a game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "andrew harris": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "andrew-harris",
+      "confidence": 0.99,
+      "reason": "Sports coach/news, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "claude giroux": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "claude-giroux",
+      "confidence": 0.99,
+      "reason": "NHL player/news, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "ducks vs avalanche": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "ducks-vs-avalanche",
+      "confidence": 0.99,
+      "reason": "NHL match, not a video game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "davis martin": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "davis-martin",
+      "confidence": 0.99,
+      "reason": "MLB player/trade news, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "cai": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "cai",
+      "confidence": 0.98,
+      "reason": "Ambiguous/news finance term, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "why are gas prices going down?": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "why-are-gas-prices-going-down",
+      "confidence": 0.99,
+      "reason": "News/finance query, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "john madden": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "john-madden",
+      "confidence": 0.99,
+      "reason": "Person/movie/news, not a specific new game",
+      "traffic": "500+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "police raid": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "police-raid",
+      "confidence": 0.99,
+      "reason": "News phrase, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "daryl maguire": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "daryl-maguire",
+      "confidence": 0.99,
+      "reason": "News/politics, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "perth": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "perth",
+      "confidence": 0.99,
+      "reason": "Location/news, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "bucks vs trail blazers": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "bucks-vs-trail-blazers",
+      "confidence": 0.99,
+      "reason": "NBA match, not a video game",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "visa hack": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "visa-hack",
+      "confidence": 0.99,
+      "reason": "Cybersecurity news, not a game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "hedge": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "hedge",
+      "confidence": 0.99,
+      "reason": "Finance term, not a game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "gta 6 how to save game": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "gta-6-how-to-save-game",
+      "confidence": 0.99,
+      "reason": "Huge AAA franchise; gaming media owns this",
+      "traffic": "+7400%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "nintendo next legend of zelda game": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "nintendo-next-legend-of-zelda-game",
+      "confidence": 0.99,
+      "reason": "Huge evergreen/AAA franchise news, not small game",
+      "traffic": "+900%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "the new grand theft auto game": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "the-new-grand-theft-auto-game",
+      "confidence": 0.99,
+      "reason": "Huge AAA franchise; reject per rules",
+      "traffic": "+400%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "new grand theft auto game": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "new-grand-theft-auto-game",
+      "confidence": 0.99,
+      "reason": "Huge AAA franchise; reject per rules",
+      "traffic": "+350%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "xbox game pass new games november": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "xbox-game-pass-new-games-november",
+      "confidence": 0.98,
+      "reason": "Generic subscription lineup query, not one specific game",
+      "traffic": "+300%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "is gta on steam": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "is-gta-on-steam",
+      "confidence": 0.99,
+      "reason": "Huge AAA franchise; reject per rules",
+      "traffic": "+250%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "gta steam": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "gta-steam",
+      "confidence": 0.99,
+      "reason": "Huge AAA franchise; reject per rules",
+      "traffic": "+250%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "gta on steam": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T01:47:52+00:00",
+      "game_name": "",
+      "slug": "gta-on-steam",
+      "confidence": 0.99,
+      "reason": "Huge AAA franchise; reject per rules",
+      "traffic": "+200%",
+      "sources": [
+        "rising:steam"
+      ]
     }
   },
   "domains": {
