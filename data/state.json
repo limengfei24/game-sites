@@ -9132,6 +9132,582 @@
       "sources": [
         "rising:io games"
       ]
+    },
+    "royce lewis": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "royce-lewis",
+      "confidence": 0.99,
+      "reason": "MLB athlete, not a game",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "luis gil": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "luis-gil",
+      "confidence": 0.99,
+      "reason": "MLB athlete, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "retirement age": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "retirement-age",
+      "confidence": 0.99,
+      "reason": "Generic finance/news phrase",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "scott wiener": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "scott-wiener",
+      "confidence": 0.99,
+      "reason": "Politician, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "coosawattee river resort": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "coosawattee-river-resort",
+      "confidence": 0.98,
+      "reason": "Resort/local news, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "iowa state vs ucf": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "iowa-state-vs-ucf",
+      "confidence": 0.99,
+      "reason": "College football match",
+      "traffic": "5000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "jonathan roumie": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "jonathan-roumie",
+      "confidence": 0.99,
+      "reason": "Actor, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "weather tropical storm": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "weather-tropical-storm",
+      "confidence": 0.99,
+      "reason": "Weather news, not a game",
+      "traffic": "5000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "mary peltola doj probe": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "mary-peltola-doj-probe",
+      "confidence": 0.99,
+      "reason": "Political/news topic",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "jarren duran": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "jarren-duran",
+      "confidence": 0.99,
+      "reason": "MLB athlete, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "athletic bilbao vs espanyol standings": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "athletic-bilbao-vs-espanyol-standings",
+      "confidence": 0.99,
+      "reason": "Sports match/standings",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "ryan gosling": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "ryan-gosling",
+      "confidence": 0.99,
+      "reason": "Actor/celebrity",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "war season 2": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "war-season-2",
+      "confidence": 0.95,
+      "reason": "TV series season, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "nicola peltz": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "nicola-peltz",
+      "confidence": 0.99,
+      "reason": "Celebrity, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "michel houellebecq": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "michel-houellebecq",
+      "confidence": 0.99,
+      "reason": "Author/news figure",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "coleen rooney": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "coleen-rooney",
+      "confidence": 0.99,
+      "reason": "Celebrity/TV news",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "harry kane": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "harry-kane",
+      "confidence": 0.99,
+      "reason": "Football athlete",
+      "traffic": "2000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "leomie anderson": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "leomie-anderson",
+      "confidence": 0.99,
+      "reason": "Celebrity/TV personality",
+      "traffic": "2000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "keith lemon real name": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "keith-lemon-real-name",
+      "confidence": 0.99,
+      "reason": "TV personality query",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "aj odudu": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "aj-odudu",
+      "confidence": 0.99,
+      "reason": "TV presenter",
+      "traffic": "2000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "davis schneider": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "davis-schneider",
+      "confidence": 0.99,
+      "reason": "MLB athlete",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "crimean bridge": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "crimean-bridge",
+      "confidence": 0.99,
+      "reason": "Geopolitical news",
+      "traffic": "500+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "jason statham": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "jason-statham",
+      "confidence": 0.99,
+      "reason": "Actor/celebrity",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "druzhba pipeline": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "druzhba-pipeline",
+      "confidence": 0.99,
+      "reason": "Energy/news topic",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "elon musk": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "elon-musk",
+      "confidence": 0.99,
+      "reason": "Public figure/news",
+      "traffic": "500+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "bell canada enterprise data breach": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "bell-canada-enterprise-data-breach",
+      "confidence": 0.99,
+      "reason": "Cybersecurity news",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "al-qaeda": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "al-qaeda",
+      "confidence": 0.99,
+      "reason": "Security/news topic",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "woody harrelson": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "woody-harrelson",
+      "confidence": 0.99,
+      "reason": "Actor/celebrity",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "mobland season 3": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "mobland-season-3",
+      "confidence": 0.99,
+      "reason": "TV series season",
+      "traffic": "500+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "toyota sienna 2027": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "toyota-sienna-2027",
+      "confidence": 0.99,
+      "reason": "Vehicle model",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "houthis saudi arabia": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "houthis-saudi-arabia",
+      "confidence": 0.99,
+      "reason": "Geopolitical news",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "stock markets": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "stock-markets",
+      "confidence": 0.99,
+      "reason": "Finance phrase",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "peter v'landys": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "peter-v-landys",
+      "confidence": 0.99,
+      "reason": "Sports executive/news",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "voting victoria": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "voting-victoria",
+      "confidence": 0.99,
+      "reason": "Election/news topic",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "athletic vs espanyol": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "athletic-vs-espanyol",
+      "confidence": 0.99,
+      "reason": "La Liga sports match",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "livestock": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "livestock",
+      "confidence": 0.99,
+      "reason": "Generic/news term",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "catherine zeta-jones": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "catherine-zeta-jones",
+      "confidence": 0.99,
+      "reason": "Actress/celebrity",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "gta grand theft auto": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "gta-grand-theft-auto",
+      "confidence": 0.99,
+      "reason": "Huge AAA franchise; excluded",
+      "traffic": "1000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "connections 21 november 2026": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "connections-21-november-2026",
+      "confidence": 0.9,
+      "reason": "Evergreen NYT daily puzzle; not a new/viral game launch",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "gta6 game": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "gta6-game",
+      "confidence": 0.99,
+      "reason": "GTA is a huge AAA franchise; excluded",
+      "traffic": "+550%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "gta 6 new game plus": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "gta-6-new-game-plus",
+      "confidence": 0.95,
+      "reason": "Huge AAA franchise; not a small new/viral game search.",
+      "traffic": "+450%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "fallen lineage roblox": {
+      "status": "abandoned",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "Fallen Lineage",
+      "slug": "fallen-lineage",
+      "confidence": 0.9,
+      "reason": "已经火了 83 天，超过 30 天",
+      "traffic": "+1250%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 83,
+      "age_measured": true
+    },
+    "codes for carolina leaners roblox": {
+      "status": "abandoned",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "Carolina Leaners",
+      "slug": "carolina-leaners",
+      "confidence": 0.78,
+      "reason": "已经火了 87 天，超过 30 天",
+      "traffic": "+50%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 87,
+      "age_measured": true
+    },
+    "platformer io games": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "platformer-io-games",
+      "confidence": 0.92,
+      "reason": "Generic category phrase, not one specific game.",
+      "traffic": "+70%",
+      "sources": [
+        "rising:io games"
+      ]
+    },
+    "platformer io": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "",
+      "slug": "platformer-io",
+      "confidence": 0.92,
+      "reason": "Generic genre/category phrase.",
+      "traffic": "+60%",
+      "sources": [
+        "rising:io games"
+      ]
+    },
+    "bloxity io": {
+      "status": "abandoned",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "Bloxity.io",
+      "slug": "bloxity-io",
+      "confidence": 0.82,
+      "reason": "已经火了 70 天，超过 30 天",
+      "traffic": "+50%",
+      "sources": [
+        "rising:io games"
+      ],
+      "news": [],
+      "age_days": 70,
+      "age_measured": true
+    },
+    "wacky flip": {
+      "status": "abandoned",
+      "first_seen": "2026-11-20T22:41:40+00:00",
+      "game_name": "Wacky Flip",
+      "slug": "wacky-flip",
+      "confidence": 0.62,
+      "reason": "已经火了 92 天，超过 30 天",
+      "traffic": "+40%",
+      "sources": [
+        "rising:io games"
+      ],
+      "news": [],
+      "age_days": 92,
+      "age_measured": true
     }
   },
   "domains": {
