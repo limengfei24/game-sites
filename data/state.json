@@ -8640,6 +8640,498 @@
       "sources": [
         "rising:steam"
       ]
+    },
+    "marketwatch": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "marketwatch",
+      "confidence": 0.99,
+      "reason": "Financial news site, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "sat": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "sat",
+      "confidence": 0.99,
+      "reason": "College admissions exam topic",
+      "traffic": "100+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "regions": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "regions",
+      "confidence": 0.98,
+      "reason": "Generic news term about Russian regions",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "anthony ippolito": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "anthony-ippolito",
+      "confidence": 0.99,
+      "reason": "Film/celebrity news",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "warren buffett": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "warren-buffett",
+      "confidence": 0.99,
+      "reason": "Investor/celebrity news",
+      "traffic": "100+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "quinn hughes injury": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "quinn-hughes-injury",
+      "confidence": 0.99,
+      "reason": "Sports injury news",
+      "traffic": "100+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "sndk stock": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "sndk-stock",
+      "confidence": 0.99,
+      "reason": "Stock market query",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "john grisham": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "john-grisham",
+      "confidence": 0.99,
+      "reason": "Author/celebrity news",
+      "traffic": "100+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "super el nino weather transition": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "super-el-nino-weather-transition",
+      "confidence": 0.99,
+      "reason": "Weather/climate news",
+      "traffic": "100+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "rikers island": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "rikers-island",
+      "confidence": 0.99,
+      "reason": "Jail/news topic",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "glazer ownership of manchester united": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "glazer-ownership-of-manchester-united",
+      "confidence": 0.99,
+      "reason": "Sports ownership news",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "immigration": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "immigration",
+      "confidence": 0.99,
+      "reason": "Generic political/news topic",
+      "traffic": "2000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "malcolm marx": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "malcolm-marx",
+      "confidence": 0.99,
+      "reason": "Rugby player news",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "prince harry": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "prince-harry",
+      "confidence": 0.99,
+      "reason": "Celebrity/royalty news",
+      "traffic": "2000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "danny tommo": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "danny-tommo",
+      "confidence": 0.99,
+      "reason": "News about activist, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "mount fuji off season warning": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "mount-fuji-off-season-warning",
+      "confidence": 0.99,
+      "reason": "Travel/missing climber news",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "facial recognition system": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "facial-recognition-system",
+      "confidence": 0.99,
+      "reason": "Technology/policing news",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "internet": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "internet",
+      "confidence": 0.99,
+      "reason": "Generic technology term",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "the pie news": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "the-pie-news",
+      "confidence": 0.98,
+      "reason": "Education news site/topic",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "owain wyn evans": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "owain-wyn-evans",
+      "confidence": 0.99,
+      "reason": "BBC presenter/celebrity news",
+      "traffic": "2000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "apple watch": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "apple-watch",
+      "confidence": 0.99,
+      "reason": "Consumer electronics product",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "vendredi fou 2026": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "vendredi-fou-2026",
+      "confidence": 0.99,
+      "reason": "Black Friday shopping term",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "ivan demidov": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "ivan-demidov",
+      "confidence": 0.99,
+      "reason": "Hockey player news",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "yves francoeur": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "yves-francoeur",
+      "confidence": 0.99,
+      "reason": "News about police union figure",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "valerie bertinelli": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "valerie-bertinelli",
+      "confidence": 0.99,
+      "reason": "Celebrity news",
+      "traffic": "500+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "pleine lune": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "pleine-lune",
+      "confidence": 0.99,
+      "reason": "Astronomy/lunar event",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "india a vs nepal": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "india-a-vs-nepal",
+      "confidence": 0.99,
+      "reason": "Cricket match",
+      "traffic": "1000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "black friday": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "black-friday",
+      "confidence": 0.99,
+      "reason": "Shopping event",
+      "traffic": "2000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "triple star system": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "triple-star-system",
+      "confidence": 0.99,
+      "reason": "Astronomy news",
+      "traffic": "500+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "crime": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "crime",
+      "confidence": 0.98,
+      "reason": "Generic news/crime term",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "gemma chan": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "gemma-chan",
+      "confidence": 0.99,
+      "reason": "Actress/celebrity news",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "nicole richie": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "nicole-richie",
+      "confidence": 0.99,
+      "reason": "Celebrity news",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "pakistan a vs uae": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "pakistan-a-vs-uae",
+      "confidence": 0.99,
+      "reason": "Cricket match",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "victorian election": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "victorian-election",
+      "confidence": 0.99,
+      "reason": "Political election news",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "jake soutar west coast eagles": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "jake-soutar-west-coast-eagles",
+      "confidence": 0.99,
+      "reason": "AFL draft/sports news",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "harper banfield": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "harper-banfield",
+      "confidence": 0.99,
+      "reason": "AFL draft/sports news",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "david jones redundancy": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "david-jones-redundancy",
+      "confidence": 0.99,
+      "reason": "Retail/layoff news",
+      "traffic": "1000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "jennifer lawrence": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "jennifer-lawrence",
+      "confidence": 0.99,
+      "reason": "Actress/celebrity news",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "how to save game in gta 6": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "how-to-save-game-in-gta-6",
+      "confidence": 0.98,
+      "reason": "Huge AAA franchise; big media dominates GTA searches",
+      "traffic": "+8350%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "haymitch hunger games": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "haymitch-hunger-games",
+      "confidence": 0.98,
+      "reason": "Book/film character, not a specific game",
+      "traffic": "+90%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "io interactive games": {
+      "status": "rejected",
+      "first_seen": "2026-11-20T12:53:39+00:00",
+      "game_name": "",
+      "slug": "io-interactive-games",
+      "confidence": 0.95,
+      "reason": "Generic developer/studio search (IO Interactive), not a specific newly released or viral game.",
+      "traffic": "+50%",
+      "sources": [
+        "rising:io games"
+      ]
     }
   },
   "domains": {
