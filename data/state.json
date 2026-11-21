@@ -10862,6 +10862,475 @@
       "sources": [
         "rising:steam"
       ]
+    },
+    "indiana fever": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "indiana-fever",
+      "confidence": 0.98,
+      "reason": "WNBA team news, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "byrum brown": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "byrum-brown",
+      "confidence": 0.98,
+      "reason": "College football quarterback",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "mbappe": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "mbappe",
+      "confidence": 0.99,
+      "reason": "Football player",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "nathan mackinnon": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "nathan-mackinnon",
+      "confidence": 0.99,
+      "reason": "NHL player injury news",
+      "traffic": "200+",
+      "sources": [
+        "daily:US",
+        "daily:CA"
+      ]
+    },
+    "syracuse basketball": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "syracuse-basketball",
+      "confidence": 0.98,
+      "reason": "College basketball team",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "bob chesney": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "bob-chesney",
+      "confidence": 0.98,
+      "reason": "College football coach",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "madrid game": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "madrid-game",
+      "confidence": 0.95,
+      "reason": "Real Madrid football coverage",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "is arch manning a senior": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "is-arch-manning-a-senior",
+      "confidence": 0.98,
+      "reason": "College football player question",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "george macintyre": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "george-macintyre",
+      "confidence": 0.98,
+      "reason": "College football quarterback",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "brady hart": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "brady-hart",
+      "confidence": 0.98,
+      "reason": "College football quarterback",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "mariella frostrup": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "mariella-frostrup",
+      "confidence": 0.99,
+      "reason": "TV celebrity (I'm A Celebrity)",
+      "traffic": "20000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "leigh francis": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "leigh-francis",
+      "confidence": 0.99,
+      "reason": "TV personality",
+      "traffic": "5000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "gta vi review bombed": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "gta-vi-review-bombed",
+      "confidence": 0.95,
+      "reason": "Huge AAA franchise news, not rankable for small site",
+      "traffic": "2000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "leigh francis wife": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "leigh-francis-wife",
+      "confidence": 0.99,
+      "reason": "Celebrity personal info",
+      "traffic": "2000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "flamengo": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "flamengo",
+      "confidence": 0.98,
+      "reason": "Football club",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "magnus carlsen": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "magnus-carlsen",
+      "confidence": 0.97,
+      "reason": "Chess player news, not a video game",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "hill dickinson stadium": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "hill-dickinson-stadium",
+      "confidence": 0.99,
+      "reason": "Everton stadium naming",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "love actually": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "love-actually",
+      "confidence": 0.99,
+      "reason": "Film",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "itv schedule": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "itv-schedule",
+      "confidence": 0.99,
+      "reason": "TV listings",
+      "traffic": "2000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "marie josee gauvin": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "marie-josee-gauvin",
+      "confidence": 0.97,
+      "reason": "Quebec TV personality",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "indiana vs washington": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "indiana-vs-washington",
+      "confidence": 0.98,
+      "reason": "College football matchup",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "iran war": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "iran-war",
+      "confidence": 0.99,
+      "reason": "Geopolitical news",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "vaccin": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "vaccin",
+      "confidence": 0.99,
+      "reason": "Health/vaccine news",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "brayden burries": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "brayden-burries",
+      "confidence": 0.97,
+      "reason": "NBA player",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "lsu vs tennessee": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "lsu-vs-tennessee",
+      "confidence": 0.98,
+      "reason": "College football matchup",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "full moon november 2026": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "full-moon-november-2026",
+      "confidence": 0.99,
+      "reason": "Astrology/astronomy query",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "boca juniors": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "boca-juniors",
+      "confidence": 0.98,
+      "reason": "Football club / Copa Sudamericana final",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "aircraft carrier": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "aircraft-carrier",
+      "confidence": 0.99,
+      "reason": "Military news story",
+      "traffic": "1000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "connections 22 november 2026": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "connections-22-november-2026",
+      "confidence": 0.85,
+      "reason": "Daily NYT puzzle answer page, evergreen and dominated by big media",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "napoli vs torino": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "napoli-vs-torino",
+      "confidence": 0.98,
+      "reason": "Serie A match",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "macquarie island": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "macquarie-island",
+      "confidence": 0.99,
+      "reason": "Geography/science news",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "motherwell vs rangers": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "motherwell-vs-rangers",
+      "confidence": 0.98,
+      "reason": "Scottish football match",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "roosters grand final vegas trip funding": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "roosters-grand-final-vegas-trip-funding",
+      "confidence": 0.98,
+      "reason": "NRL rugby league news",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "new zealand national rugby union team": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "new-zealand-national-rugby-union-team",
+      "confidence": 0.99,
+      "reason": "Rugby team",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "f1 las vegas": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "f1-las-vegas",
+      "confidence": 0.98,
+      "reason": "Formula 1 Grand Prix",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "russia": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "russia",
+      "confidence": 0.99,
+      "reason": "Geopolitical news",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "sports": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "sports",
+      "confidence": 0.99,
+      "reason": "Generic sports term",
+      "traffic": "5000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "hunger games new": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "hunger-games-new",
+      "confidence": 0.97,
+      "reason": "Film franchise, not a video game",
+      "traffic": "+150%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "the hunger games": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T21:39:37+00:00",
+      "game_name": "",
+      "slug": "the-hunger-games",
+      "confidence": 0.98,
+      "reason": "Film/book franchise",
+      "traffic": "+150%",
+      "sources": [
+        "rising:games"
+      ]
     }
   },
   "domains": {
