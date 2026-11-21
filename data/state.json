@@ -10325,6 +10325,543 @@
       "sources": [
         "rising:io games"
       ]
+    },
+    "ireland vs south africa": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "ireland-vs-south-africa",
+      "confidence": 0.99,
+      "reason": "Rugby match, not a video game",
+      "traffic": "500+",
+      "sources": [
+        "daily:US",
+        "daily:CA",
+        "daily:AU"
+      ]
+    },
+    "current black friday deals": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "current-black-friday-deals",
+      "confidence": 0.99,
+      "reason": "Shopping deals, not a game",
+      "traffic": "10000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "nasdaq composite index drop 2026": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "nasdaq-composite-index-drop-2026",
+      "confidence": 0.99,
+      "reason": "Finance news, not a game",
+      "traffic": "100000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "kocaelispor - fenerbahçe": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "kocaelispor-fenerbahce",
+      "confidence": 0.99,
+      "reason": "Football match",
+      "traffic": "500+",
+      "sources": [
+        "daily:US",
+        "daily:GB"
+      ]
+    },
+    "kocaelispor vs fenerbahçe": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "kocaelispor-vs-fenerbahce",
+      "confidence": 0.99,
+      "reason": "Football match",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "henry cavill as james bond": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "henry-cavill-as-james-bond",
+      "confidence": 0.99,
+      "reason": "Celebrity/movie casting news",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "nice vs psg": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "nice-vs-psg",
+      "confidence": 0.99,
+      "reason": "Football match",
+      "traffic": "10000+",
+      "sources": [
+        "daily:US",
+        "daily:CA",
+        "daily:AU"
+      ]
+    },
+    "costco thanksgiving holiday store closures": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "costco-thanksgiving-holiday-store-closures",
+      "confidence": 0.99,
+      "reason": "Store hours/news, not a game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "barry bonds": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "barry-bonds",
+      "confidence": 0.99,
+      "reason": "Athlete/celebrity, not a game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "dwayne johnson": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "dwayne-johnson",
+      "confidence": 0.99,
+      "reason": "Celebrity, not a game",
+      "traffic": "10000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "ireland rugby": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "ireland-rugby",
+      "confidence": 0.99,
+      "reason": "Rugby team/match news",
+      "traffic": "1000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "nations championship rugby fixtures": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "nations-championship-rugby-fixtures",
+      "confidence": 0.99,
+      "reason": "Rugby fixtures",
+      "traffic": "2000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "ross county vs cove rangers": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "ross-county-vs-cove-rangers",
+      "confidence": 0.99,
+      "reason": "Football match",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "swansea manager": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "swansea-manager",
+      "confidence": 0.99,
+      "reason": "Football manager news",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "nations cup rugby": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "nations-cup-rugby",
+      "confidence": 0.99,
+      "reason": "Rugby competition",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "aleksandre topuria": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "aleksandre-topuria",
+      "confidence": 0.99,
+      "reason": "MMA athlete",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "carrick vs coleraine": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "carrick-vs-coleraine",
+      "confidence": 0.99,
+      "reason": "Football match",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "exeter vs gloucester": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "exeter-vs-gloucester",
+      "confidence": 0.99,
+      "reason": "Rugby match",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "lcfc": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "lcfc",
+      "confidence": 0.99,
+      "reason": "Leicester City football club news",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "west ham vs preston": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "west-ham-vs-preston",
+      "confidence": 0.99,
+      "reason": "Football match",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA",
+        "daily:AU"
+      ]
+    },
+    "leverkusen – paderborn 07": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "leverkusen-paderborn-07",
+      "confidence": 0.99,
+      "reason": "Football match",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "celtic vs st. mirren": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "celtic-vs-st-mirren",
+      "confidence": 0.99,
+      "reason": "Football match",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "shamil gaziev": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "shamil-gaziev",
+      "confidence": 0.99,
+      "reason": "MMA athlete",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "stocks s&p 500": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "stocks-s-p-500",
+      "confidence": 0.99,
+      "reason": "Finance/markets, not a game",
+      "traffic": "20000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "strait of hormuz": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "strait-of-hormuz",
+      "confidence": 0.99,
+      "reason": "Geopolitical news, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "gta 6 review score discrepancy": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "gta-6-review-score-discrepancy",
+      "confidence": 0.98,
+      "reason": "Huge AAA franchise/news; rejected per policy",
+      "traffic": "500+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "dom mar fan": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "dom-mar-fan",
+      "confidence": 0.99,
+      "reason": "MMA athlete",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "jake matthews": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "jake-matthews",
+      "confidence": 0.99,
+      "reason": "MMA athlete",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "coventry vs palace": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "coventry-vs-palace",
+      "confidence": 0.99,
+      "reason": "Football match",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "diyar nurgozhay": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "diyar-nurgozhay",
+      "confidence": 0.99,
+      "reason": "MMA athlete",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "bournemouth vs nottm forest": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "bournemouth-vs-nottm-forest",
+      "confidence": 0.99,
+      "reason": "Football match",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "tom trbojevic sea eagles contract": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "tom-trbojevic-sea-eagles-contract",
+      "confidence": 0.99,
+      "reason": "Rugby league athlete/contract news",
+      "traffic": "1000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "spurs vs ipswich town": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "spurs-vs-ipswich-town",
+      "confidence": 0.99,
+      "reason": "Football match",
+      "traffic": "1000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "hyung-tae kim ai game development": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "hyung-tae-kim-ai-game-development",
+      "confidence": 0.95,
+      "reason": "Person/industry topic, not a specific game",
+      "traffic": "+1750%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "how to game share on xbox": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "how-to-game-share-on-xbox",
+      "confidence": 0.99,
+      "reason": "Generic how-to query",
+      "traffic": "+350%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "can u game share gta 6": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "can-u-game-share-gta-6",
+      "confidence": 0.98,
+      "reason": "Huge AAA franchise/how-to query",
+      "traffic": "+350%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "game of the year": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "game-of-the-year",
+      "confidence": 0.98,
+      "reason": "Generic award phrase, not a specific game",
+      "traffic": "+130%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "one in a krillion game": {
+      "status": "abandoned",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "One in a Krillion",
+      "slug": "one-in-a-krillion",
+      "confidence": 0.6,
+      "reason": "已经火了 39 天，超过 30 天",
+      "traffic": "+60%",
+      "sources": [
+        "rising:game"
+      ],
+      "news": [],
+      "age_days": 39,
+      "age_measured": true
+    },
+    "game stop near me": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "game-stop-near-me",
+      "confidence": 0.99,
+      "reason": "Store locator, not a game",
+      "traffic": "+50%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "pokémon trading card game": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "pokemon-trading-card-game",
+      "confidence": 0.98,
+      "reason": "Huge evergreen Pokémon franchise; rejected per policy",
+      "traffic": "+40%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "beetee hunger games": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "beetee-hunger-games",
+      "confidence": 0.97,
+      "reason": "Hunger Games character/franchise, not a specific game release.",
+      "traffic": "+250%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "dan houser new game": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "dan-houser-new-game",
+      "confidence": 0.95,
+      "reason": "Industry figure news query, no specific new game title.",
+      "traffic": "+550%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "steam e502 l2": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "steam-e502-l2",
+      "confidence": 0.9,
+      "reason": "Steam error code/outage search, not a game.",
+      "traffic": "+16500%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "e502 l2": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T16:09:24+00:00",
+      "game_name": "",
+      "slug": "e502-l2",
+      "confidence": 0.9,
+      "reason": "Likely Steam error code, not a game title.",
+      "traffic": "+4650%",
+      "sources": [
+        "rising:steam"
+      ]
     }
   },
   "domains": {
