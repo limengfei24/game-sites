@@ -9708,6 +9708,623 @@
       "news": [],
       "age_days": 92,
       "age_measured": true
+    },
+    "black friday deals games": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "black-friday-deals-games",
+      "confidence": 0.95,
+      "reason": "Generic shopping deals, not a specific game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "gta 6 criminal profile": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "gta-6-criminal-profile",
+      "confidence": 0.98,
+      "reason": "GTA 6 is a huge AAA franchise; big gaming media own coverage.",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "tenebrae lux": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "tenebrae-lux",
+      "confidence": 0.9,
+      "reason": "GTA 6 minigame tied to huge AAA franchise; not a standalone search opportunity.",
+      "traffic": "100+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "meryl streep": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "meryl-streep",
+      "confidence": 0.99,
+      "reason": "Celebrity news.",
+      "traffic": "100+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "alessandro costa": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "alessandro-costa",
+      "confidence": 0.99,
+      "reason": "UFC athlete.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "alik lorenz": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "alik-lorenz",
+      "confidence": 0.99,
+      "reason": "UFC athlete.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "gta online": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "gta-online",
+      "confidence": 0.98,
+      "reason": "Huge AAA franchise/GTA Online evergreen coverage owned by big media.",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "cal gta 6": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "cal-gta-6",
+      "confidence": 0.98,
+      "reason": "GTA 6 is a huge AAA franchise; not suitable for small-site ranking.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "owen wilson": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "owen-wilson",
+      "confidence": 0.99,
+      "reason": "Celebrity/TV news.",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "aljamain sterling": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "aljamain-sterling",
+      "confidence": 0.99,
+      "reason": "UFC athlete.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "sri lanka a vs hong kong": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "sri-lanka-a-vs-hong-kong",
+      "confidence": 0.99,
+      "reason": "Cricket match.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB",
+        "daily:AU"
+      ]
+    },
+    "sir patrick stewart death": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "sir-patrick-stewart-death",
+      "confidence": 0.99,
+      "reason": "Celebrity death news.",
+      "traffic": "10000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "strictly come dancing blackpool special": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "strictly-come-dancing-blackpool-special",
+      "confidence": 0.99,
+      "reason": "TV show event.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "gerwyn price grand slam darts": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "gerwyn-price-grand-slam-darts",
+      "confidence": 0.99,
+      "reason": "Darts sports event.",
+      "traffic": "2000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "bruno fernandes manchester united contract talks": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "bruno-fernandes-manchester-united-contract-talks",
+      "confidence": 0.99,
+      "reason": "Football/sports news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "spacex starshield": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "spacex-starshield",
+      "confidence": 0.99,
+      "reason": "Space/defense news, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "bond girl": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "bond-girl",
+      "confidence": 0.99,
+      "reason": "Movie casting/celebrity news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "geri halliwell buckingham palace encounter": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "geri-halliwell-buckingham-palace-encounter",
+      "confidence": 0.99,
+      "reason": "Celebrity/royal news.",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "navier–stokes equations": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "navierstokes-equations",
+      "confidence": 0.99,
+      "reason": "Math/science topic, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "poundland": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "poundland",
+      "confidence": 0.99,
+      "reason": "Retailer news.",
+      "traffic": "2000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "jd": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "jd",
+      "confidence": 0.97,
+      "reason": "Political figure/news, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "pancreatic cancer drug daraxonrasib": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "pancreatic-cancer-drug-daraxonrasib",
+      "confidence": 0.99,
+      "reason": "Medical/drug news.",
+      "traffic": "5000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "scotiabank": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "scotiabank",
+      "confidence": 0.99,
+      "reason": "Bank/legal news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "mcdonald": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "mcdonald",
+      "confidence": 0.99,
+      "reason": "Brand/advertising news.",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "united states house of representatives": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "united-states-house-of-representatives",
+      "confidence": 0.99,
+      "reason": "US politics/election news.",
+      "traffic": "500+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "fbi hacked": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "fbi-hacked",
+      "confidence": 0.99,
+      "reason": "Cybersecurity/news topic.",
+      "traffic": "2000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "de'andre hunter": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "de-andre-hunter",
+      "confidence": 0.99,
+      "reason": "NBA athlete.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA",
+        "daily:AU"
+      ]
+    },
+    "jessica chastain": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "jessica-chastain",
+      "confidence": 0.99,
+      "reason": "Celebrity/TV news.",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "keanu reeves": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "keanu-reeves",
+      "confidence": 0.99,
+      "reason": "Celebrity/movie news.",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "all blacks vs england": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "all-blacks-vs-england",
+      "confidence": 0.99,
+      "reason": "Rugby match.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "christmas": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "christmas",
+      "confidence": 0.99,
+      "reason": "Generic holiday topic.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "jackjumpers vs hawks": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "jackjumpers-vs-hawks",
+      "confidence": 0.99,
+      "reason": "Basketball match.",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "spirit of tasmania iv": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "spirit-of-tasmania-iv",
+      "confidence": 0.99,
+      "reason": "Ferry/transport news.",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "matthew rhys james bond audition": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "matthew-rhys-james-bond-audition",
+      "confidence": 0.99,
+      "reason": "Movie/celebrity news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "melbourne victory": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "melbourne-victory",
+      "confidence": 0.99,
+      "reason": "Football club/sports news.",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "aus vs eng t20": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "aus-vs-eng-t20",
+      "confidence": 0.99,
+      "reason": "Cricket match.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "bethesda fallout cat game announcement": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "bethesda-fallout-cat-game-announcement",
+      "confidence": 0.85,
+      "reason": "Huge AAA Fallout/Bethesda franchise news; not a small-site opportunity.",
+      "traffic": "+3300%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "nintendo 64 physical game release": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "nintendo-64-physical-game-release",
+      "confidence": 0.9,
+      "reason": "Generic phrase about N64 physical releases, not one specific game.",
+      "traffic": "+1950%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "game gta vi": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "game-gta-vi",
+      "confidence": 0.99,
+      "reason": "GTA VI is a huge AAA franchise; big media own coverage.",
+      "traffic": "+1100%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "nyt games": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "nyt-games",
+      "confidence": 0.95,
+      "reason": "Generic/evergreen NYT puzzle hub, not a newly viral specific game.",
+      "traffic": "+50%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "new hunger games movie": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "new-hunger-games-movie",
+      "confidence": 0.98,
+      "reason": "Movie search, not a game",
+      "traffic": "+200%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "new video game": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "new-video-game",
+      "confidence": 0.95,
+      "reason": "Generic phrase, not a specific game",
+      "traffic": "+40%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "stand out": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "stand-out",
+      "confidence": 0.8,
+      "reason": "Generic phrase; not confident it refers to a specific new game",
+      "traffic": "+1700%",
+      "sources": [
+        "rising:roblox"
+      ]
+    },
+    "dollar general": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "dollar-general",
+      "confidence": 0.99,
+      "reason": "Retail brand, not a game",
+      "traffic": "+700%",
+      "sources": [
+        "rising:roblox"
+      ]
+    },
+    "steam error e502 l2": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "steam-error-e502-l2",
+      "confidence": 0.99,
+      "reason": "Steam error query, not a game",
+      "traffic": "+6350%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "e502 l2 steam": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "e502-l2-steam",
+      "confidence": 0.99,
+      "reason": "Steam error query, not a game",
+      "traffic": "+5800%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "gta 5 steam": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "gta-5-steam",
+      "confidence": 0.98,
+      "reason": "Huge evergreen AAA franchise",
+      "traffic": "+170%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "2v2 io": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "2v2-io",
+      "confidence": 0.65,
+      "reason": "Generic/ambiguous .io phrase; not confident it is one specific new game",
+      "traffic": "+60%",
+      "sources": [
+        "rising:io games"
+      ]
+    },
+    "zap games": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "zap-games",
+      "confidence": 0.85,
+      "reason": "Generic/ambiguous games phrase",
+      "traffic": "+50%",
+      "sources": [
+        "rising:io games"
+      ]
+    },
+    "poxel io": {
+      "status": "abandoned",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "Poxel.io",
+      "slug": "poxel-io",
+      "confidence": 0.72,
+      "reason": "已经火了 87 天，超过 30 天",
+      "traffic": "+40%",
+      "sources": [
+        "rising:io games"
+      ],
+      "news": [],
+      "age_days": 87,
+      "age_measured": true
+    },
+    "google doodle games": {
+      "status": "rejected",
+      "first_seen": "2026-11-21T07:05:13+00:00",
+      "game_name": "",
+      "slug": "google-doodle-games",
+      "confidence": 0.95,
+      "reason": "Generic evergreen Google Doodle games phrase",
+      "traffic": "+40%",
+      "sources": [
+        "rising:io games"
+      ]
     }
   },
   "domains": {
