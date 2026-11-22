@@ -12265,6 +12265,486 @@
       "sources": [
         "rising:game"
       ]
+    },
+    "panthers schedule": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "panthers-schedule",
+      "confidence": 0.99,
+      "reason": "Sports team schedule, not a game",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "nfl playoff picture": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "nfl-playoff-picture",
+      "confidence": 0.99,
+      "reason": "NFL sports news",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "anthony campanile": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "anthony-campanile",
+      "confidence": 0.97,
+      "reason": "Person/news, not a game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "chargers game today": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "chargers-game-today",
+      "confidence": 0.99,
+      "reason": "NFL game schedule/search",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "nfc north": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "nfc-north",
+      "confidence": 0.99,
+      "reason": "NFL division, sports news",
+      "traffic": "5000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "nfc south": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "nfc-south",
+      "confidence": 0.99,
+      "reason": "NFL division, sports news",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "parker washington": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "parker-washington",
+      "confidence": 0.98,
+      "reason": "Athlete, not a game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "fanatics sportsbook": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "fanatics-sportsbook",
+      "confidence": 0.99,
+      "reason": "Sportsbook/betting, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "jj watt": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "jj-watt",
+      "confidence": 0.99,
+      "reason": "Athlete/celebrity, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "nfl standings cowboys": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "nfl-standings-cowboys",
+      "confidence": 0.99,
+      "reason": "NFL standings/news",
+      "traffic": "10000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "im a celeb vote": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "im-a-celeb-vote",
+      "confidence": 0.99,
+      "reason": "TV show voting",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "tube strikes this week": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "tube-strikes-this-week",
+      "confidence": 0.99,
+      "reason": "Transit news",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "sharks": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "sharks",
+      "confidence": 0.95,
+      "reason": "Sports team/news, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "plane": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "plane",
+      "confidence": 0.97,
+      "reason": "Plane crash news, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "rs-28 sarmat": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "rs-28-sarmat",
+      "confidence": 0.99,
+      "reason": "Military missile news",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "nfl schedule": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "nfl-schedule",
+      "confidence": 0.99,
+      "reason": "NFL sports schedule",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "iowa army ammunition plant": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "iowa-army-ammunition-plant",
+      "confidence": 0.99,
+      "reason": "News event, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "trade war": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "trade-war",
+      "confidence": 0.98,
+      "reason": "Generic/news topic",
+      "traffic": "2000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "chargers vs jets": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "chargers-vs-jets",
+      "confidence": 0.99,
+      "reason": "NFL matchup",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "gta vi metacritic": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "gta-vi-metacritic",
+      "confidence": 0.99,
+      "reason": "Huge AAA franchise; reject per policy",
+      "traffic": "2000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "panthers": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "panthers",
+      "confidence": 0.96,
+      "reason": "Sports team/news",
+      "traffic": "2000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "bombardier": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "bombardier",
+      "confidence": 0.98,
+      "reason": "Company/labor news",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "tarik skubal": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "tarik-skubal",
+      "confidence": 0.99,
+      "reason": "Athlete, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "laval rocket": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "laval-rocket",
+      "confidence": 0.98,
+      "reason": "AHL hockey team",
+      "traffic": "1000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "bills schedule": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "bills-schedule",
+      "confidence": 0.99,
+      "reason": "NFL team schedule",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "sabres vs lightning": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "sabres-vs-lightning",
+      "confidence": 0.99,
+      "reason": "NHL matchup",
+      "traffic": "500+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "george springer": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "george-springer",
+      "confidence": 0.99,
+      "reason": "Athlete, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "the diplomat": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "the-diplomat",
+      "confidence": 0.99,
+      "reason": "TV series",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "molly meldrum": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "molly-meldrum",
+      "confidence": 0.98,
+      "reason": "Person/news obituary",
+      "traffic": "2000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "giants vs jaguars": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "giants-vs-jaguars",
+      "confidence": 0.99,
+      "reason": "NFL matchup",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "chloe pink": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "chloe-pink",
+      "confidence": 0.98,
+      "reason": "Person/celebrity news",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "wife": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "wife",
+      "confidence": 0.99,
+      "reason": "Generic/news term",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "jeremy clarkson": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "jeremy-clarkson",
+      "confidence": 0.99,
+      "reason": "Celebrity/TV",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "asx futures": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "asx-futures",
+      "confidence": 0.99,
+      "reason": "Finance/markets",
+      "traffic": "1000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "broncos vs raiders": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "broncos-vs-raiders",
+      "confidence": 0.99,
+      "reason": "NFL matchup",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "news media": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "news-media",
+      "confidence": 0.98,
+      "reason": "Generic media topic",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "elizabeth debicki": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "elizabeth-debicki",
+      "confidence": 0.99,
+      "reason": "Celebrity/actress",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "angus taylor": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "angus-taylor",
+      "confidence": 0.98,
+      "reason": "Politician/news",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "game awards 2026": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "game-awards-2026",
+      "confidence": 0.97,
+      "reason": "Gaming event, not a specific game",
+      "traffic": "+120%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "noillirk": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T21:51:04+00:00",
+      "game_name": "",
+      "slug": "noillirk",
+      "confidence": 0.7,
+      "reason": "Unknown term; not confidently a game",
+      "traffic": "+90%",
+      "sources": [
+        "rising:io games"
+      ]
     }
   },
   "domains": {
