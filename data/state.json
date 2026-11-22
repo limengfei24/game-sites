@@ -11331,6 +11331,482 @@
       "sources": [
         "rising:games"
       ]
+    },
+    "duke vs washington state": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "duke-vs-washington-state",
+      "confidence": 0.97,
+      "reason": "College basketball matchup, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "wsu basketball": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "wsu-basketball",
+      "confidence": 0.97,
+      "reason": "College basketball team/sport, not a video game",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "donnie gta 6": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "donnie-gta-6",
+      "confidence": 0.95,
+      "reason": "GTA 6 character chatter; huge AAA franchise media owns this",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "john wick": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "john-wick",
+      "confidence": 0.8,
+      "reason": "Film franchise/celebrity; only a prequel game announcement, not a released game",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "pac 12 championship game": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "pac-12-championship-game",
+      "confidence": 0.97,
+      "reason": "College football title game",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "brandin cooks": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "brandin-cooks",
+      "confidence": 0.98,
+      "reason": "NFL athlete",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "heisman odds": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "heisman-odds",
+      "confidence": 0.98,
+      "reason": "Sports betting topic",
+      "traffic": "20000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "wild hockey": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "wild-hockey",
+      "confidence": 0.97,
+      "reason": "Minnesota Wild NHL team",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "stevie wonder": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "stevie-wonder",
+      "confidence": 0.98,
+      "reason": "Musician",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "big 12 championship game": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "big-12-championship-game",
+      "confidence": 0.97,
+      "reason": "College football title game",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "uae vs nep": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "uae-vs-nep",
+      "confidence": 0.96,
+      "reason": "Cricket match",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB",
+        "daily:CA"
+      ]
+    },
+    "poland russian missiles": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "poland-russian-missiles",
+      "confidence": 0.99,
+      "reason": "Geopolitical news",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "lewis hamilton": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "lewis-hamilton",
+      "confidence": 0.98,
+      "reason": "F1 driver",
+      "traffic": "1000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "f1 schedule": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "f1-schedule",
+      "confidence": 0.97,
+      "reason": "Motorsport schedule",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB",
+        "daily:CA"
+      ]
+    },
+    "strictly come dancing week 9 results": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "strictly-come-dancing-week-9-results",
+      "confidence": 0.98,
+      "reason": "TV show",
+      "traffic": "20000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "hospital": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "hospital",
+      "confidence": 0.95,
+      "reason": "Generic health news term",
+      "traffic": "2000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "saskatoon police service": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "saskatoon-police-service",
+      "confidence": 0.98,
+      "reason": "Local police news",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "michael kors": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "michael-kors",
+      "confidence": 0.98,
+      "reason": "Fashion brand/deals",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "canucks": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "canucks",
+      "confidence": 0.97,
+      "reason": "NHL team",
+      "traffic": "2000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "canucks game tonight": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "canucks-game-tonight",
+      "confidence": 0.97,
+      "reason": "NHL game schedule",
+      "traffic": "500+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "glp-1 chronic weight management risks": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "glp-1-chronic-weight-management-risks",
+      "confidence": 0.99,
+      "reason": "Health topic",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "nrl kick contest rule proposal": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "nrl-kick-contest-rule-proposal",
+      "confidence": 0.95,
+      "reason": "Rugby league rule news",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "jamarra ugle-hagan": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "jamarra-ugle-hagan",
+      "confidence": 0.97,
+      "reason": "AFL player",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "flinders island": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "flinders-island",
+      "confidence": 0.98,
+      "reason": "Crime news location",
+      "traffic": "1000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "market": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "market",
+      "confidence": 0.95,
+      "reason": "Generic finance term",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "jake gyllenhaal": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "jake-gyllenhaal",
+      "confidence": 0.98,
+      "reason": "Actor/TV",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "bullets vs kings": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "bullets-vs-kings",
+      "confidence": 0.95,
+      "reason": "NBL basketball match",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "russian missiles poland": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "russian-missiles-poland",
+      "confidence": 0.99,
+      "reason": "Geopolitical news",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "inflation": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "inflation",
+      "confidence": 0.97,
+      "reason": "Generic economic term",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "squillion": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "squillion",
+      "confidence": 0.4,
+      "reason": "Unclear viral term; no evidence of a specific game",
+      "traffic": "+4100%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "best xbox game deals 2026": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "best-xbox-game-deals-2026",
+      "confidence": 0.95,
+      "reason": "Generic shopping/deals phrase",
+      "traffic": "+3800%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "game gta6": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "game-gta6",
+      "confidence": 0.97,
+      "reason": "GTA 6 is a huge AAA franchise owned by big media",
+      "traffic": "+600%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "ou game": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "ou-game",
+      "confidence": 0.85,
+      "reason": "Ambiguous, likely Oklahoma football game",
+      "traffic": "+250%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "the game awards": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "the-game-awards",
+      "confidence": 0.97,
+      "reason": "Awards event, not a game",
+      "traffic": "+250%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "new playstation game": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "new-playstation-game",
+      "confidence": 0.95,
+      "reason": "Generic phrase",
+      "traffic": "+60%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "overflow codes roblox": {
+      "status": "abandoned",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "Overflow",
+      "slug": "overflow-roblox",
+      "confidence": 0.72,
+      "reason": "已经火了 75 天，超过 30 天",
+      "traffic": "+800%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 75,
+      "age_measured": true
+    },
+    "gta 6 roblox": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "gta-6-roblox",
+      "confidence": 0.7,
+      "reason": "Ambiguous GTA/Roblox mashup term, tied to AAA franchise",
+      "traffic": "+450%",
+      "sources": [
+        "rising:roblox"
+      ]
+    },
+    "baseball bros": {
+      "status": "abandoned",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "Baseball Bros",
+      "slug": "baseball-bros",
+      "confidence": 0.62,
+      "reason": "已经火了 90 天，超过 30 天",
+      "traffic": "+110%",
+      "sources": [
+        "rising:io games"
+      ],
+      "news": [],
+      "age_days": 90,
+      "age_measured": true
+    },
+    "bloxity": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T06:46:31+00:00",
+      "game_name": "",
+      "slug": "bloxity",
+      "confidence": 0.45,
+      "reason": "Unclear whether a specific game or a site",
+      "traffic": "+50%",
+      "sources": [
+        "rising:io games"
+      ]
     }
   },
   "domains": {
