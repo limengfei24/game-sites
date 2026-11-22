@@ -11807,6 +11807,464 @@
       "sources": [
         "rising:io games"
       ]
+    },
+    "glenn schumann": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "glenn-schumann",
+      "confidence": 0.99,
+      "reason": "Sports coach news, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "cleveland browns schedule": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "cleveland-browns-schedule",
+      "confidence": 0.99,
+      "reason": "NFL team schedule, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "liga inglesa": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "liga-inglesa",
+      "confidence": 0.99,
+      "reason": "Football league term, not a specific game",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "scott bessent": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "scott-bessent",
+      "confidence": 0.99,
+      "reason": "Political/finance news figure",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "liverpool vs man utd": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "liverpool-vs-man-utd",
+      "confidence": 0.99,
+      "reason": "Football match, not a video game",
+      "traffic": "20000+",
+      "sources": [
+        "daily:US",
+        "daily:CA",
+        "daily:AU"
+      ]
+    },
+    "delta flights": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "delta-flights",
+      "confidence": 0.99,
+      "reason": "Airline travel news",
+      "traffic": "5000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "trabzonspor vs eyüpspor": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "trabzonspor-vs-eyupspor",
+      "confidence": 0.99,
+      "reason": "Football match, not a video game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "walmart black friday": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "walmart-black-friday",
+      "confidence": 0.99,
+      "reason": "Retail shopping event",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "sen john kennedy": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "sen-john-kennedy",
+      "confidence": 0.99,
+      "reason": "Political figure",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "thanksgiving": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "thanksgiving",
+      "confidence": 0.99,
+      "reason": "Holiday/generic topic",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "gian van veen": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "gian-van-veen",
+      "confidence": 0.99,
+      "reason": "Darts player, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "when is the next full moon": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "when-is-the-next-full-moon",
+      "confidence": 0.99,
+      "reason": "Astronomy query",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "next full moon": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "next-full-moon",
+      "confidence": 0.99,
+      "reason": "Astronomy query",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "brighton manager": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "brighton-manager",
+      "confidence": 0.99,
+      "reason": "Football team staff news",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "fighter aircraft": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "fighter-aircraft",
+      "confidence": 0.99,
+      "reason": "Generic military aviation topic",
+      "traffic": "2000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "sutton park": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "sutton-park",
+      "confidence": 0.99,
+      "reason": "Local park/police search news",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "falmouth flooding": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "falmouth-flooding",
+      "confidence": 0.99,
+      "reason": "Weather/flooding news",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "uta arad - universitatea craiova": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "uta-arad-universitatea-craiova",
+      "confidence": 0.99,
+      "reason": "Football match, not a video game",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "bruno guimaraes newcastle return boos": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "bruno-guimaraes-newcastle-return-boos",
+      "confidence": 0.99,
+      "reason": "Football player news",
+      "traffic": "1000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "hull city": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "hull-city",
+      "confidence": 0.99,
+      "reason": "Football club, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "jacob roberts": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "jacob-roberts",
+      "confidence": 0.99,
+      "reason": "Actor/celebrity news",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "grand slam of curling schedule today": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "grand-slam-of-curling-schedule-today",
+      "confidence": 0.99,
+      "reason": "Curling sports schedule",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "racing santander vs real sociedad": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "racing-santander-vs-real-sociedad",
+      "confidence": 0.99,
+      "reason": "Football match, not a video game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "russian corvette merkury": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "russian-corvette-merkury",
+      "confidence": 0.99,
+      "reason": "Military/naval news",
+      "traffic": "500+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "fc barcelona vs villarreal cf standings": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "fc-barcelona-vs-villarreal-cf-standings",
+      "confidence": 0.99,
+      "reason": "Football match/standings",
+      "traffic": "5000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "classement fc barcelone – villarreal": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "classement-fc-barcelone-villarreal",
+      "confidence": 0.99,
+      "reason": "Football standings query",
+      "traffic": "1000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "liam hemsworth": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "liam-hemsworth",
+      "confidence": 0.99,
+      "reason": "Celebrity news",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "mère": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "mere",
+      "confidence": 0.99,
+      "reason": "Generic French word/news topic",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "stock market today": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "stock-market-today",
+      "confidence": 0.99,
+      "reason": "Finance news",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "marc marquez": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "marc-marquez",
+      "confidence": 0.99,
+      "reason": "MotoGP athlete",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "laura emerald pie recipe": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "laura-emerald-pie-recipe",
+      "confidence": 0.99,
+      "reason": "Recipe/food TV topic",
+      "traffic": "2000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "bein sports": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "bein-sports",
+      "confidence": 0.99,
+      "reason": "Sports broadcaster",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "hull vs brighton": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "hull-vs-brighton",
+      "confidence": 0.99,
+      "reason": "Football match, not a video game",
+      "traffic": "2000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "man city vs tottenham": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "man-city-vs-tottenham",
+      "confidence": 0.99,
+      "reason": "Football match, not a video game",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "barcelona vs villarreal": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "barcelona-vs-villarreal",
+      "confidence": 0.99,
+      "reason": "Football match, not a video game",
+      "traffic": "10000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "juventus": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "juventus",
+      "confidence": 0.99,
+      "reason": "Football club, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "xbox game pass removals november 30": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "xbox-game-pass-removals-november-30",
+      "confidence": 0.97,
+      "reason": "Generic Xbox service info, not one specific game",
+      "traffic": "+5150%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "sec title game scenarios": {
+      "status": "rejected",
+      "first_seen": "2026-11-22T16:16:51+00:00",
+      "game_name": "",
+      "slug": "sec-title-game-scenarios",
+      "confidence": 0.99,
+      "reason": "College football scenarios, not a video game",
+      "traffic": "+1150%",
+      "sources": [
+        "rising:game"
+      ]
     }
   },
   "domains": {
