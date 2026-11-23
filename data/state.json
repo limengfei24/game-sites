@@ -12745,6 +12745,568 @@
       "sources": [
         "rising:io games"
       ]
+    },
+    "sa vs ban": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "sa-vs-ban",
+      "confidence": 0.98,
+      "reason": "Cricket match, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:US",
+        "daily:GB",
+        "daily:AU"
+      ]
+    },
+    "paul walker": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "paul-walker",
+      "confidence": 0.97,
+      "reason": "Celebrity/GTA 6 news, not a game title",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "iowa": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "iowa",
+      "confidence": 0.99,
+      "reason": "Place/news event, not a game",
+      "traffic": "5000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "og anunoby": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "og-anunoby",
+      "confidence": 0.99,
+      "reason": "Athlete, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "elon musk net worth": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "elon-musk-net-worth",
+      "confidence": 0.99,
+      "reason": "Public figure/finance query",
+      "traffic": "100+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "la noire": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "la-noire",
+      "confidence": 0.85,
+      "reason": "Rockstar/AAA franchise news, not a small new game",
+      "traffic": "100+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "spacex": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "spacex",
+      "confidence": 0.99,
+      "reason": "Company, not a game",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US",
+        "daily:CA",
+        "daily:AU"
+      ]
+    },
+    "ben wang": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "ben-wang",
+      "confidence": 0.98,
+      "reason": "Person/box office news, not a game",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "enrique peña nieto": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "enrique-pena-nieto",
+      "confidence": 0.99,
+      "reason": "Politician, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "ign gta 6 map": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "ign-gta-6-map",
+      "confidence": 0.98,
+      "reason": "GTA 6/AAA news, not rankable small game",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "hotel chocolat salmonella product recall": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "hotel-chocolat-salmonella-product-recall",
+      "confidence": 0.99,
+      "reason": "Product recall news",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "film": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "film",
+      "confidence": 0.99,
+      "reason": "Generic entertainment term",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "chicago fire fc vs charlotte fc standings": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "chicago-fire-fc-vs-charlotte-fc-standings",
+      "confidence": 0.99,
+      "reason": "Soccer match/standings",
+      "traffic": "1000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "philippe clement": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "philippe-clement",
+      "confidence": 0.99,
+      "reason": "Sports coach/person",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "tyson fury vs anthony joshua": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "tyson-fury-vs-anthony-joshua",
+      "confidence": 0.99,
+      "reason": "Boxing match",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "jaden smith": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "jaden-smith",
+      "confidence": 0.99,
+      "reason": "Celebrity",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "robert f. kennedy jr.": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "robert-f-kennedy-jr",
+      "confidence": 0.99,
+      "reason": "Public figure/politics",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "grand theft auto": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "grand-theft-auto",
+      "confidence": 0.99,
+      "reason": "Huge AAA franchise, not small new game",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "england national rugby union team": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "england-national-rugby-union-team",
+      "confidence": 0.99,
+      "reason": "Sports team",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "new zealand vs india": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "new-zealand-vs-india",
+      "confidence": 0.99,
+      "reason": "Cricket match",
+      "traffic": "2000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "william nylander auston matthews future": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "william-nylander-auston-matthews-future",
+      "confidence": 0.99,
+      "reason": "NHL players/trade news",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "keenan allen": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "keenan-allen",
+      "confidence": 0.99,
+      "reason": "NFL player",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "josephine movie": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "josephine-movie",
+      "confidence": 0.99,
+      "reason": "Movie, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "gsw": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "gsw",
+      "confidence": 0.98,
+      "reason": "Golden State Warriors/sports",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "deebo samuel": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "deebo-samuel",
+      "confidence": 0.99,
+      "reason": "NFL player",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "patrick kane": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "patrick-kane",
+      "confidence": 0.99,
+      "reason": "NHL player",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "vancouver vs salt lake": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "vancouver-vs-salt-lake",
+      "confidence": 0.9,
+      "reason": "Likely sports matchup, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "jimmy snuggerud": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "jimmy-snuggerud",
+      "confidence": 0.99,
+      "reason": "Hockey player",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "ian smith": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "ian-smith",
+      "confidence": 0.97,
+      "reason": "Actor/soap news, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "delta goodrem": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "delta-goodrem",
+      "confidence": 0.99,
+      "reason": "Celebrity/TV news",
+      "traffic": "1000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "emergency": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "emergency",
+      "confidence": 0.99,
+      "reason": "Generic/emergency services news",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "david reynolds": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "david-reynolds",
+      "confidence": 0.98,
+      "reason": "Motorsport person, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "hong kong vs afghanistan a": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "hong-kong-vs-afghanistan-a",
+      "confidence": 0.99,
+      "reason": "Cricket match",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "australia women's national football team": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "australia-women-s-national-football-team",
+      "confidence": 0.99,
+      "reason": "Sports team",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "lendlease": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "lendlease",
+      "confidence": 0.99,
+      "reason": "Company/finance news",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "ball tampering": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "ball-tampering",
+      "confidence": 0.98,
+      "reason": "Cricket controversy, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "xbox game pass november additions": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "xbox-game-pass-november-additions",
+      "confidence": 0.95,
+      "reason": "Generic subscription additions query, not one game",
+      "traffic": "+4450%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "game company behind sonic the hedgehog": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "game-company-behind-sonic-the-hedgehog",
+      "confidence": 0.95,
+      "reason": "Company trivia query, not a game title",
+      "traffic": "+2500%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "would you survive the hunger games": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "would-you-survive-the-hunger-games",
+      "confidence": 0.75,
+      "reason": "Unclear quiz/movie-franchise phrase, not a confirmed game",
+      "traffic": "+7550%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "xbox game pass new additions": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "xbox-game-pass-new-additions",
+      "confidence": 0.95,
+      "reason": "Generic subscription additions query, not one game",
+      "traffic": "+5250%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "hunger game": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "hunger-game",
+      "confidence": 0.9,
+      "reason": "Ambiguous; likely refers to The Hunger Games franchise, not a specific new game.",
+      "traffic": "+170%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "roblox overflow codes": {
+      "status": "abandoned",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "Overflow",
+      "slug": "overflow",
+      "confidence": 0.85,
+      "reason": "已经火了 65 天，超过 30 天",
+      "traffic": "+2000%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 65,
+      "age_measured": true
+    },
+    "overflow codes": {
+      "status": "abandoned",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "Overflow",
+      "slug": "overflow",
+      "confidence": 0.8,
+      "reason": "已经火了 92 天，超过 30 天",
+      "traffic": "+1900%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 92,
+      "age_measured": true
+    },
+    "gta 6 in roblox": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "gta-6-in-roblox",
+      "confidence": 0.95,
+      "reason": "References huge AAA franchise GTA 6, not a small specific new game.",
+      "traffic": "+950%",
+      "sources": [
+        "rising:roblox"
+      ]
+    },
+    "gta6 roblox": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "gta6-roblox",
+      "confidence": 0.95,
+      "reason": "GTA 6-related search; big franchise term, rejected.",
+      "traffic": "+900%",
+      "sources": [
+        "rising:roblox"
+      ]
+    },
+    "gta 6 on steam deck": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T07:36:04+00:00",
+      "game_name": "",
+      "slug": "gta-6-on-steam-deck",
+      "confidence": 0.97,
+      "reason": "Hardware/AAA query, not a specific new game.",
+      "traffic": "+300%",
+      "sources": [
+        "rising:steam"
+      ]
     }
   },
   "domains": {
