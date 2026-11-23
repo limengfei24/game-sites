@@ -13307,6 +13307,489 @@
       "sources": [
         "rising:steam"
       ]
+    },
+    "thanksgiving storms travel forecast": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "thanksgiving-storms-travel-forecast",
+      "confidence": 0.98,
+      "reason": "Weather forecast, not a game",
+      "traffic": "20000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "oregon state basketball": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "oregon-state-basketball",
+      "confidence": 0.98,
+      "reason": "College basketball team, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "voyeurism charges": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "voyeurism-charges",
+      "confidence": 0.98,
+      "reason": "Crime news, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "fire country": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "fire-country",
+      "confidence": 0.98,
+      "reason": "TV series, not a game",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "marco penge": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "marco-penge",
+      "confidence": 0.95,
+      "reason": "Golf-related person, not a game",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US",
+        "daily:GB"
+      ]
+    },
+    "terrance ferguson": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "terrance-ferguson",
+      "confidence": 0.98,
+      "reason": "NFL player, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "tulsa vs oregon state": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "tulsa-vs-oregon-state",
+      "confidence": 0.98,
+      "reason": "Sports matchup, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "coastal flood watch": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "coastal-flood-watch",
+      "confidence": 0.98,
+      "reason": "Weather alert, not a game",
+      "traffic": "10000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "ole miss basketball": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "ole-miss-basketball",
+      "confidence": 0.98,
+      "reason": "College basketball team, not a game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "brandon aiyuk": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "brandon-aiyuk",
+      "confidence": 0.98,
+      "reason": "NFL player, not a game",
+      "traffic": "200000+",
+      "sources": [
+        "daily:US",
+        "daily:CA"
+      ]
+    },
+    "parastoo ahmadi": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "parastoo-ahmadi",
+      "confidence": 0.98,
+      "reason": "News about singer, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB",
+        "daily:CA"
+      ]
+    },
+    "david moyes": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "david-moyes",
+      "confidence": 0.98,
+      "reason": "Football manager, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "levante vs elche": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "levante-vs-elche",
+      "confidence": 0.98,
+      "reason": "Football match, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "kate middleton": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "kate-middleton",
+      "confidence": 0.98,
+      "reason": "Celebrity/royal news, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "avian influenza": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "avian-influenza",
+      "confidence": 0.98,
+      "reason": "Health news, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "lacey turner": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "lacey-turner",
+      "confidence": 0.98,
+      "reason": "Celebrity/TV news, not a game",
+      "traffic": "2000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "liam gallagher": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "liam-gallagher",
+      "confidence": 0.98,
+      "reason": "Musician, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "idris elba": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "idris-elba",
+      "confidence": 0.98,
+      "reason": "Celebrity, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "brentford vs everton": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "brentford-vs-everton",
+      "confidence": 0.98,
+      "reason": "Football match, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:CA",
+        "daily:AU"
+      ]
+    },
+    "charlie cox": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "charlie-cox",
+      "confidence": 0.98,
+      "reason": "Actor, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "al ahly vs pyramids": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "al-ahly-vs-pyramids",
+      "confidence": 0.98,
+      "reason": "Football match, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "nuclear weapon": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "nuclear-weapon",
+      "confidence": 0.98,
+      "reason": "News topic, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "cole reinhardt": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "cole-reinhardt",
+      "confidence": 0.98,
+      "reason": "Hockey player, not a game",
+      "traffic": "2000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "gabriel iglesias": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "gabriel-iglesias",
+      "confidence": 0.98,
+      "reason": "Comedian, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "nigeria": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "nigeria",
+      "confidence": 0.98,
+      "reason": "Country/news topic, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "qantas boeing 787": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "qantas-boeing-787",
+      "confidence": 0.98,
+      "reason": "Airline news, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "iran": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "iran",
+      "confidence": 0.98,
+      "reason": "Country/news topic, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "warner bros": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "warner-bros",
+      "confidence": 0.98,
+      "reason": "Media company, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "cyberleek": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "cyberleek",
+      "confidence": 0.98,
+      "reason": "Leaker/news figure, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "s&p 500": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "s-p-500",
+      "confidence": 0.98,
+      "reason": "Stock index, not a game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "黄仁勋": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "",
+      "confidence": 0.98,
+      "reason": "Jensen Huang, person, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "nasdaq index": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "nasdaq-index",
+      "confidence": 0.98,
+      "reason": "Stock index, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "first gta game": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "first-gta-game",
+      "confidence": 0.95,
+      "reason": "GTA is a huge AAA franchise, reject",
+      "traffic": "+300%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "robucks for roblox": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "robucks-for-roblox",
+      "confidence": 0.9,
+      "reason": "Roblox currency/generic evergreen, not a new game",
+      "traffic": "+70%",
+      "sources": [
+        "rising:roblox"
+      ]
+    },
+    "forgotten playland steam server shutdown": {
+      "status": "live",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "Forgotten Playland",
+      "slug": "forgotten-playland",
+      "confidence": 0.75,
+      "reason": "Specific small Steam game shutdown spike",
+      "traffic": "+6100%",
+      "sources": [
+        "rising:steam"
+      ],
+      "news": [],
+      "age_days": 0,
+      "age_measured": true,
+      "competitors": {
+        "pages": 3,
+        "dedicated": 0,
+        "oldest_days": 5
+      },
+      "built_at": "2026-11-23T20:15:25+00:00",
+      "url": "https://forgotten-playland.many.pw/",
+      "live_at": "2026-11-23T20:15:25+00:00"
+    },
+    "cardgames io": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "cardgames-io",
+      "confidence": 0.9,
+      "reason": "Web card-game portal, not one new game",
+      "traffic": "+200%",
+      "sources": [
+        "rising:io games"
+      ]
+    },
+    "farflung": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "Farflung",
+      "slug": "farflung",
+      "confidence": 0.55,
+      "reason": "Likely specific indie game title trending",
+      "traffic": "+200%",
+      "sources": [
+        "rising:io games"
+      ]
+    },
+    "racing games": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "racing-games",
+      "confidence": 0.95,
+      "reason": "Generic genre phrase, not a specific game",
+      "traffic": "+50%",
+      "sources": [
+        "rising:io games"
+      ]
+    },
+    "snake game google": {
+      "status": "rejected",
+      "first_seen": "2026-11-23T20:13:44+00:00",
+      "game_name": "",
+      "slug": "snake-game-google",
+      "confidence": 0.9,
+      "reason": "Evergreen Google browser game, not newly viral",
+      "traffic": "+50%",
+      "sources": [
+        "rising:io games"
+      ]
     }
   },
   "domains": {
