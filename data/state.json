@@ -14310,6 +14310,522 @@
       "sources": [
         "rising:steam"
       ]
+    },
+    "man city vs napoli": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "man-city-vs-napoli",
+      "confidence": 0.99,
+      "reason": "Sports match",
+      "traffic": "5000+",
+      "sources": [
+        "daily:US",
+        "daily:CA"
+      ]
+    },
+    "como vs aek": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "como-vs-aek",
+      "confidence": 0.99,
+      "reason": "Sports match",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US",
+        "daily:GB"
+      ]
+    },
+    "manchester city - napoli": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "manchester-city-napoli",
+      "confidence": 0.99,
+      "reason": "Sports match",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "slovan bratislava vs betis": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "slovan-bratislava-vs-betis",
+      "confidence": 0.99,
+      "reason": "Sports match",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "feyenoord vs porto": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "feyenoord-vs-porto",
+      "confidence": 0.99,
+      "reason": "Sports match",
+      "traffic": "200+",
+      "sources": [
+        "daily:US",
+        "daily:GB"
+      ]
+    },
+    "fotmob": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "fotmob",
+      "confidence": 0.95,
+      "reason": "Sports app, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "lawsuit": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "lawsuit",
+      "confidence": 0.99,
+      "reason": "Generic news term",
+      "traffic": "5000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "portsmouth vs west ham": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "portsmouth-vs-west-ham",
+      "confidence": 0.99,
+      "reason": "Sports match",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "grand theft auto gta vi": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "grand-theft-auto-gta-vi",
+      "confidence": 0.99,
+      "reason": "Huge AAA franchise news",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "wolves vs derby county": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "wolves-vs-derby-county",
+      "confidence": 0.99,
+      "reason": "Sports match",
+      "traffic": "2000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "rangers vs aberdeen": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "rangers-vs-aberdeen",
+      "confidence": 0.99,
+      "reason": "Sports match",
+      "traffic": "1000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "nocturne": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "nocturne",
+      "confidence": 0.95,
+      "reason": "TV show, not game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "nocturne apple tv": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "nocturne-apple-tv",
+      "confidence": 0.99,
+      "reason": "TV show",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "data breach": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "data-breach",
+      "confidence": 0.99,
+      "reason": "Generic news term",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "ethan nwaneri": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "ethan-nwaneri",
+      "confidence": 0.99,
+      "reason": "Athlete",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "real madrid vs psv": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "real-madrid-vs-psv",
+      "confidence": 0.99,
+      "reason": "Sports match",
+      "traffic": "2000+",
+      "sources": [
+        "daily:GB",
+        "daily:CA",
+        "daily:AU"
+      ]
+    },
+    "stephen graham": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "stephen-graham",
+      "confidence": 0.99,
+      "reason": "Celebrity/actor",
+      "traffic": "2000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "manchester city – naples": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "manchester-city-naples",
+      "confidence": 0.99,
+      "reason": "Sports match",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "bristol city vs wrexham": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "bristol-city-vs-wrexham",
+      "confidence": 0.99,
+      "reason": "Sports match",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA",
+        "daily:AU"
+      ]
+    },
+    "simon edvinsson": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "simon-edvinsson",
+      "confidence": 0.99,
+      "reason": "Athlete",
+      "traffic": "500+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "trinity rodman": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "trinity-rodman",
+      "confidence": 0.99,
+      "reason": "Athlete/celebrity",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "bodo glimt": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "bodo-glimt",
+      "confidence": 0.99,
+      "reason": "Sports team",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "mariah carey": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "mariah-carey",
+      "confidence": 0.99,
+      "reason": "Celebrity",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "titus welliver": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "titus-welliver",
+      "confidence": 0.99,
+      "reason": "Celebrity/actor",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "blood sugar": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "blood-sugar",
+      "confidence": 0.99,
+      "reason": "Health topic",
+      "traffic": "1000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "arsenal vs dortmund": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "arsenal-vs-dortmund",
+      "confidence": 0.99,
+      "reason": "Sports match",
+      "traffic": "2000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "nasdaq 100": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "nasdaq-100",
+      "confidence": 0.99,
+      "reason": "Finance term",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "jamal fogarty": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "jamal-fogarty",
+      "confidence": 0.99,
+      "reason": "Athlete",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "spacex share price": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "spacex-share-price",
+      "confidence": 0.99,
+      "reason": "Finance term",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "al nassr": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "al-nassr",
+      "confidence": 0.99,
+      "reason": "Sports team",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "al-nassr vs al sadd": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "al-nassr-vs-al-sadd",
+      "confidence": 0.99,
+      "reason": "Sports match",
+      "traffic": "1000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "squillion game": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "squillion-game",
+      "confidence": 0.8,
+      "reason": "Manga/anime term, not a video game",
+      "traffic": "+8000%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "is gta 6 on xbox game pass": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "is-gta-6-on-xbox-game-pass",
+      "confidence": 0.99,
+      "reason": "Huge AAA franchise query",
+      "traffic": "+350%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "how to refund a game on xbox": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "how-to-refund-a-game-on-xbox",
+      "confidence": 0.99,
+      "reason": "Generic platform help",
+      "traffic": "+180%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "bears game": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "bears-game",
+      "confidence": 0.95,
+      "reason": "Generic/sports term",
+      "traffic": "+100%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "hungrr games": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "hungrr-games",
+      "confidence": 0.7,
+      "reason": "Unsure; no clear specific game",
+      "traffic": "+180%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "hunger games characters": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "hunger-games-characters",
+      "confidence": 0.99,
+      "reason": "Movie/book franchise",
+      "traffic": "+170%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "will gta 6 have new game plus": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "will-gta-6-have-new-game-plus",
+      "confidence": 0.99,
+      "reason": "Huge AAA franchise query",
+      "traffic": "+500%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "saints row new game": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "saints-row-new-game",
+      "confidence": 0.95,
+      "reason": "Franchise rumor/news, not a specific new release",
+      "traffic": "+100%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "new zelda game 2026": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "",
+      "slug": "new-zelda-game-2026",
+      "confidence": 0.99,
+      "reason": "Huge AAA franchise query",
+      "traffic": "+50%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "overflow roblox codes": {
+      "status": "abandoned",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "Overflow",
+      "slug": "overflow-roblox",
+      "confidence": 0.82,
+      "reason": "已经火了 75 天，超过 30 天",
+      "traffic": "+3400%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 75,
+      "age_measured": true
+    },
+    "retro bowl": {
+      "status": "abandoned",
+      "first_seen": "2026-11-24T19:30:48+00:00",
+      "game_name": "Retro Bowl",
+      "slug": "retro-bowl",
+      "confidence": 0.95,
+      "reason": "已经火了 91 天，超过 30 天",
+      "traffic": "+110%",
+      "sources": [
+        "rising:io games"
+      ],
+      "news": [],
+      "age_days": 91,
+      "age_measured": true
     }
   },
   "domains": {
