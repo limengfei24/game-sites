@@ -13791,6 +13791,525 @@
       "sources": [
         "rising:io games"
       ]
+    },
+    "scott van pelt": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "scott-van-pelt",
+      "confidence": 0.99,
+      "reason": "ESPN personality, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "nfc east standings": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "nfc-east-standings",
+      "confidence": 0.99,
+      "reason": "NFL standings, not a game",
+      "traffic": "5000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "afc north standings": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "afc-north-standings",
+      "confidence": 0.99,
+      "reason": "NFL standings, not a game",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "afc north": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "afc-north",
+      "confidence": 0.99,
+      "reason": "NFL division, not a game",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "russian nuclear weapons": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "russian-nuclear-weapons",
+      "confidence": 0.99,
+      "reason": "news/geopolitics, not a game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "nfl mvp odds": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "nfl-mvp-odds",
+      "confidence": 0.99,
+      "reason": "sports betting topic, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "colorado state basketball": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "colorado-state-basketball",
+      "confidence": 0.99,
+      "reason": "college basketball, not a video game",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "unlv basketball": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "unlv-basketball",
+      "confidence": 0.99,
+      "reason": "college basketball, not a video game",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "steve eisman": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "steve-eisman",
+      "confidence": 0.99,
+      "reason": "investor/celebrity, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "netflix": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "netflix",
+      "confidence": 0.99,
+      "reason": "streaming service, generic",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "prince harry, duke of sussex": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "prince-harry-duke-of-sussex",
+      "confidence": 0.99,
+      "reason": "celebrity/royal, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "kings vs spurs": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "kings-vs-spurs",
+      "confidence": 0.99,
+      "reason": "NBA matchup, not a video game",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "jehovah's witnesses": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "jehovah-s-witnesses",
+      "confidence": 0.99,
+      "reason": "religious/news topic, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "movie times": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "movie-times",
+      "confidence": 0.99,
+      "reason": "generic movie showtimes",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "champions league": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "champions-league",
+      "confidence": 0.99,
+      "reason": "soccer competition, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "lakers vs jazz": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "lakers-vs-jazz",
+      "confidence": 0.99,
+      "reason": "NBA matchup, not a video game",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "royal mail": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "royal-mail",
+      "confidence": 0.99,
+      "reason": "postal service, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "cyberpunk 2": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "cyberpunk-2",
+      "confidence": 0.9,
+      "reason": "huge AAA franchise news; big media owns it",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "oil refinery": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "oil-refinery",
+      "confidence": 0.99,
+      "reason": "news/industry topic, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "antonio williams": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "antonio-williams",
+      "confidence": 0.99,
+      "reason": "NFL player, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "traffic stop": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "traffic-stop",
+      "confidence": 0.99,
+      "reason": "generic/news phrase",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "tony stampley": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "tony-stampley",
+      "confidence": 0.99,
+      "reason": "country singer, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "james marsden": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "james-marsden",
+      "confidence": 0.99,
+      "reason": "actor, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "thanksgiving weather": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "thanksgiving-weather",
+      "confidence": 0.99,
+      "reason": "weather/news topic",
+      "traffic": "500+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "stefon diggs": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "stefon-diggs",
+      "confidence": 0.99,
+      "reason": "NFL player, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "cliff booth": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "cliff-booth",
+      "confidence": 0.99,
+      "reason": "movie character/film news, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "canadian dollar": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "canadian-dollar",
+      "confidence": 0.99,
+      "reason": "currency/finance, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "latrell mitchell": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "latrell-mitchell",
+      "confidence": 0.99,
+      "reason": "rugby league player, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "anthony koletti": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "anthony-koletti",
+      "confidence": 0.99,
+      "reason": "news/legal topic, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "russia ukraine war": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "russia-ukraine-war",
+      "confidence": 0.99,
+      "reason": "war/news topic",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "peter warren automotive": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "peter-warren-automotive",
+      "confidence": 0.99,
+      "reason": "car dealer/business news",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "colbie young": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "colbie-young",
+      "confidence": 0.99,
+      "reason": "NFL player, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "st. louis vs lafc": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "st-louis-vs-lafc",
+      "confidence": 0.99,
+      "reason": "soccer match, not a video game",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "black friday airline ticket sales": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "black-friday-airline-ticket-sales",
+      "confidence": 0.99,
+      "reason": "travel sale, not a game",
+      "traffic": "1000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "mining": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "mining",
+      "confidence": 0.99,
+      "reason": "generic industry topic",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "levi ashcroft": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "levi-ashcroft",
+      "confidence": 0.99,
+      "reason": "sports figure, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "earthquakes today": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "earthquakes-today",
+      "confidence": 0.99,
+      "reason": "earthquake news, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "runescape late game patch notes": {
+      "status": "abandoned",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "RuneScape",
+      "slug": "runescape",
+      "confidence": 0.78,
+      "reason": "已经火了 75 天，超过 30 天",
+      "traffic": "+2250%",
+      "sources": [
+        "rising:game"
+      ],
+      "news": [],
+      "age_days": 75,
+      "age_measured": true
+    },
+    "role-playing video game": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "role-playing-video-game",
+      "confidence": 0.98,
+      "reason": "generic genre phrase",
+      "traffic": "+250%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "hunger games movies": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "hunger-games-movies",
+      "confidence": 0.99,
+      "reason": "movie franchise, not a video game",
+      "traffic": "+170%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "hunger games 1": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "hunger-games-1",
+      "confidence": 0.98,
+      "reason": "Movie/book franchise, not a video game.",
+      "traffic": "+170%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "new game gta 6": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "new-game-gta-6",
+      "confidence": 0.97,
+      "reason": "Huge AAA franchise search; excluded per criteria.",
+      "traffic": "+300%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "fx steam launcher": {
+      "status": "rejected",
+      "first_seen": "2026-11-24T04:48:48+00:00",
+      "game_name": "",
+      "slug": "fx-steam-launcher",
+      "confidence": 0.9,
+      "reason": "Software/launcher-related search, not a specific game.",
+      "traffic": "+300%",
+      "sources": [
+        "rising:steam"
+      ]
     }
   },
   "domains": {
