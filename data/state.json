@@ -14826,6 +14826,603 @@
       "news": [],
       "age_days": 91,
       "age_measured": true
+    },
+    "zendaya": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "zendaya",
+      "confidence": 0.99,
+      "reason": "Celebrity/Dune news, not a game.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "caleb martin": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "caleb-martin",
+      "confidence": 0.99,
+      "reason": "NBA player news, not a game.",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "andrew tate": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "andrew-tate",
+      "confidence": 0.99,
+      "reason": "Celebrity/legal news, not a game.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "shaq": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "shaq",
+      "confidence": 0.99,
+      "reason": "Sports celebrity news, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "tom holland": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "tom-holland",
+      "confidence": 0.99,
+      "reason": "Actor/Spider-Man movie news, not a game.",
+      "traffic": "5000+",
+      "sources": [
+        "daily:US",
+        "daily:CA"
+      ]
+    },
+    "alabama basketball": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "alabama-basketball",
+      "confidence": 0.99,
+      "reason": "College basketball, not a video game.",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "john o'hurley": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "john-o-hurley",
+      "confidence": 0.99,
+      "reason": "Celebrity news, not a game.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "chock and bates": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "chock-and-bates",
+      "confidence": 0.99,
+      "reason": "Figure skaters/celebrity news, not a game.",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "what did jan say on dwts": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "what-did-jan-say-on-dwts",
+      "confidence": 0.99,
+      "reason": "Dancing with the Stars TV query, not a game.",
+      "traffic": "10000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "matt rife": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "matt-rife",
+      "confidence": 0.99,
+      "reason": "Comedian/actor news, not a game.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "stock market news": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "stock-market-news",
+      "confidence": 0.99,
+      "reason": "Generic finance news, not a game.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "pete edochie": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "pete-edochie",
+      "confidence": 0.99,
+      "reason": "Actor obituary/news, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "energy": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "energy",
+      "confidence": 0.99,
+      "reason": "Generic energy news, not a game.",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "miss universe 2026 winner": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "miss-universe-2026-winner",
+      "confidence": 0.99,
+      "reason": "Pageant event, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "wizards vs celtics": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "wizards-vs-celtics",
+      "confidence": 0.99,
+      "reason": "NBA matchup, not a video game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "critical incident royal derby hospital": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "critical-incident-royal-derby-hospital",
+      "confidence": 0.99,
+      "reason": "Hospital emergency news, not a game.",
+      "traffic": "10000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "cd projekt red": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "cd-projekt-red",
+      "confidence": 0.97,
+      "reason": "Game company/Witcher 4 news, not a specific new game title.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "kayley stead": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "kayley-stead",
+      "confidence": 0.99,
+      "reason": "Human-interest wedding news, not a game.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "red dead redemption": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "red-dead-redemption",
+      "confidence": 0.98,
+      "reason": "Huge AAA franchise/movie-rights news, not a small new game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "mila kunis": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "mila-kunis",
+      "confidence": 0.99,
+      "reason": "Celebrity news, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "lindsay arnold": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "lindsay-arnold",
+      "confidence": 0.99,
+      "reason": "DWTS/celebrity news, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "trae young": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "trae-young",
+      "confidence": 0.99,
+      "reason": "NBA player news, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "bea millan-windorski": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "bea-millan-windorski",
+      "confidence": 0.99,
+      "reason": "Miss Universe contestant, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "oilers game": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "oilers-game",
+      "confidence": 0.99,
+      "reason": "NHL game, not a video game.",
+      "traffic": "2000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "vancouver island coastal flooding": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "vancouver-island-coastal-flooding",
+      "confidence": 0.99,
+      "reason": "Weather/flooding news, not a game.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "anthony davis": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "anthony-davis",
+      "confidence": 0.99,
+      "reason": "NBA player news, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "what did jan say": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "what-did-jan-say",
+      "confidence": 0.99,
+      "reason": "DWTS TV query, not a game.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "mario kart world": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "mario-kart-world",
+      "confidence": 0.75,
+      "reason": "Huge Nintendo AAA franchise/update news; big gaming media dominate.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "kyshawn george": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "kyshawn-george",
+      "confidence": 0.99,
+      "reason": "NBA player news, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "wedding": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "wedding",
+      "confidence": 0.99,
+      "reason": "Generic celebrity wedding news, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "jayson tatum": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "jayson-tatum",
+      "confidence": 0.99,
+      "reason": "NBA player news, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "pensioner": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "pensioner",
+      "confidence": 0.99,
+      "reason": "Policy/news term, not a game.",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "michael clarke": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "michael-clarke",
+      "confidence": 0.99,
+      "reason": "Cricket/celebrity property news, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "sydney cbd gas leak": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "sydney-cbd-gas-leak",
+      "confidence": 0.99,
+      "reason": "Local news incident, not a game.",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "duck": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "duck",
+      "confidence": 0.99,
+      "reason": "Generic/political news term, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "nuggets vs mavericks": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "nuggets-vs-mavericks",
+      "confidence": 0.99,
+      "reason": "NBA matchup, not a video game.",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "dawn fraser": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "dawn-fraser",
+      "confidence": 0.99,
+      "reason": "Swimming legend news, not a game.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "oilers vs golden knights": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "oilers-vs-golden-knights",
+      "confidence": 0.99,
+      "reason": "NHL matchup, not a video game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "how to save game gta 6": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "how-to-save-game-gta-6",
+      "confidence": 0.99,
+      "reason": "GTA 6 is huge AAA; big gaming media own those searches.",
+      "traffic": "+15300%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "video game companies": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "video-game-companies",
+      "confidence": 0.99,
+      "reason": "Generic phrase, not a specific game.",
+      "traffic": "+350%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "middle word game": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "middle-word-game",
+      "confidence": 0.85,
+      "reason": "Generic word-game phrase, not a specific new/viral game title",
+      "traffic": "+300%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "video game company": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "video-game-company",
+      "confidence": 0.95,
+      "reason": "Generic phrase, not a specific game",
+      "traffic": "+300%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "boxbollen game": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "boxbollen-game",
+      "confidence": 0.9,
+      "reason": "Physical toy/ball game, not a video game",
+      "traffic": "+170%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "playstation plus timesplitters free games": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "playstation-plus-timesplitters-free-games",
+      "confidence": 0.85,
+      "reason": "PS Plus/free-games query around an old franchise, not a new specific game",
+      "traffic": "+2700%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "is there new game plus in gta 6": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "is-there-new-game-plus-in-gta-6",
+      "confidence": 0.95,
+      "reason": "Huge AAA GTA franchise news query",
+      "traffic": "+13150%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "new zelda game nintendo 2027": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "new-zelda-game-nintendo-2027",
+      "confidence": 0.95,
+      "reason": "Huge AAA Zelda franchise rumor/news query",
+      "traffic": "+1150%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "hunger game new movie": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "hunger-game-new-movie",
+      "confidence": 0.95,
+      "reason": "Movie query, not a video game",
+      "traffic": "+150%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "bloxng codes roblox": {
+      "status": "abandoned",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "BloxNG",
+      "slug": "bloxng",
+      "confidence": 0.78,
+      "reason": "谷歌前 10 已有 8 篇同游戏的攻略/资讯",
+      "traffic": "+1150%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 10,
+      "age_measured": true,
+      "competitors": {
+        "pages": 8,
+        "dedicated": 0,
+        "oldest_days": 3
+      }
+    },
+    "roblox gta6": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T03:33:22+00:00",
+      "game_name": "",
+      "slug": "roblox-gta6",
+      "confidence": 0.7,
+      "reason": "Tied to huge GTA franchise and ambiguous Roblox experience, not a clear single new game",
+      "traffic": "+800%",
+      "sources": [
+        "rising:roblox"
+      ]
     }
   },
   "domains": {
