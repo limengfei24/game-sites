@@ -15423,6 +15423,511 @@
       "sources": [
         "rising:roblox"
       ]
+    },
+    "is the stock market open today": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "is-the-stock-market-open-today",
+      "confidence": 0.99,
+      "reason": "Finance query, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "5 cent hershey bar": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "5-cent-hershey-bar",
+      "confidence": 0.99,
+      "reason": "Promotion/news, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "keltie knight": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "keltie-knight",
+      "confidence": 0.99,
+      "reason": "Personality, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "gdp": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "gdp",
+      "confidence": 0.99,
+      "reason": "Economic indicator",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "kids can": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "kids-can",
+      "confidence": 0.99,
+      "reason": "News about children's center",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "wizards of the coast lawsuit printmtg": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "wizards-of-the-coast-lawsuit-printmtg",
+      "confidence": 0.95,
+      "reason": "Lawsuit news, not a game release",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "pce report today": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "pce-report-today",
+      "confidence": 0.99,
+      "reason": "Economic report",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "pce data": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "pce-data",
+      "confidence": 0.99,
+      "reason": "Economic data",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "football today": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "football-today",
+      "confidence": 0.99,
+      "reason": "Sports query",
+      "traffic": "5000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "nfl game today": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "nfl-game-today",
+      "confidence": 0.99,
+      "reason": "Sports query",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "spotify wrapped 2026": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "spotify-wrapped-2026",
+      "confidence": 0.99,
+      "reason": "Music app feature",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "mattia gta vi": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "mattia-gta-vi",
+      "confidence": 0.99,
+      "reason": "Huge AAA franchise/GTA 6 query",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "kernow christmas market": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "kernow-christmas-market",
+      "confidence": 0.99,
+      "reason": "Event/news, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "raf": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "raf",
+      "confidence": 0.99,
+      "reason": "Military/news query",
+      "traffic": "1000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "forex factory": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "forex-factory",
+      "confidence": 0.99,
+      "reason": "Finance site",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "janet street porter": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "janet-street-porter",
+      "confidence": 0.99,
+      "reason": "Celebrity query",
+      "traffic": "1000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "world rugby england haka ruling": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "world-rugby-england-haka-ruling",
+      "confidence": 0.99,
+      "reason": "Rugby news",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "john stones": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "john-stones",
+      "confidence": 0.99,
+      "reason": "Athlete query",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "emam ashour": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "emam-ashour",
+      "confidence": 0.99,
+      "reason": "Athlete/transfer query",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "industrial accelerator act uk involvement": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "industrial-accelerator-act-uk-involvement",
+      "confidence": 0.99,
+      "reason": "Policy/news query",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "mega el niño": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "mega-el-nino",
+      "confidence": 0.99,
+      "reason": "Weather/news query",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "joshua kutryk": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "joshua-kutryk",
+      "confidence": 0.99,
+      "reason": "Person/news query",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "raheem sterling": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "raheem-sterling",
+      "confidence": 0.99,
+      "reason": "Athlete/news query",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA",
+        "daily:AU"
+      ]
+    },
+    "407 etr": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "407-etr",
+      "confidence": 0.99,
+      "reason": "Highway/tolls query",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "pce": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "pce",
+      "confidence": 0.99,
+      "reason": "Economic indicator",
+      "traffic": "500+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "lcbo retail theft police blitz": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "lcbo-retail-theft-police-blitz",
+      "confidence": 0.99,
+      "reason": "News query",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "security clearance": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "security-clearance",
+      "confidence": 0.99,
+      "reason": "Generic news query",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "pce report": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "pce-report",
+      "confidence": 0.99,
+      "reason": "Economic report",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "gene hackman": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "gene-hackman",
+      "confidence": 0.99,
+      "reason": "Celebrity news",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "british airways flight ba239": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "british-airways-flight-ba239",
+      "confidence": 0.99,
+      "reason": "Flight incident news",
+      "traffic": "2000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "dow jones futures": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "dow-jones-futures",
+      "confidence": 0.99,
+      "reason": "Finance query",
+      "traffic": "2000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "australia powerball jackpot $110 million": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "australia-powerball-jackpot-110-million",
+      "confidence": 0.99,
+      "reason": "Lottery query",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "leah blyth": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "leah-blyth",
+      "confidence": 0.99,
+      "reason": "Political/news query",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "bangladesh vs south africa": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "bangladesh-vs-south-africa",
+      "confidence": 0.99,
+      "reason": "Cricket match",
+      "traffic": "1000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "hasna cabral": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "hasna-cabral",
+      "confidence": 0.99,
+      "reason": "Person/news query",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "is it a full moon tonight": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "is-it-a-full-moon-tonight",
+      "confidence": 0.99,
+      "reason": "Astronomy query",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "the lowdown": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "the-lowdown",
+      "confidence": 0.95,
+      "reason": "TV show query",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "how to play umbrella game": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "Umbrella Game",
+      "slug": "umbrella-game",
+      "confidence": 0.55,
+      "reason": "Likely viral game-specific how-to query",
+      "traffic": "+1550%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "manhunt game": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "manhunt-game",
+      "confidence": 0.7,
+      "reason": "Generic/old game phrase, not a specific new viral title",
+      "traffic": "+110%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "does gta 6 have new game plus": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "does-gta-6-have-new-game-plus",
+      "confidence": 0.99,
+      "reason": "Huge AAA franchise/GTA 6 query",
+      "traffic": "+1050%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "gta 6 new game": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "gta-6-new-game",
+      "confidence": 0.95,
+      "reason": "Huge AAA franchise; big gaming media own GTA 6 searches",
+      "traffic": "+200%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "new sims game": {
+      "status": "rejected",
+      "first_seen": "2026-11-25T14:21:02+00:00",
+      "game_name": "",
+      "slug": "new-sims-game",
+      "confidence": 0.9,
+      "reason": "Generic phrase for major evergreen franchise, no specific newly viral title",
+      "traffic": "+50%",
+      "sources": [
+        "rising:new game"
+      ]
     }
   },
   "domains": {
