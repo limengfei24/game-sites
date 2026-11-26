@@ -15928,6 +15928,662 @@
       "sources": [
         "rising:new game"
       ]
+    },
+    "giannis antetokounmpo": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "giannis-antetokounmpo",
+      "confidence": 0.99,
+      "reason": "NBA athlete, not a game.",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US",
+        "daily:AU"
+      ]
+    },
+    "northeastern vs wisconsin": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "northeastern-vs-wisconsin",
+      "confidence": 0.99,
+      "reason": "College basketball matchup.",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "david peterson": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "david-peterson",
+      "confidence": 0.98,
+      "reason": "Baseball player.",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "john candy": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "john-candy",
+      "confidence": 0.99,
+      "reason": "Actor/celebrity.",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "solo ball": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "solo-ball",
+      "confidence": 0.99,
+      "reason": "College basketball player.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "cavaliers vs knicks": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "cavaliers-vs-knicks",
+      "confidence": 0.99,
+      "reason": "NBA matchup.",
+      "traffic": "20000+",
+      "sources": [
+        "daily:US",
+        "daily:CA"
+      ]
+    },
+    "boca juniors - independiente rivadavia": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "boca-juniors-independiente-rivadavia",
+      "confidence": 0.99,
+      "reason": "Soccer match.",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "usc basketball": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "usc-basketball",
+      "confidence": 0.99,
+      "reason": "College basketball team.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "bam adebayo": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "bam-adebayo",
+      "confidence": 0.99,
+      "reason": "NBA athlete.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "nfl schedule today": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "nfl-schedule-today",
+      "confidence": 0.99,
+      "reason": "Generic NFL schedule search.",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "jesse baird": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "jesse-baird",
+      "confidence": 0.99,
+      "reason": "Person in news/crime story.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "zlatan ibrahimovic mobland": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "zlatan-ibrahimovic-mobland",
+      "confidence": 0.98,
+      "reason": "TV casting news, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "skiing": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "skiing",
+      "confidence": 0.99,
+      "reason": "Sport/weather news.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "atlético-mg vs corinthians": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "atletico-mg-vs-corinthians",
+      "confidence": 0.99,
+      "reason": "Soccer match.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB",
+        "daily:AU"
+      ]
+    },
+    "elizabeth holmes": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "elizabeth-holmes",
+      "confidence": 0.99,
+      "reason": "Person in news/media.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "billy evans": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "billy-evans",
+      "confidence": 0.98,
+      "reason": "Person in documentary/news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "what is muse": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "what-is-muse",
+      "confidence": 0.98,
+      "reason": "Meta AI assistant, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "treyarch": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "treyarch",
+      "confidence": 0.98,
+      "reason": "Game studio, not a specific game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "opus 5.6": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "opus-5-6",
+      "confidence": 0.99,
+      "reason": "AI model, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "médicament": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "medicament",
+      "confidence": 0.99,
+      "reason": "Medicine/health term.",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "focker in law cast": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "focker-in-law-cast",
+      "confidence": 0.99,
+      "reason": "Movie cast search.",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "inflation targeting": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "inflation-targeting",
+      "confidence": 0.99,
+      "reason": "Economics term.",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "lebron james": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "lebron-james",
+      "confidence": 0.99,
+      "reason": "NBA athlete.",
+      "traffic": "500+",
+      "sources": [
+        "daily:CA",
+        "daily:AU"
+      ]
+    },
+    "flyers – capitals": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "flyers-capitals",
+      "confidence": 0.99,
+      "reason": "NHL matchup.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "blues vs islanders": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "blues-vs-islanders",
+      "confidence": 0.99,
+      "reason": "NHL matchup.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "sénateurs – panthers": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "senateurs-panthers",
+      "confidence": 0.99,
+      "reason": "NHL matchup.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "timberwolves vs thunder": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "timberwolves-vs-thunder",
+      "confidence": 0.99,
+      "reason": "NBA matchup.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "knicks vs cavaliers": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "knicks-vs-cavaliers",
+      "confidence": 0.99,
+      "reason": "NBA matchup.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "thunder vs timberwolves": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "thunder-vs-timberwolves",
+      "confidence": 0.99,
+      "reason": "NBA matchup.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "alpine fault": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "alpine-fault",
+      "confidence": 0.99,
+      "reason": "Geology/news term.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "davion mitchell": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "davion-mitchell",
+      "confidence": 0.99,
+      "reason": "NBA athlete.",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "hornets vs bulls": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "hornets-vs-bulls",
+      "confidence": 0.99,
+      "reason": "NBA matchup.",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "jabari walker": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "jabari-walker",
+      "confidence": 0.99,
+      "reason": "NBA athlete.",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "adam clune": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "adam-clune",
+      "confidence": 0.99,
+      "reason": "Rugby league player.",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "witchbrook game goes gold": {
+      "status": "abandoned",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "Witchbrook",
+      "slug": "witchbrook",
+      "confidence": 0.96,
+      "reason": "已经火了 73 天，超过 30 天",
+      "traffic": "+1750%",
+      "sources": [
+        "rising:game"
+      ],
+      "news": [],
+      "age_days": 73,
+      "age_measured": true
+    },
+    "casino game with dice": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "casino-game-with-dice",
+      "confidence": 0.95,
+      "reason": "Generic casino/game phrase.",
+      "traffic": "+1350%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "dragonite altaria pokemon game set": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "dragonite-altaria-pokemon-game-set",
+      "confidence": 0.9,
+      "reason": "Pokémon TCG/product search, not a new video game.",
+      "traffic": "+1200%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "left right center game": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "left-right-center-game",
+      "confidence": 0.9,
+      "reason": "Generic/physical dice game phrase.",
+      "traffic": "+100%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "rockstar games gta 6 mission design": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "rockstar-games-gta-6-mission-design",
+      "confidence": 0.98,
+      "reason": "Huge AAA GTA franchise news, not a small game.",
+      "traffic": "+4650%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "bloxng roblox codes": {
+      "status": "abandoned",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "BloxNG",
+      "slug": "bloxng",
+      "confidence": 0.78,
+      "reason": "谷歌前 10 已有 5 篇同游戏的攻略/资讯",
+      "traffic": "+1300%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 12,
+      "age_measured": true,
+      "competitors": {
+        "pages": 5,
+        "dedicated": 0,
+        "oldest_days": 3
+      }
+    },
+    "salvation codes roblox": {
+      "status": "live",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "Salvation (Roblox)",
+      "slug": "salvation-roblox",
+      "confidence": 0.78,
+      "reason": "Codes searches for a specific Roblox game.",
+      "traffic": "+140%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 11,
+      "age_measured": true,
+      "competitors": {
+        "pages": 1,
+        "dedicated": 0,
+        "oldest_days": 2
+      },
+      "built_at": "2026-11-26T00:26:49+00:00",
+      "url": "https://salvation-roblox.many.pw/",
+      "live_at": "2026-11-26T00:27:02+00:00"
+    },
+    "steam awards": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "steam-awards",
+      "confidence": 0.95,
+      "reason": "Event, not a game.",
+      "traffic": "+180%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "gta v steam": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "gta-v-steam",
+      "confidence": 0.95,
+      "reason": "Huge AAA franchise search.",
+      "traffic": "+170%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "steam awards 2026": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "steam-awards-2026",
+      "confidence": 0.95,
+      "reason": "Event, not a game.",
+      "traffic": "+150%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "steam gta 5": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "steam-gta-5",
+      "confidence": 0.95,
+      "reason": "Huge AAA franchise search.",
+      "traffic": "+140%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "steam game deals": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "steam-game-deals",
+      "confidence": 0.95,
+      "reason": "Generic store/deals phrase.",
+      "traffic": "+130%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "gta 4 steam": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "gta-4-steam",
+      "confidence": 0.95,
+      "reason": "Huge AAA franchise search.",
+      "traffic": "+100%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "scratch games": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "scratch-games",
+      "confidence": 0.9,
+      "reason": "Generic platform phrase, not one game.",
+      "traffic": "+40%",
+      "sources": [
+        "rising:unblocked games"
+      ]
+    },
+    "run 3": {
+      "status": "abandoned",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "Run 3",
+      "slug": "run-3",
+      "confidence": 0.65,
+      "reason": "已经火了 92 天，超过 30 天",
+      "traffic": "+40%",
+      "sources": [
+        "rising:unblocked games"
+      ],
+      "news": [],
+      "age_days": 92,
+      "age_measured": true
+    },
+    "venge io": {
+      "status": "abandoned",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "Venge.io",
+      "slug": "venge-io",
+      "confidence": 0.9,
+      "reason": "已经火了 58 天，超过 30 天",
+      "traffic": "+200%",
+      "sources": [
+        "rising:io games"
+      ],
+      "news": [],
+      "age_days": 58,
+      "age_measured": true
+    },
+    "krillion": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "krillion",
+      "confidence": 0.55,
+      "reason": "Unclear if a game; not confirmed.",
+      "traffic": "+50%",
+      "sources": [
+        "rising:io games"
+      ]
+    },
+    "poople": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T00:20:29+00:00",
+      "game_name": "",
+      "slug": "poople",
+      "confidence": 0.55,
+      "reason": "Unclear/possibly meme; not confirmed game.",
+      "traffic": "+40%",
+      "sources": [
+        "rising:io games"
+      ]
     }
   },
   "domains": {
