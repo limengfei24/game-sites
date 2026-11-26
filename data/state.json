@@ -16585,6 +16585,486 @@
       "sources": [
         "rising:io games"
       ]
+    },
+    "when did savannah guthrie's mom disappear": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "when-did-savannah-guthrie-s-mom-disappear",
+      "confidence": 0.98,
+      "reason": "News/celebrity missing-person query, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "mortgage interest rates": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "mortgage-interest-rates",
+      "confidence": 0.99,
+      "reason": "Finance query, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "the tonight show starring jimmy fallon justin timberlake": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "the-tonight-show-starring-jimmy-fallon-justin-timberlake",
+      "confidence": 0.99,
+      "reason": "TV/celebrity query, not a game.",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "autumn reeser": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "autumn-reeser",
+      "confidence": 0.99,
+      "reason": "Actress/celebrity query, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "mortgages": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "mortgages",
+      "confidence": 0.99,
+      "reason": "Finance query, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "is cub foods open on thanksgiving": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "is-cub-foods-open-on-thanksgiving",
+      "confidence": 0.99,
+      "reason": "Store-hours query, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "amazon black friday deals": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "amazon-black-friday-deals",
+      "confidence": 0.99,
+      "reason": "Shopping deals query, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "martha stewart turkey": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "martha-stewart-turkey",
+      "confidence": 0.99,
+      "reason": "Celebrity/cooking query, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "today show": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "today-show",
+      "confidence": 0.99,
+      "reason": "TV show query, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "u17 world cup": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "u17-world-cup",
+      "confidence": 0.99,
+      "reason": "Sports event query, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "royal navy hms excellent security": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "royal-navy-hms-excellent-security",
+      "confidence": 0.99,
+      "reason": "News/security incident query, not a game.",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "home and away": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "home-and-away",
+      "confidence": 0.99,
+      "reason": "TV show query, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "gerard depardieu": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "gerard-depardieu",
+      "confidence": 0.99,
+      "reason": "Celebrity/legal news query, not a game.",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "pluto tv": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "pluto-tv",
+      "confidence": 0.99,
+      "reason": "Streaming service query, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "imperial brands": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "imperial-brands",
+      "confidence": 0.99,
+      "reason": "Corporate/business query, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "peter mandelson": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "peter-mandelson",
+      "confidence": 0.99,
+      "reason": "Political/celebrity news query, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "loose women": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "loose-women",
+      "confidence": 0.99,
+      "reason": "TV show query, not a game.",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "davis cup 2026": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "davis-cup-2026",
+      "confidence": 0.99,
+      "reason": "Tennis event query, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "katherine parkinson": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "katherine-parkinson",
+      "confidence": 0.99,
+      "reason": "Actress/celebrity query, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "loose women today": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "loose-women-today",
+      "confidence": 0.99,
+      "reason": "TV show query, not a game.",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "santé canada ozempic": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "sante-canada-ozempic",
+      "confidence": 0.99,
+      "reason": "Health/medicine query, not a game.",
+      "traffic": "500+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "longueuil": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "longueuil",
+      "confidence": 0.99,
+      "reason": "Place/news query, not a game.",
+      "traffic": "500+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "giovanni apollo": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "giovanni-apollo",
+      "confidence": 0.99,
+      "reason": "News/legal query, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "supreme court": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "supreme-court",
+      "confidence": 0.99,
+      "reason": "Legal/news query, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "landlord": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "landlord",
+      "confidence": 0.99,
+      "reason": "Generic property/finance query, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "buffalo weather": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "buffalo-weather",
+      "confidence": 0.98,
+      "reason": "Weather/sports-adjacent query, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "trump fcc abc": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "trump-fcc-abc",
+      "confidence": 0.99,
+      "reason": "Political/media news query, not a game.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "elizabeth bain": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "elizabeth-bain",
+      "confidence": 0.99,
+      "reason": "True-crime/news query, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "manuel neuer": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "manuel-neuer",
+      "confidence": 0.99,
+      "reason": "Athlete/celebrity query, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "canadien": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "canadien",
+      "confidence": 0.95,
+      "reason": "Hockey team/news query, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "victoria secret": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "victoria-secret",
+      "confidence": 0.99,
+      "reason": "Brand/celebrity query, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "victoria barracks skip bin": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "victoria-barracks-skip-bin",
+      "confidence": 0.99,
+      "reason": "News query, not a game.",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "french armed forces": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "french-armed-forces",
+      "confidence": 0.99,
+      "reason": "Military/news query, not a game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "gta vi ps5": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "gta-vi-ps5",
+      "confidence": 0.99,
+      "reason": "Huge AAA franchise query; reject per policy.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "nike": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "nike",
+      "confidence": 0.99,
+      "reason": "Brand query, not a game.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "best black friday deals": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "best-black-friday-deals",
+      "confidence": 0.99,
+      "reason": "Shopping query, not a game.",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "karen read": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "karen-read",
+      "confidence": 0.99,
+      "reason": "True-crime/celebrity news query, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "america game today": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "america-game-today",
+      "confidence": 0.95,
+      "reason": "Generic sports query; not a specific game.",
+      "traffic": "+80%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "steam remote play": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "steam-remote-play",
+      "confidence": 0.97,
+      "reason": "Steam feature, not a specific game.",
+      "traffic": "+40%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "steam sale": {
+      "status": "rejected",
+      "first_seen": "2026-11-26T13:54:13+00:00",
+      "game_name": "",
+      "slug": "steam-sale",
+      "confidence": 0.97,
+      "reason": "Generic store event, not a specific game.",
+      "traffic": "+40%",
+      "sources": [
+        "rising:steam"
+      ]
     }
   },
   "domains": {
