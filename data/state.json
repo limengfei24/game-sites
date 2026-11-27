@@ -17790,6 +17790,537 @@
       "news": [],
       "age_days": 92,
       "age_measured": true
+    },
+    "ncaa football today": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "ncaa-football-today",
+      "confidence": 0.99,
+      "reason": "College football sports query, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "black friday ipad deals 2026": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "black-friday-ipad-deals-2026",
+      "confidence": 0.99,
+      "reason": "Shopping deals, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "who is matt rogers": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "who-is-matt-rogers",
+      "confidence": 0.99,
+      "reason": "Celebrity/person query",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "dolar hoje": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "dolar-hoje",
+      "confidence": 0.99,
+      "reason": "Currency/finance query",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "the pitt season 3": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "the-pitt-season-3",
+      "confidence": 0.99,
+      "reason": "TV series query",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "tyson fury": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "tyson-fury",
+      "confidence": 0.99,
+      "reason": "Athlete/celebrity query",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "ai bubble": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "ai-bubble",
+      "confidence": 0.99,
+      "reason": "Economic/tech news phrase",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "llbean black friday": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "llbean-black-friday",
+      "confidence": 0.99,
+      "reason": "Retail shopping query",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "cyberattack": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "cyberattack",
+      "confidence": 0.99,
+      "reason": "Generic security news term",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "presley gerber": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "presley-gerber",
+      "confidence": 0.99,
+      "reason": "Celebrity/person query",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "gladiators": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "gladiators",
+      "confidence": 0.93,
+      "reason": "Likely TV show query, not a specific game",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "australia gold prospector meteorite discovery": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "australia-gold-prospector-meteorite-discovery",
+      "confidence": 0.99,
+      "reason": "News story, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "police service of northern ireland": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "police-service-of-northern-ireland",
+      "confidence": 0.99,
+      "reason": "Police organization query",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "ps5 gta6": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "ps5-gta6",
+      "confidence": 0.99,
+      "reason": "Huge AAA GTA franchise; reject per rules",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "nintendo switch games black friday deals": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "nintendo-switch-games-black-friday-deals",
+      "confidence": 0.99,
+      "reason": "Generic shopping/deals query",
+      "traffic": "1000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "twickenham stadium nations championship opening night": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "twickenham-stadium-nations-championship-opening-night",
+      "confidence": 0.99,
+      "reason": "Rugby sports event query",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "claire waxman": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "claire-waxman",
+      "confidence": 0.99,
+      "reason": "Person/news query",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "iplayer": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "iplayer",
+      "confidence": 0.99,
+      "reason": "BBC streaming service query",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "net a porter": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "net-a-porter",
+      "confidence": 0.99,
+      "reason": "Fashion retailer query",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "disney plus": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "disney-plus",
+      "confidence": 0.99,
+      "reason": "Streaming service query",
+      "traffic": "1000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "scugog": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "scugog",
+      "confidence": 0.97,
+      "reason": "Local news/place query",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "aid": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "aid",
+      "confidence": 0.9,
+      "reason": "Generic humanitarian news term",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "alexandra daddario": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "alexandra-daddario",
+      "confidence": 0.99,
+      "reason": "Celebrity query",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "kevin o'leary": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "kevin-o-leary",
+      "confidence": 0.99,
+      "reason": "Celebrity/person query",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "shead": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "shead",
+      "confidence": 0.93,
+      "reason": "Sports/person query, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "grace tame": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "grace-tame",
+      "confidence": 0.99,
+      "reason": "Person/news query",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "aircanada": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "aircanada",
+      "confidence": 0.99,
+      "reason": "Airline query",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "timothy busfield": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "timothy-busfield",
+      "confidence": 0.99,
+      "reason": "Celebrity/person query",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "delta": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "delta",
+      "confidence": 0.86,
+      "reason": "Ambiguous news/place/airline term, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "conserve": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "conserve",
+      "confidence": 0.9,
+      "reason": "Generic/news term, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "harry styles sydney": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "harry-styles-sydney",
+      "confidence": 0.99,
+      "reason": "Celebrity query",
+      "traffic": "2000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "leapmotor b10 v2g amber electric": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "leapmotor-b10-v2g-amber-electric",
+      "confidence": 0.99,
+      "reason": "Electric vehicle/news query",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "rainfall forecast": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "rainfall-forecast",
+      "confidence": 0.99,
+      "reason": "Weather query",
+      "traffic": "20000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "emma kearney": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "emma-kearney",
+      "confidence": 0.99,
+      "reason": "Athlete/person query",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "canberra raiders nrlw": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "canberra-raiders-nrlw",
+      "confidence": 0.99,
+      "reason": "Sports team query",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "libby birch": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "libby-birch",
+      "confidence": 0.99,
+      "reason": "Athlete/person query",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "minority report": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "minority-report",
+      "confidence": 0.97,
+      "reason": "Film/TV title query, not a game",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "darren crocker": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "darren-crocker",
+      "confidence": 0.99,
+      "reason": "Sports coach/person query",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "aneurin donald": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "aneurin-donald",
+      "confidence": 0.99,
+      "reason": "Athlete/person query",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "aflw live scores": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "aflw-live-scores",
+      "confidence": 0.99,
+      "reason": "Sports scores query",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "nex playground games": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "nex-playground-games",
+      "confidence": 0.9,
+      "reason": "Refers to games/platform content for the Nex Playground console, not one specific new game.",
+      "traffic": "+170%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "hinger games": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "hinger-games",
+      "confidence": 0.8,
+      "reason": "Ambiguous/unknown term; no clear specific newly viral game.",
+      "traffic": "+160%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "drinking games": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "",
+      "slug": "drinking-games",
+      "confidence": 0.95,
+      "reason": "Generic phrase, not a specific game title.",
+      "traffic": "+60%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "slope game": {
+      "status": "abandoned",
+      "first_seen": "2026-11-27T13:51:41+00:00",
+      "game_name": "Slope Game",
+      "slug": "slope-game",
+      "confidence": 0.85,
+      "reason": "已经火了 92 天，超过 30 天",
+      "traffic": "+40%",
+      "sources": [
+        "rising:unblocked games"
+      ],
+      "news": [],
+      "age_days": 92,
+      "age_measured": true
     }
   },
   "domains": {
