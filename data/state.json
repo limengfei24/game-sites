@@ -17065,6 +17065,730 @@
       "sources": [
         "rising:steam"
       ]
+    },
+    "jerry jones": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "jerry-jones",
+      "confidence": 0.99,
+      "reason": "Sports team owner/celebrity news",
+      "traffic": "10000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "pitt basketball": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "pitt-basketball",
+      "confidence": 0.99,
+      "reason": "College basketball team",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "brandon aubrey": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "brandon-aubrey",
+      "confidence": 0.99,
+      "reason": "NFL athlete/fantasy football",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "drake": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "drake",
+      "confidence": 0.99,
+      "reason": "Musician/celebrity news",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "best movies to stream right now": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "best-movies-to-stream-right-now",
+      "confidence": 0.99,
+      "reason": "Generic streaming/movie phrase",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "nina jacobson mockingjay split regret": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "nina-jacobson-mockingjay-split-regret",
+      "confidence": 0.99,
+      "reason": "Movie franchise news",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "mike pettine": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "mike-pettine",
+      "confidence": 0.99,
+      "reason": "NFL coach/personnel news",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "apple black friday deals": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "apple-black-friday-deals",
+      "confidence": 0.99,
+      "reason": "Shopping deals, not a game",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "zach hickerson": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "zach-hickerson",
+      "confidence": 0.99,
+      "reason": "Celebrity/news person",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "ps5 black friday": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "ps5-black-friday",
+      "confidence": 0.99,
+      "reason": "Console shopping deals, not specific game",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "kim jong-un halts russia aid": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "kim-jong-un-halts-russia-aid",
+      "confidence": 0.99,
+      "reason": "Geopolitical news",
+      "traffic": "2000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "phil taylor": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "phil-taylor",
+      "confidence": 0.99,
+      "reason": "Darts athlete",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "iphone 16": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "iphone-16",
+      "confidence": 0.99,
+      "reason": "Consumer tech product",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "stephen flynn": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "stephen-flynn",
+      "confidence": 0.99,
+      "reason": "Political/news person",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "winter storm": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "winter-storm",
+      "confidence": 0.99,
+      "reason": "Weather phrase",
+      "traffic": "1000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "anthony joshua vs tyson fury": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "anthony-joshua-vs-tyson-fury",
+      "confidence": 0.99,
+      "reason": "Boxing match",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "gurnoor brar": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "gurnoor-brar",
+      "confidence": 0.99,
+      "reason": "Cricket athlete",
+      "traffic": "2000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "tueur à gages": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "tueur-a-gages",
+      "confidence": 0.95,
+      "reason": "Generic phrase/news, not specific game",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "pete hoekstra": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "pete-hoekstra",
+      "confidence": 0.99,
+      "reason": "Ambassador/political news",
+      "traffic": "1000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "são paulo vs remo": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "sao-paulo-vs-remo",
+      "confidence": 0.99,
+      "reason": "Soccer match",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "the mosquito bowl": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "the-mosquito-bowl",
+      "confidence": 0.99,
+      "reason": "Netflix film, not game",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "benoit langlais": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "benoit-langlais",
+      "confidence": 0.99,
+      "reason": "Actor/person news",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "katy perry new hairstyle europe": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "katy-perry-new-hairstyle-europe",
+      "confidence": 0.99,
+      "reason": "Celebrity news",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "erin andrews": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "erin-andrews",
+      "confidence": 0.99,
+      "reason": "Sports broadcaster/celebrity",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "miranda lambert husband": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "miranda-lambert-husband",
+      "confidence": 0.99,
+      "reason": "Celebrity relationship news",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "sam wood": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "sam-wood",
+      "confidence": 0.99,
+      "reason": "TV personality/news",
+      "traffic": "1000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "lucas herbert liv golf owed money": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "lucas-herbert-liv-golf-owed-money",
+      "confidence": 0.99,
+      "reason": "Golf/LIV news",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "jade gresham": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "jade-gresham",
+      "confidence": 0.99,
+      "reason": "AFL athlete",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "jared kushner": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "jared-kushner",
+      "confidence": 0.99,
+      "reason": "Political figure/news",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "losing instagram followers": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "losing-instagram-followers",
+      "confidence": 0.99,
+      "reason": "Social media issue, not game",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "jamie lee curtis": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "jamie-lee-curtis",
+      "confidence": 0.99,
+      "reason": "Actress/celebrity",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "food fraud": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "food-fraud",
+      "confidence": 0.99,
+      "reason": "News/generic phrase",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "storm": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "storm",
+      "confidence": 0.99,
+      "reason": "Weather phrase",
+      "traffic": "2000+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "sydney airport": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "sydney-airport",
+      "confidence": 0.99,
+      "reason": "Travel/news location",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "wtc asx": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "wtc-asx",
+      "confidence": 0.99,
+      "reason": "Stock ticker/finance",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "score of bears game": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "score-of-bears-game",
+      "confidence": 0.99,
+      "reason": "Sports score query",
+      "traffic": "+1300%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "spoons card game": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "spoons-card-game",
+      "confidence": 0.9,
+      "reason": "Traditional generic card game, not specific new release",
+      "traffic": "+120%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "golf card game": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "golf-card-game",
+      "confidence": 0.9,
+      "reason": "Generic card game phrase",
+      "traffic": "+90%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "score of the lions game": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "score-of-the-lions-game",
+      "confidence": 0.99,
+      "reason": "Sports score query",
+      "traffic": "+80%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "lions game": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "lions-game",
+      "confidence": 0.99,
+      "reason": "Sports team game query",
+      "traffic": "+80%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "taboo game": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "taboo-game",
+      "confidence": 0.6,
+      "reason": "Evergreen board/party game, not a new release; generic phrase",
+      "traffic": "+50%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "bear game": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "bear-game",
+      "confidence": 0.7,
+      "reason": "Vague/ambiguous phrase, not one identifiable new game",
+      "traffic": "+50%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "cowboys game": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "cowboys-game",
+      "confidence": 0.8,
+      "reason": "Ambiguous, points to Dallas Cowboys sports match",
+      "traffic": "+50%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "the hunger games 2": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "the-hunger-games-2",
+      "confidence": 0.9,
+      "reason": "Movie/film franchise, not a video game",
+      "traffic": "+130%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "nfl games today": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "nfl-games-today",
+      "confidence": 0.95,
+      "reason": "Sports match schedule",
+      "traffic": "+100%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "jackbox games": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "jackbox-games",
+      "confidence": 0.75,
+      "reason": "Large evergreen party-game franchise, not a single new release",
+      "traffic": "+100%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "football games today": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "football-games-today",
+      "confidence": 0.95,
+      "reason": "Sports match schedule",
+      "traffic": "+80%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "nfl games": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "nfl-games",
+      "confidence": 0.95,
+      "reason": "Sports matches",
+      "traffic": "+60%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "new uno game": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "new-uno-game",
+      "confidence": 0.6,
+      "reason": "Generic query about a big evergreen card brand, no specific new title",
+      "traffic": "+110%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "new rock band game 2026": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "new-rock-band-game-2026",
+      "confidence": 0.8,
+      "reason": "Rumor/news about a major franchise, no confirmed small release",
+      "traffic": "+80%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "new rock band game": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "new-rock-band-game",
+      "confidence": 0.8,
+      "reason": "News/rumor for big franchise",
+      "traffic": "+40%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "new ghost recon game": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "new-ghost-recon-game",
+      "confidence": 0.85,
+      "reason": "AAA Ubisoft franchise news",
+      "traffic": "+40%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "roblox the great build scavenger hunt": {
+      "status": "live",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "The Great Build Scavenger Hunt",
+      "slug": "great-build-scavenger-hunt",
+      "confidence": 0.85,
+      "reason": "Specific new Roblox event/game spiking hard",
+      "traffic": "+8300%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 2,
+      "age_measured": true,
+      "competitors": {
+        "pages": 0,
+        "dedicated": 0,
+        "oldest_days": null
+      },
+      "built_at": "2026-11-27T00:38:36+00:00",
+      "url": "https://great-build-scavenger-hunt.many.pw/",
+      "live_at": "2026-11-27T00:39:12+00:00"
+    },
+    "kizuna codes roblox": {
+      "status": "abandoned",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "Kizuna",
+      "slug": "kizuna",
+      "confidence": 0.82,
+      "reason": "已经火了 41 天，超过 30 天",
+      "traffic": "+500%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 41,
+      "age_measured": true
+    },
+    "gta 6 on roblox": {
+      "status": "rejected",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "",
+      "slug": "gta-6-on-roblox",
+      "confidence": 0.7,
+      "reason": "Tied to huge AAA GTA franchise news; not a distinct small title",
+      "traffic": "+200%",
+      "sources": [
+        "rising:roblox"
+      ]
+    },
+    "realistic ragdoll mma codes roblox": {
+      "status": "abandoned",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "Realistic Ragdoll MMA",
+      "slug": "realistic-ragdoll-mma",
+      "confidence": 0.85,
+      "reason": "已经火了 55 天，超过 30 天",
+      "traffic": "+110%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 55,
+      "age_measured": true
+    },
+    "stack a butter squishy roblox codes": {
+      "status": "abandoned",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "Stack a Butter Squishy",
+      "slug": "stack-a-butter-squishy",
+      "confidence": 0.85,
+      "reason": "谷歌前 10 已有 6 篇同游戏的攻略/资讯",
+      "traffic": "+60%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 14,
+      "age_measured": true,
+      "competitors": {
+        "pages": 6,
+        "dedicated": 0,
+        "oldest_days": 4
+      }
+    },
+    "bloxd io crazy games": {
+      "status": "abandoned",
+      "first_seen": "2026-11-27T00:35:51+00:00",
+      "game_name": "Bloxd.io",
+      "slug": "bloxd-io",
+      "confidence": 0.8,
+      "reason": "已经火了 92 天，超过 30 天",
+      "traffic": "+40%",
+      "sources": [
+        "rising:io games"
+      ],
+      "news": [],
+      "age_days": 92,
+      "age_measured": true
     }
   },
   "domains": {
