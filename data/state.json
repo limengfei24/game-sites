@@ -18321,6 +18321,864 @@
       "news": [],
       "age_days": 92,
       "age_measured": true
+    },
+    "bucks vs pistons": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "bucks-vs-pistons",
+      "confidence": 0.99,
+      "reason": "NBA sports matchup, not a game release",
+      "traffic": "2000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "nets vs raptors": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "nets-vs-raptors",
+      "confidence": 0.99,
+      "reason": "NBA sports matchup",
+      "traffic": "5000+",
+      "sources": [
+        "daily:US",
+        "daily:CA"
+      ]
+    },
+    "tennessee vs fgcu": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "tennessee-vs-fgcu",
+      "confidence": 0.99,
+      "reason": "College basketball matchup",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "jeff purinton": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "jeff-purinton",
+      "confidence": 0.99,
+      "reason": "Athletics director/news figure",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "minnesota vs wisconsin": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "minnesota-vs-wisconsin",
+      "confidence": 0.99,
+      "reason": "College football rivalry game",
+      "traffic": "20000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "76ers vs pacers": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "76ers-vs-pacers",
+      "confidence": 0.99,
+      "reason": "NBA sports matchup",
+      "traffic": "5000+",
+      "sources": [
+        "daily:US",
+        "daily:CA"
+      ]
+    },
+    "naruto": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "naruto",
+      "confidence": 0.95,
+      "reason": "Anime/movie franchise news, not a specific new game",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "karl anthony towns": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "karl-anthony-towns",
+      "confidence": 0.99,
+      "reason": "NBA athlete",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "big ten football championship game": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "big-ten-football-championship-game",
+      "confidence": 0.99,
+      "reason": "College football event",
+      "traffic": "5000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "channing tatum": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "channing-tatum",
+      "confidence": 0.99,
+      "reason": "Celebrity/movie news",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "denver broncos standings": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "denver-broncos-standings",
+      "confidence": 0.99,
+      "reason": "NFL standings",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB",
+        "daily:AU"
+      ]
+    },
+    "denise fox": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "denise-fox",
+      "confidence": 0.99,
+      "reason": "TV soap character/news",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "was im a celebrity on tonight": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "was-im-a-celebrity-on-tonight",
+      "confidence": 0.99,
+      "reason": "TV show schedule",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "j. k. rowling": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "j-k-rowling",
+      "confidence": 0.99,
+      "reason": "Author/entertainment news",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "knicks vs heat": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "knicks-vs-heat",
+      "confidence": 0.99,
+      "reason": "NBA sports matchup",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB",
+        "daily:AU"
+      ]
+    },
+    "captain tom moore": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "captain-tom-moore",
+      "confidence": 0.99,
+      "reason": "News/charity figure",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "fluminense vs cruzeiro": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "fluminense-vs-cruzeiro",
+      "confidence": 0.99,
+      "reason": "Soccer match",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB",
+        "daily:CA"
+      ]
+    },
+    "penelope cruz": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "penelope-cruz",
+      "confidence": 0.99,
+      "reason": "Celebrity/movie news",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "jack lowden": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "jack-lowden",
+      "confidence": 0.99,
+      "reason": "Actor/entertainment news",
+      "traffic": "5000+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "centre bell": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "centre-bell",
+      "confidence": 0.99,
+      "reason": "Arena/news, not a game",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "awkwafina": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "awkwafina",
+      "confidence": 0.99,
+      "reason": "Celebrity news",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "immigration plan canada": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "immigration-plan-canada",
+      "confidence": 0.99,
+      "reason": "News/policy topic",
+      "traffic": "1000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "états-unis": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "etats-unis",
+      "confidence": 0.99,
+      "reason": "News/weather topic about the US",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "denis villeneuve": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "denis-villeneuve",
+      "confidence": 0.99,
+      "reason": "Director/movie news",
+      "traffic": "500+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "dulles international airport": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "dulles-international-airport",
+      "confidence": 0.99,
+      "reason": "Airport/news topic",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "heat vs knicks": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "heat-vs-knicks",
+      "confidence": 0.99,
+      "reason": "NBA sports matchup",
+      "traffic": "1000+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "pittsburgh steelers standings": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "pittsburgh-steelers-standings",
+      "confidence": 0.99,
+      "reason": "NFL standings",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "nuclear submarine": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "nuclear-submarine",
+      "confidence": 0.99,
+      "reason": "Military/news topic",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "emma mckeon": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "emma-mckeon",
+      "confidence": 0.99,
+      "reason": "Olympic athlete/news",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "today wordle hints": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "today-wordle-hints",
+      "confidence": 0.9,
+      "reason": "Daily hints for evergreen Wordle; big media owns it",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "thunderstorms today": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "thunderstorms-today",
+      "confidence": 0.99,
+      "reason": "Weather topic",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "adelaide 500": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "adelaide-500",
+      "confidence": 0.99,
+      "reason": "Motorsport event",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "morgan fairchild": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "morgan-fairchild",
+      "confidence": 0.99,
+      "reason": "Celebrity news",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "nikita tszyu": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "nikita-tszyu",
+      "confidence": 0.99,
+      "reason": "Boxer/sports news",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "eagles game": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "eagles-game",
+      "confidence": 0.99,
+      "reason": "NFL sports game",
+      "traffic": "+300%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "lcr game": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "lcr-game",
+      "confidence": 0.85,
+      "reason": "Generic dice/card game, not a new video/web/mobile game",
+      "traffic": "+250%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "piles card game": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "piles-card-game",
+      "confidence": 0.9,
+      "reason": "Generic card game phrase, not a specific new video game",
+      "traffic": "+200%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "bills game": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "bills-game",
+      "confidence": 0.99,
+      "reason": "NFL sports game",
+      "traffic": "+200%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "chiefs game": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "chiefs-game",
+      "confidence": 0.99,
+      "reason": "NFL sports game",
+      "traffic": "+190%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "hitster game": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "hitster-game",
+      "confidence": 0.8,
+      "reason": "Board/party game, not a video/web/mobile game",
+      "traffic": "+140%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "heads up game": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "heads-up-game",
+      "confidence": 0.75,
+      "reason": "Generic/evergreen party game phrase, no new release or viral hook.",
+      "traffic": "+140%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "charades game": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "charades-game",
+      "confidence": 0.9,
+      "reason": "Generic phrase for a game type, not one specific new game.",
+      "traffic": "+110%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "playground game system": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "playground-game-system",
+      "confidence": 0.8,
+      "reason": "Ambiguous/non-specific, not clearly a newly viral game.",
+      "traffic": "+100%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "morphling hunger games": {
+      "status": "abandoned",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "Morphling Hunger Games",
+      "slug": "morphling-hunger-games",
+      "confidence": 0.6,
+      "reason": "谷歌前 10 已有 5 篇同游戏的攻略/资讯",
+      "traffic": "+250%",
+      "sources": [
+        "rising:games"
+      ],
+      "news": [],
+      "age_days": 30,
+      "age_measured": true,
+      "competitors": {
+        "pages": 5,
+        "dedicated": 0,
+        "oldest_days": 1064
+      }
+    },
+    "bears games": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "bears-games",
+      "confidence": 0.8,
+      "reason": "Ambiguous, likely sports/team or generic game phrase.",
+      "traffic": "+170%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "war games 2026": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "war-games-2026",
+      "confidence": 0.8,
+      "reason": "Generic/possibly movie-related, not a specific new game.",
+      "traffic": "+80%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "hunger games new movie": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "hunger-games-new-movie",
+      "confidence": 0.95,
+      "reason": "Movie search, not a game.",
+      "traffic": "+110%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "new mario game for switch 2": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "new-mario-game-for-switch-2",
+      "confidence": 0.95,
+      "reason": "Big Nintendo franchise news owned by large media.",
+      "traffic": "+50%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "new kirby game": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "new-kirby-game",
+      "confidence": 0.95,
+      "reason": "Big Nintendo franchise news, not a small new game.",
+      "traffic": "+40%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "new animal crossing game": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "new-animal-crossing-game",
+      "confidence": 0.95,
+      "reason": "Big Nintendo franchise news, not a small new game.",
+      "traffic": "+40%",
+      "sources": [
+        "rising:new game"
+      ]
+    },
+    "aero codes roblox": {
+      "status": "abandoned",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "Aero",
+      "slug": "aero",
+      "confidence": 0.9,
+      "reason": "已经火了 69 天，超过 30 天",
+      "traffic": "+2450%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 69,
+      "age_measured": true
+    },
+    "codes for cyberpsychosis roblox": {
+      "status": "live",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "Cyberpsychosis",
+      "slug": "cyberpsychosis",
+      "confidence": 0.95,
+      "reason": "Codes for specific Roblox game Cyberpsychosis.",
+      "traffic": "+650%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 13,
+      "age_measured": true,
+      "competitors": {
+        "pages": 4,
+        "dedicated": 0,
+        "oldest_days": 3
+      },
+      "built_at": "2026-11-28T00:04:18+00:00",
+      "url": "https://cyberpsychosis.many.pw/",
+      "live_at": "2026-11-28T00:05:48+00:00"
+    },
+    "roblox cyberpsychosis codes": {
+      "status": "duplicate",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "Cyberpsychosis",
+      "slug": "cyberpsychosis",
+      "confidence": 0.95,
+      "reason": "Codes for specific Roblox game Cyberpsychosis.",
+      "traffic": "+250%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": []
+    },
+    "branded codes roblox": {
+      "status": "live",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "Branded",
+      "slug": "branded",
+      "confidence": 0.7,
+      "reason": "Codes for specific Roblox game Branded.",
+      "traffic": "+90%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 11,
+      "age_measured": true,
+      "competitors": {
+        "pages": 2,
+        "dedicated": 0,
+        "oldest_days": 0
+      },
+      "built_at": "2026-11-28T00:04:55+00:00",
+      "url": "https://branded.many.pw/",
+      "live_at": "2026-11-28T00:05:48+00:00"
+    },
+    "salvation roblox codes": {
+      "status": "live",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "Salvation",
+      "slug": "salvation",
+      "confidence": 0.8,
+      "reason": "Codes for specific Roblox game Salvation.",
+      "traffic": "+90%",
+      "sources": [
+        "rising:roblox"
+      ],
+      "news": [],
+      "age_days": 12,
+      "age_measured": true,
+      "competitors": {
+        "pages": 4,
+        "dedicated": 2,
+        "oldest_days": 0
+      },
+      "built_at": "2026-11-28T00:05:48+00:00",
+      "url": "https://salvation.many.pw/",
+      "live_at": "2026-11-28T00:05:48+00:00"
+    },
+    "every last grain steam": {
+      "status": "candidate",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "Every Last Grain",
+      "slug": "every-last-grain",
+      "confidence": 0.9,
+      "reason": "Specific Steam game spiking sharply.",
+      "traffic": "+5850%",
+      "sources": [
+        "rising:steam"
+      ],
+      "news": []
+    },
+    "steam black friday sale": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "steam-black-friday-sale",
+      "confidence": 0.95,
+      "reason": "Store sale, not a specific game.",
+      "traffic": "+110%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "steam deals": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "steam-deals",
+      "confidence": 0.95,
+      "reason": "Generic store/deals phrase, not a game.",
+      "traffic": "+70%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "steam family sharing": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "steam-family-sharing",
+      "confidence": 0.95,
+      "reason": "Platform feature, not a game.",
+      "traffic": "+40%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "steam gift card": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "steam-gift-card",
+      "confidence": 0.95,
+      "reason": "Product/store phrase, not a game.",
+      "traffic": "+40%",
+      "sources": [
+        "rising:steam"
+      ]
+    },
+    "meld games": {
+      "status": "candidate",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "Meld",
+      "slug": "meld",
+      "confidence": 0.6,
+      "reason": "Likely specific game Meld spiking; small-game term.",
+      "traffic": "+3050%",
+      "sources": [
+        "rising:unblocked games"
+      ],
+      "news": []
+    },
+    "google sites": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "google-sites",
+      "confidence": 0.95,
+      "reason": "Google product, not a game.",
+      "traffic": "+60%",
+      "sources": [
+        "rising:unblocked games"
+      ]
+    },
+    "unblocked games for school chromebook links": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "unblocked-games-for-school-chromebook-links",
+      "confidence": 0.95,
+      "reason": "Generic unblocked-games phrase, not one game.",
+      "traffic": "+50%",
+      "sources": [
+        "rising:unblocked games"
+      ]
+    },
+    "roblox": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "roblox",
+      "confidence": 0.95,
+      "reason": "Evergreen platform name, not a specific new game.",
+      "traffic": "+40%",
+      "sources": [
+        "rising:unblocked games"
+      ]
+    },
+    "blombo io": {
+      "status": "candidate",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "Blombo.io",
+      "slug": "blombo-io",
+      "confidence": 0.95,
+      "reason": "Specific .io web game with massive spike.",
+      "traffic": "+36450%",
+      "sources": [
+        "rising:io games"
+      ],
+      "news": []
+    },
+    "gartic phone": {
+      "status": "candidate",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "Gartic Phone",
+      "slug": "gartic-phone",
+      "confidence": 0.7,
+      "reason": "Specific web party game spiking.",
+      "traffic": "+200%",
+      "sources": [
+        "rising:io games"
+      ],
+      "news": []
+    },
+    "best browser games": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T00:03:27+00:00",
+      "game_name": "",
+      "slug": "best-browser-games",
+      "confidence": 0.95,
+      "reason": "Generic list/search phrase, not a specific game.",
+      "traffic": "+80%",
+      "sources": [
+        "rising:io games"
+      ]
     }
   },
   "domains": {
