@@ -19036,17 +19036,24 @@
       "indexnow_at": "2026-11-28T00:06:13+00:00"
     },
     "every last grain steam": {
-      "status": "candidate",
+      "status": "abandoned",
       "first_seen": "2026-11-28T00:03:27+00:00",
       "game_name": "Every Last Grain",
       "slug": "every-last-grain",
       "confidence": 0.9,
-      "reason": "Specific Steam game spiking sharply.",
+      "reason": "谷歌前 10 已有 3 个专门站",
       "traffic": "+5850%",
       "sources": [
         "rising:steam"
       ],
-      "news": []
+      "news": [],
+      "age_days": 2,
+      "age_measured": true,
+      "competitors": {
+        "pages": 0,
+        "dedicated": 3,
+        "oldest_days": null
+      }
     },
     "steam black friday sale": {
       "status": "rejected",
@@ -19097,17 +19104,19 @@
       ]
     },
     "meld games": {
-      "status": "candidate",
+      "status": "abandoned",
       "first_seen": "2026-11-28T00:03:27+00:00",
       "game_name": "Meld",
       "slug": "meld",
       "confidence": 0.6,
-      "reason": "Likely specific game Meld spiking; small-game term.",
+      "reason": "已经火了 92 天，超过 30 天",
       "traffic": "+3050%",
       "sources": [
         "rising:unblocked games"
       ],
-      "news": []
+      "news": [],
+      "age_days": 92,
+      "age_measured": true
     },
     "google sites": {
       "status": "rejected",
@@ -19146,30 +19155,39 @@
       ]
     },
     "blombo io": {
-      "status": "candidate",
+      "status": "abandoned",
       "first_seen": "2026-11-28T00:03:27+00:00",
       "game_name": "Blombo.io",
       "slug": "blombo-io",
       "confidence": 0.95,
-      "reason": "Specific .io web game with massive spike.",
+      "reason": "谷歌前 10 已有 7 篇同游戏的攻略/资讯",
       "traffic": "+36450%",
       "sources": [
         "rising:io games"
       ],
-      "news": []
+      "news": [],
+      "age_days": 14,
+      "age_measured": true,
+      "competitors": {
+        "pages": 7,
+        "dedicated": 1,
+        "oldest_days": 58
+      }
     },
     "gartic phone": {
-      "status": "candidate",
+      "status": "abandoned",
       "first_seen": "2026-11-28T00:03:27+00:00",
       "game_name": "Gartic Phone",
       "slug": "gartic-phone",
       "confidence": 0.7,
-      "reason": "Specific web party game spiking.",
+      "reason": "已经火了 92 天，超过 30 天",
       "traffic": "+200%",
       "sources": [
         "rising:io games"
       ],
-      "news": []
+      "news": [],
+      "age_days": 92,
+      "age_measured": true
     },
     "best browser games": {
       "status": "rejected",
@@ -19181,6 +19199,462 @@
       "traffic": "+80%",
       "sources": [
         "rising:io games"
+      ]
+    },
+    "prisoners": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "prisoners",
+      "confidence": 0.97,
+      "reason": "News about an escaped prisoner in New Mexico, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "beach hazards statement": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "beach-hazards-statement",
+      "confidence": 0.98,
+      "reason": "Weather advisory term, not a game.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "ocelot jugular gta 6": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "ocelot-jugular-gta-6",
+      "confidence": 0.9,
+      "reason": "GTA 6 is a huge AAA franchise; big media own these searches.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "xaivian lee": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "xaivian-lee",
+      "confidence": 0.97,
+      "reason": "College basketball player.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "alaska earthquake center": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "alaska-earthquake-center",
+      "confidence": 0.98,
+      "reason": "Seismology organization/news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "gordon ramsay": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "gordon-ramsay",
+      "confidence": 0.98,
+      "reason": "Celebrity news.",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "jodie foster": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "jodie-foster",
+      "confidence": 0.98,
+      "reason": "Actress/movie news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "wlfi": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "wlfi",
+      "confidence": 0.97,
+      "reason": "Crypto token price news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "dustin hoffman": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "dustin-hoffman",
+      "confidence": 0.98,
+      "reason": "Actor/celebrity news.",
+      "traffic": "1000+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "wes enis": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "wes-enis",
+      "confidence": 0.96,
+      "reason": "College basketball player.",
+      "traffic": "500+",
+      "sources": [
+        "daily:US"
+      ]
+    },
+    "george lucas": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "george-lucas",
+      "confidence": 0.98,
+      "reason": "Filmmaker/Star Wars news.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "tyson fury anthony joshua": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "tyson-fury-anthony-joshua",
+      "confidence": 0.98,
+      "reason": "Boxing match/athletes.",
+      "traffic": "500+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "capita": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "capita",
+      "confidence": 0.97,
+      "reason": "UK outsourcing company news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "a500": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "a500",
+      "confidence": 0.97,
+      "reason": "Road in Stoke-on-Trent, traffic news.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "west ham united f.c.": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "west-ham-united-f-c",
+      "confidence": 0.98,
+      "reason": "Football club.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "rebecca ferguson": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "rebecca-ferguson",
+      "confidence": 0.97,
+      "reason": "Actress/streaming movie news.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "bike lane": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "bike-lane",
+      "confidence": 0.98,
+      "reason": "Local infrastructure news.",
+      "traffic": "100+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "времето": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "",
+      "confidence": 0.98,
+      "reason": "Bulgarian for 'the weather'.",
+      "traffic": "200+",
+      "sources": [
+        "daily:GB"
+      ]
+    },
+    "ps5 console": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "ps5-console",
+      "confidence": 0.95,
+      "reason": "Console hardware, evergreen, not a specific game.",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "luka doncic": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "luka-doncic",
+      "confidence": 0.98,
+      "reason": "NBA athlete news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "interpol": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "interpol",
+      "confidence": 0.96,
+      "reason": "Police organization news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "dylan harper": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "dylan-harper",
+      "confidence": 0.96,
+      "reason": "NBA player injury report.",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "cyber monday 2026": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "cyber-monday-2026",
+      "confidence": 0.98,
+      "reason": "Shopping event.",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "kate spade": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "kate-spade",
+      "confidence": 0.98,
+      "reason": "Fashion brand/deals.",
+      "traffic": "200+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "afghanistan": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "afghanistan",
+      "confidence": 0.98,
+      "reason": "Geopolitical news.",
+      "traffic": "100+",
+      "sources": [
+        "daily:CA"
+      ]
+    },
+    "news24": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "news24",
+      "confidence": 0.98,
+      "reason": "News outlet/royal news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "sky news": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "sky-news",
+      "confidence": 0.98,
+      "reason": "News outlet.",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "news 24": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "news-24",
+      "confidence": 0.98,
+      "reason": "News outlet/celebrity news.",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "steve bracks": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "steve-bracks",
+      "confidence": 0.97,
+      "reason": "Australian politician.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "jeff kennett": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "jeff-kennett",
+      "confidence": 0.97,
+      "reason": "Australian politician.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "gabrielle williams": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "gabrielle-williams",
+      "confidence": 0.96,
+      "reason": "Australian politician news.",
+      "traffic": "200+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "the age": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "the-age",
+      "confidence": 0.97,
+      "reason": "Newspaper.",
+      "traffic": "500+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "helensvale": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "helensvale",
+      "confidence": 0.97,
+      "reason": "Australian suburb/flood news.",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "iran news live": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "iran-news-live",
+      "confidence": 0.98,
+      "reason": "Geopolitical news.",
+      "traffic": "100+",
+      "sources": [
+        "daily:AU"
+      ]
+    },
+    "fun trail game": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "fun-trail-game",
+      "confidence": 0.7,
+      "reason": "Generic phrase; no identifiable specific game.",
+      "traffic": "+1200%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "azul board game": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "azul-board-game",
+      "confidence": 0.85,
+      "reason": "Evergreen tabletop board game, not a new video game.",
+      "traffic": "+80%",
+      "sources": [
+        "rising:game"
+      ]
+    },
+    "hunger games haymitch": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "hunger-games-haymitch",
+      "confidence": 0.95,
+      "reason": "Film/book franchise character, not a game.",
+      "traffic": "+160%",
+      "sources": [
+        "rising:games"
+      ]
+    },
+    "wwe war games 2026": {
+      "status": "rejected",
+      "first_seen": "2026-11-28T07:46:08+00:00",
+      "game_name": "",
+      "slug": "wwe-war-games-2026",
+      "confidence": 0.85,
+      "reason": "Wrestling PPV event, not a video game.",
+      "traffic": "+90%",
+      "sources": [
+        "rising:games"
       ]
     }
   },
